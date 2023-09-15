@@ -1,0 +1,56 @@
+train:
+
+Selective logging                  332
+Timber plantation                  288
+Small-scale maize plantation       231
+Small-scale oil palm plantation    193
+Mining                             168
+Rubber plantation                  150
+Oil palm plantation                109
+Wildfire                           109
+Small-scale other plantation        90
+Other large-scale plantations       88
+Hunting                             78
+Other                               62
+Grassland shrubland                 60
+Fruit plantation                    44
+Infrastructure                      37
+Name: label, dtype: int64
+
+val:
+
+Selective logging                  89
+Timber plantation                  77
+Small-scale maize plantation       56
+Small-scale oil palm plantation    46
+Mining                             41
+Rubber plantation                  38
+Oil palm plantation                34
+Small-scale other plantation       26
+Wildfire                           25
+Hunting                            23
+Other large-scale plantations      17
+Grassland shrubland                15
+Other                              12
+Infrastructure                      6
+Fruit plantation                    3
+Name: label, dtype: int64
+
+test:
+
+Selective logging                  150
+Timber plantation                  149
+Small-scale maize plantation       115
+Small-scale oil palm plantation     63
+Mining                              63
+Oil palm plantation                 54
+Rubber plantation                   41
+Small-scale other plantation        38
+Hunting                             38
+Wildfire                            36
+Other                               26
+Other large-scale plantations       25
+Grassland shrubland                 25
+Fruit plantation                    16
+Infrastructure                      16
+Name: label, dtype: int64

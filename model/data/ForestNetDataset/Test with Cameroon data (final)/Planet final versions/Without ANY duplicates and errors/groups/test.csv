@@ -1,0 +1,856 @@
+label,merged_label,latitude,longitude,year,example_path
+Timber plantation,Plantation,1.951125,15.836375,2017,my_examples_planet_final/15.836375000000002_1.9511250000000004
+Timber plantation,Plantation,1.9244375,15.8746875,2017,my_examples_planet_final/15.874687500000002_1.9244375000000005
+Oil palm plantation,Plantation,4.542375,9.540625,2020,my_examples_planet_final/9.540625_4.542375
+Timber plantation,Plantation,1.9213125,15.8738125,2017,my_examples_planet_final/15.873812500000001_1.9213124999999995
+Oil palm plantation,Plantation,3.728875,10.57775,2016,my_examples_planet_final/10.577749999999998_3.728875
+Rubber plantation,Plantation,3.199375,12.405375,2016,my_examples_planet_final/12.405375_3.199375
+Oil palm plantation,Plantation,5.168625,9.332875,2016,my_examples_planet_final/9.332875_5.1686250000000005
+Timber plantation,Plantation,1.771291667,15.98779167,2016,my_examples_planet_final/15.987791666666668_1.771291666666666
+Timber plantation,Plantation,1.963875,15.857125,2017,my_examples_planet_final/15.857124999999998_1.9638749999999998
+Oil palm plantation,Plantation,4.227903846,9.030086538,2017,my_examples_planet_final/9.030086538461536_4.227903846153845
+Timber plantation,Plantation,1.770125,16.007875,2017,my_examples_planet_final/16.007875_1.7701249999999995
+Oil palm plantation,Plantation,3.715754032,10.64581855,2017,my_examples_planet_final/10.645818548387096_3.715754032258064
+Oil palm plantation,Plantation,3.657625,10.051875,2015,my_examples_planet_final/10.051874999999999_3.6576249999999995
+Timber plantation,Plantation,1.767375,15.994875,2016,my_examples_planet_final/15.994875_1.7673750000000004
+Timber plantation,Plantation,1.915875,15.862375,2017,my_examples_planet_final/15.862374999999998_1.9158749999999998
+Timber plantation,Plantation,1.92775,15.857,2017,my_examples_planet_final/15.857000000000003_1.9277499999999994
+Oil palm plantation,Plantation,4.90775,8.830375,2017,my_examples_planet_final/8.830375_4.90775
+Timber plantation,Plantation,1.921458333,15.89220833,2017,my_examples_planet_final/15.892208333333334_1.9214583333333337
+Fruit plantation,Plantation,4.847319444,9.790763889,2017,my_examples_planet_final/9.79076388888889_4.847319444444445
+Rubber plantation,Plantation,2.731875,9.997125,2020,my_examples_planet_final/9.997125_2.731875
+Timber plantation,Plantation,2.030291667,15.83445833,2018,my_examples_planet_final/15.834458333333334_2.030291666666667
+Fruit plantation,Plantation,4.739375,9.65925,2016,my_examples_planet_final/9.65925_4.739375
+Timber plantation,Plantation,2.081625,16.060125,2018,my_examples_planet_final/16.060125_2.081625
+Timber plantation,Plantation,1.85375,15.84575,2020,my_examples_planet_final/15.84575_1.8537499999999998
+Rubber plantation,Plantation,3.038458333,9.993958333,2020,my_examples_planet_final/9.993958333333333_3.038458333333333
+Oil palm plantation,Plantation,4.563375,9.056875,2019,my_examples_planet_final/9.056875000000002_4.563375
+Timber plantation,Plantation,1.791375,15.882625,2016,my_examples_planet_final/15.882625_1.7913749999999997
+Timber plantation,Plantation,1.851375,15.854875,2016,my_examples_planet_final/15.854874999999998_1.8513750000000002
+Rubber plantation,Plantation,4.010125,9.290125,2015,my_examples_planet_final/9.290125_4.0101249999999995
+Rubber plantation,Plantation,4.387125,9.581,2017,my_examples_planet_final/9.581_4.387125
+Rubber plantation,Plantation,3.468696429,10.09355357,2020,my_examples_planet_final/10.093553571428572_3.468696428571427
+Timber plantation,Plantation,1.939375,15.816125,2016,my_examples_planet_final/15.816125000000003_1.939375
+Other large-scale plantations,Plantation,3.866875,9.966125,2017,my_examples_planet_final/9.966125000000002_3.8668750000000003
+Timber plantation,Plantation,1.810625,16.019125,2016,my_examples_planet_final/16.019125_1.810625
+Timber plantation,Plantation,1.768125,16.006125,2020,my_examples_planet_final/16.006125_1.7681250000000002
+Oil palm plantation,Plantation,5.322022727,9.469863636,2016,my_examples_planet_final/9.469863636363636_5.322022727272727
+Other large-scale plantations,Plantation,6.384875,10.807375,2016,my_examples_planet_final/10.807374999999999_6.384875
+Other large-scale plantations,Plantation,3.635375,10.067875,2019,my_examples_planet_final/10.067875_3.635375
+Oil palm plantation,Plantation,4.884375,8.712375,2019,my_examples_planet_final/8.712375000000002_4.884375
+Oil palm plantation,Plantation,3.606625,10.669,2015,my_examples_planet_final/10.668999999999999_3.606625
+Timber plantation,Plantation,1.90585119,15.92725595,2017,my_examples_planet_final/15.92725595238095_1.9058511904761903
+Oil palm plantation,Plantation,4.051833333,9.193208333,2015,my_examples_planet_final/9.193208333333333_4.051833333333333
+Rubber plantation,Plantation,3.18075,12.4275,2015,my_examples_planet_final/12.4275_3.1807499999999997
+Other large-scale plantations,Plantation,4.0905,9.20875,2015,my_examples_planet_final/9.20875_4.0905000000000005
+Timber plantation,Plantation,1.793125,15.914125,2018,my_examples_planet_final/15.914125_1.7931249999999996
+Rubber plantation,Plantation,4.4213125,9.3885625,2015,my_examples_planet_final/9.3885625_4.4213125
+Oil palm plantation,Plantation,3.714125,10.621625,2020,my_examples_planet_final/10.621625000000002_3.7141249999999997
+Timber plantation,Plantation,1.962125,15.863375,2017,my_examples_planet_final/15.863375_1.9621249999999992
+Fruit plantation,Plantation,4.726125,9.651625,2015,my_examples_planet_final/9.651625000000001_4.726124999999999
+Timber plantation,Plantation,1.770125,16.006625,2016,my_examples_planet_final/16.006625_1.7701249999999993
+Timber plantation,Plantation,2.111291667,16.00629167,2017,my_examples_planet_final/16.006291666666666_2.111291666666667
+Timber plantation,Plantation,1.79340625,15.88446875,2017,my_examples_planet_final/15.884468750000002_1.7934062499999996
+Timber plantation,Plantation,1.959625,15.8255,2016,my_examples_planet_final/15.8255_1.9596249999999997
+Rubber plantation,Plantation,3.0608,12.4068,2017,my_examples_planet_final/12.406799999999997_3.0607999999999986
+Fruit plantation,Plantation,4.85375,9.79175,2016,my_examples_planet_final/9.79175_4.85375
+Other large-scale plantations,Plantation,5.587,10.112625,2015,my_examples_planet_final/10.112625_5.587000000000001
+Timber plantation,Plantation,1.911875,15.912375,2017,my_examples_planet_final/15.912374999999999_1.9118749999999993
+Timber plantation,Plantation,1.929875,15.856625,2017,my_examples_planet_final/15.856624999999998_1.929875
+Oil palm plantation,Plantation,3.997625,10.485875,2017,my_examples_planet_final/10.485875_3.9976249999999998
+Timber plantation,Plantation,1.928625,15.865125,2017,my_examples_planet_final/15.865125000000003_1.9286249999999991
+Oil palm plantation,Plantation,4.115013889,8.991847222,2019,my_examples_planet_final/8.991847222222223_4.115013888888888
+Fruit plantation,Plantation,4.846875,9.79375,2017,my_examples_planet_final/9.79375_4.846875
+Timber plantation,Plantation,1.958958333,15.85420833,2017,my_examples_planet_final/15.854208333333334_1.9589583333333334
+Timber plantation,Plantation,1.939375,15.812875,2017,my_examples_planet_final/15.812875_1.9393749999999998
+Oil palm plantation,Plantation,5.321980882,9.472798529,2017,my_examples_planet_final/9.47279852941177_5.321980882352945
+Rubber plantation,Plantation,4.010625,9.249625,2020,my_examples_planet_final/9.249625000000002_4.010625
+Timber plantation,Plantation,1.955125,15.85075,2017,my_examples_planet_final/15.85075_1.955125
+Timber plantation,Plantation,1.94875,15.835375,2017,my_examples_planet_final/15.835375_1.9487499999999995
+Timber plantation,Plantation,1.908,15.865125,2017,my_examples_planet_final/15.865125_1.9080000000000004
+Timber plantation,Plantation,1.920110294,15.87268382,2017,my_examples_planet_final/15.872683823529412_1.920110294117647
+Timber plantation,Plantation,2.031375,15.831375,2020,my_examples_planet_final/15.831374999999998_2.0313749999999993
+Timber plantation,Plantation,1.967083333,15.88695833,2017,my_examples_planet_final/15.886958333333334_1.9670833333333337
+Timber plantation,Plantation,1.957875,15.858125,2017,my_examples_planet_final/15.858125_1.9578749999999996
+Timber plantation,Plantation,1.933958333,15.88804167,2017,my_examples_planet_final/15.888041666666664_1.9339583333333337
+Timber plantation,Plantation,1.915625,15.85575,2017,my_examples_planet_final/15.855749999999999_1.9156249999999992
+Timber plantation,Plantation,2.022625,15.837375,2015,my_examples_planet_final/15.837375_2.022625
+Timber plantation,Plantation,1.768902778,16.00451389,2017,my_examples_planet_final/16.00451388888889_1.7689027777777768
+Rubber plantation,Plantation,4.436625,9.400375,2016,my_examples_planet_final/9.400375_4.436624999999999
+Timber plantation,Plantation,1.911375,15.914875,2017,my_examples_planet_final/15.914874999999997_1.9113749999999998
+Oil palm plantation,Plantation,3.650791667,10.67104167,2019,my_examples_planet_final/10.671041666666664_3.650791666666666
+Timber plantation,Plantation,1.954875,15.8445,2017,my_examples_planet_final/15.844499999999998_1.9548750000000004
+Timber plantation,Plantation,1.85425,15.8465,2016,my_examples_planet_final/15.8465_1.8542499999999993
+Other large-scale plantations,Plantation,4.136569444,9.254597222,2019,my_examples_planet_final/9.254597222222221_4.136569444444444
+Timber plantation,Plantation,1.91625,15.877,2017,my_examples_planet_final/15.877_1.9162499999999998
+Timber plantation,Plantation,2.0311875,15.8349375,2019,my_examples_planet_final/15.834937499999999_2.0311874999999993
+Rubber plantation,Plantation,2.899625,12.562875,2020,my_examples_planet_final/12.562875_2.8996250000000003
+Other large-scale plantations,Plantation,6.383125,10.815875,2019,my_examples_planet_final/10.815875_6.383125000000001
+Timber plantation,Plantation,1.962375,15.85184722,2017,my_examples_planet_final/15.851847222222217_1.962374999999999
+Other large-scale plantations,Plantation,4.698875,14.2221875,2015,my_examples_planet_final/14.222187500000002_4.698875
+Oil palm plantation,Plantation,3.13575,12.275625,2019,my_examples_planet_final/12.275625_3.135749999999999
+Timber plantation,Plantation,1.934875,15.877125,2017,my_examples_planet_final/15.877125000000001_1.9348750000000001
+Timber plantation,Plantation,1.853625,15.851525,2020,my_examples_planet_final/15.851524999999999_1.8536249999999992
+Timber plantation,Plantation,2.033875,15.856625,2018,my_examples_planet_final/15.856625_2.033875
+Rubber plantation,Plantation,3.236875,12.401375,2016,my_examples_planet_final/12.401375000000002_3.2368750000000004
+Rubber plantation,Plantation,4.500291667,8.965041667,2020,my_examples_planet_final/8.965041666666668_4.500291666666667
+Oil palm plantation,Plantation,4.461125,8.952375,2017,my_examples_planet_final/8.952375000000002_4.461125
+Timber plantation,Plantation,1.916875,15.875125,2017,my_examples_planet_final/15.875124999999997_1.9168750000000003
+Oil palm plantation,Plantation,4.99025,8.906125,2017,my_examples_planet_final/8.906125_4.99025
+Timber plantation,Plantation,1.9155,15.879125,2017,my_examples_planet_final/15.879125000000002_1.9155
+Timber plantation,Plantation,1.791125,15.882125,2017,my_examples_planet_final/15.882125_1.791125
+Other large-scale plantations,Plantation,3.863585294,9.955952941,2016,my_examples_planet_final/9.95595294117647_3.863585294117646
+Timber plantation,Plantation,1.912125,15.861,2017,my_examples_planet_final/15.861_1.9121249999999996
+Rubber plantation,Plantation,4.012875,9.251375,2016,my_examples_planet_final/9.251375_4.012875
+Other large-scale plantations,Plantation,4.137125,9.252875,2019,my_examples_planet_final/9.252875000000001_4.137125
+Oil palm plantation,Plantation,5.155214286,9.322625,2015,my_examples_planet_final/9.322625_5.155214285714286
+Oil palm plantation,Plantation,4.136875,9.324375,2016,my_examples_planet_final/9.324375_4.136875
+Timber plantation,Plantation,1.928041667,15.85954167,2017,my_examples_planet_final/15.859541666666667_1.9280416666666667
+Timber plantation,Plantation,1.768375,16.006125,2016,my_examples_planet_final/16.006125_1.7683749999999998
+Timber plantation,Plantation,1.855075,15.854275,2016,my_examples_planet_final/15.854275000000001_1.8550749999999991
+Timber plantation,Plantation,1.834875,15.890875,2018,my_examples_planet_final/15.890875_1.8348749999999991
+Timber plantation,Plantation,1.932513889,15.88468056,2017,my_examples_planet_final/15.884680555555555_1.9325138888888886
+Timber plantation,Plantation,1.951125,15.835875,2017,my_examples_planet_final/15.835875000000001_1.951125
+Timber plantation,Plantation,1.954125,15.8480625,2017,my_examples_planet_final/15.848062499999996_1.954125
+Timber plantation,Plantation,1.854375,15.852125,2017,my_examples_planet_final/15.852125000000001_1.8543749999999999
+Timber plantation,Plantation,1.7706875,15.98725,2020,my_examples_planet_final/15.987249999999998_1.7706874999999995
+Rubber plantation,Plantation,3.075875,12.420625,2018,my_examples_planet_final/12.420625000000001_3.075875
+Other large-scale plantations,Plantation,3.89884375,9.8060625,2017,my_examples_planet_final/9.8060625_3.8988437499999993
+Oil palm plantation,Plantation,4.45775,8.964125,2015,my_examples_planet_final/8.964125_4.45775
+Timber plantation,Plantation,1.91875,15.861125,2017,my_examples_planet_final/15.861125000000005_1.9187500000000004
+Fruit plantation,Plantation,4.730541667,9.771791667,2015,my_examples_planet_final/9.771791666666667_4.730541666666667
+Timber plantation,Plantation,2.03596875,15.86171875,2019,my_examples_planet_final/15.861718749999996_2.03596875
+Timber plantation,Plantation,1.90025,15.87225,2017,my_examples_planet_final/15.872250000000001_1.9002499999999998
+Timber plantation,Plantation,1.915375,15.880875,2017,my_examples_planet_final/15.880875000000001_1.9153749999999998
+Other large-scale plantations,Plantation,4.106425,9.225775,2020,my_examples_planet_final/9.225775_4.106425
+Timber plantation,Plantation,1.809125,15.892375,2020,my_examples_planet_final/15.892375000000001_1.8091249999999999
+Timber plantation,Plantation,1.914663462,15.88724038,2017,my_examples_planet_final/15.887240384615382_1.9146634615384612
+Timber plantation,Plantation,1.770125,15.997125,2016,my_examples_planet_final/15.997124999999999_1.770124999999999
+Other large-scale plantations,Plantation,3.858625,9.988125,2019,my_examples_planet_final/9.988125000000002_3.858625
+Rubber plantation,Plantation,3.237125,12.407125,2016,my_examples_planet_final/12.407125_3.237125
+Timber plantation,Plantation,1.9356875,15.8849375,2017,my_examples_planet_final/15.884937500000001_1.9356875
+Timber plantation,Plantation,2.082125,16.061375,2018,my_examples_planet_final/16.061375_2.082125
+Timber plantation,Plantation,1.959375,15.858375,2017,my_examples_planet_final/15.858375_1.9593749999999996
+Rubber plantation,Plantation,3.179875,12.374875,2015,my_examples_planet_final/12.374875000000001_3.179875
+Timber plantation,Plantation,1.913875,15.87525,2017,my_examples_planet_final/15.87525_1.913875
+Timber plantation,Plantation,1.798916667,15.89145833,2019,my_examples_planet_final/15.89145833333333_1.7989166666666667
+Timber plantation,Plantation,2.108458333,16.01472601,2018,my_examples_planet_final/16.014726010101008_2.108458333333333
+Oil palm plantation,Plantation,4.101275,9.226675,2019,my_examples_planet_final/9.226675000000002_4.101274999999999
+Rubber plantation,Plantation,3.238375,12.413375,2018,my_examples_planet_final/12.413375_3.238375
+Timber plantation,Plantation,1.935884434,15.8866816,2017,my_examples_planet_final/15.886681603773587_1.935884433962265
+Timber plantation,Plantation,1.9125,15.874875,2017,my_examples_planet_final/15.874875_1.9124999999999996
+Timber plantation,Plantation,1.936791667,15.81695833,2016,my_examples_planet_final/15.816958333333336_1.9367916666666667
+Timber plantation,Plantation,2.03103125,15.8315625,2018,my_examples_planet_final/15.831562500000004_2.0310312500000003
+Timber plantation,Plantation,1.768125,16.002625,2017,my_examples_planet_final/16.002625_1.7681250000000004
+Timber plantation,Plantation,1.955125,15.8455,2017,my_examples_planet_final/15.845499999999998_1.955125
+Oil palm plantation,Plantation,4.109625,9.220625,2019,my_examples_planet_final/9.220625_4.109624999999999
+Timber plantation,Plantation,1.8530625,15.84202083,2019,my_examples_planet_final/15.842020833333331_1.8530624999999992
+Rubber plantation,Plantation,4.43675,9.39975,2016,my_examples_planet_final/9.399750000000001_4.436749999999999
+Timber plantation,Plantation,1.924375,15.879625,2017,my_examples_planet_final/15.879625_1.9243750000000004
+Oil palm plantation,Plantation,4.538875,9.098,2015,my_examples_planet_final/9.097999999999999_4.538875
+Timber plantation,Plantation,1.766875,16.001375,2020,my_examples_planet_final/16.001375000000003_1.766875
+Timber plantation,Plantation,1.915200581,15.87493314,2017,my_examples_planet_final/15.874933139534887_1.9152005813953483
+Timber plantation,Plantation,1.911375,15.874125,2017,my_examples_planet_final/15.874125000000003_1.9113749999999998
+Timber plantation,Plantation,1.79725,15.888625,2017,my_examples_planet_final/15.888625000000001_1.7972499999999998
+Timber plantation,Plantation,1.77175,15.985625,2020,my_examples_planet_final/15.985625000000002_1.77175
+Timber plantation,Plantation,1.91275,15.8785,2017,my_examples_planet_final/15.878500000000003_1.91275
+Timber plantation,Plantation,1.950875,15.834625,2017,my_examples_planet_final/15.834624999999999_1.950875
+Rubber plantation,Plantation,3.974125,9.234875,2016,my_examples_planet_final/9.234875_3.974125
+Rubber plantation,Plantation,3.238375,12.415875,2017,my_examples_planet_final/12.415875_3.238375
+Timber plantation,Plantation,2.027625,15.861375,2016,my_examples_planet_final/15.861374999999999_2.027625
+Timber plantation,Plantation,1.86225,15.875375,2018,my_examples_planet_final/15.875374999999998_1.8622500000000004
+Timber plantation,Plantation,1.769125,16.007125,2020,my_examples_planet_final/16.007125000000002_1.7691249999999996
+Timber plantation,Plantation,1.94925,15.832875,2017,my_examples_planet_final/15.832875000000003_1.9492500000000001
+Oil palm plantation,Plantation,2.976553571,10.072125,2020,my_examples_planet_final/10.072124999999998_2.9765535714285716
+Timber plantation,Plantation,1.851625,15.8355,2017,my_examples_planet_final/15.8355_1.8516249999999994
+Fruit plantation,Plantation,4.721375,9.715375,2019,my_examples_planet_final/9.715375000000002_4.721374999999999
+Oil palm plantation,Plantation,4.191763889,9.340430556,2020,my_examples_planet_final/9.340430555555555_4.191763888888888
+Rubber plantation,Plantation,3.468125,10.099625,2020,my_examples_planet_final/10.099625000000001_3.4681250000000006
+Oil palm plantation,Plantation,5.155125,9.435375,2017,my_examples_planet_final/9.435375_5.155125
+Timber plantation,Plantation,1.792375,15.912875,2019,my_examples_planet_final/15.912875_1.7923749999999996
+Timber plantation,Plantation,1.79675,15.91545833,2016,my_examples_planet_final/15.915458333333335_1.7967500000000003
+Rubber plantation,Plantation,4.013125,9.270375,2017,my_examples_planet_final/9.270375000000001_4.013125000000001
+Timber plantation,Plantation,1.771,15.98870833,2020,my_examples_planet_final/15.988708333333337_1.7710000000000001
+Other large-scale plantations,Plantation,6.084541667,10.381875,2019,my_examples_planet_final/10.381875000000003_6.084541666666666
+Rubber plantation,Plantation,4.40875,9.3735,2017,my_examples_planet_final/9.3735_4.40875
+Timber plantation,Plantation,1.857675,15.85563333,2016,my_examples_planet_final/15.85563333333333_1.857675
+Other large-scale plantations,Plantation,6.082625,10.372875,2015,my_examples_planet_final/10.372875000000002_6.082624999999999
+Timber plantation,Plantation,1.807375,15.893625,2018,my_examples_planet_final/15.893624999999998_1.8073749999999993
+Timber plantation,Plantation,1.782875,15.930125,2017,my_examples_planet_final/15.930125000000002_1.7828749999999998
+Fruit plantation,Plantation,4.721375,9.713125,2020,my_examples_planet_final/9.713125000000002_4.721374999999999
+Timber plantation,Plantation,1.844375,15.84480357,2020,my_examples_planet_final/15.84480357142857_1.8443749999999997
+Timber plantation,Plantation,1.901041667,15.86904167,2017,my_examples_planet_final/15.869041666666662_1.901041666666666
+Fruit plantation,Plantation,4.729125,9.772375,2020,my_examples_planet_final/9.772375_4.729125000000001
+Fruit plantation,Plantation,4.724625,9.649625,2017,my_examples_planet_final/9.649625_4.724625
+Timber plantation,Plantation,1.768625,16.005125,2017,my_examples_planet_final/16.005125_1.768625
+Oil palm plantation,Plantation,5.594401316,10.12292763,2020,my_examples_planet_final/10.122927631578946_5.594401315789473
+Oil palm plantation,Plantation,5.157491667,9.263591667,2016,my_examples_planet_final/9.263591666666665_5.157491666666667
+Timber plantation,Plantation,2.111625,16.008,2018,my_examples_planet_final/16.008_2.1116249999999996
+Oil palm plantation,Plantation,3.654125,10.653875,2016,my_examples_planet_final/10.653875_3.6541250000000005
+Rubber plantation,Plantation,3.968375,9.2325,2017,my_examples_planet_final/9.2325_3.968375
+Rubber plantation,Plantation,4.013125,9.256875,2016,my_examples_planet_final/9.256875_4.013125000000001
+Timber plantation,Plantation,1.914625,15.890375,2017,my_examples_planet_final/15.890374999999999_1.914625
+Fruit plantation,Plantation,3.492325,10.078525,2020,my_examples_planet_final/10.078524999999999_3.4923249999999992
+Timber plantation,Plantation,1.93325,15.886125,2017,my_examples_planet_final/15.886124999999998_1.93325
+Oil palm plantation,Plantation,4.560625,9.026375,2020,my_examples_planet_final/9.026375000000002_4.560625
+Oil palm plantation,Plantation,3.628,10.66625,2016,my_examples_planet_final/10.666250000000002_3.6279999999999997
+Timber plantation,Plantation,1.924875,15.878375,2017,my_examples_planet_final/15.878375000000002_1.9248750000000001
+Oil palm plantation,Plantation,4.450098684,8.946888158,2020,my_examples_planet_final/8.946888157894737_4.450098684210525
+Rubber plantation,Plantation,3.074875,12.426875,2019,my_examples_planet_final/12.426874999999999_3.074875
+Timber plantation,Plantation,1.934056818,15.82373864,2017,my_examples_planet_final/15.823738636363638_1.9340568181818185
+Fruit plantation,Plantation,4.740125,9.658875,2016,my_examples_planet_final/9.658875000000002_4.740124999999999
+Timber plantation,Plantation,2.035375,15.853875,2018,my_examples_planet_final/15.853874999999997_2.0353749999999997
+Timber plantation,Plantation,1.957413462,15.85406731,2017,my_examples_planet_final/15.85406730769231_1.957413461538461
+Oil palm plantation,Plantation,5.083535714,8.979410714,2020,my_examples_planet_final/8.979410714285716_5.083535714285715
+Fruit plantation,Plantation,4.729375,9.667375,2015,my_examples_planet_final/9.667375_4.729374999999999
+Timber plantation,Plantation,1.950458333,15.83704167,2017,my_examples_planet_final/15.83704166666667_1.9504583333333334
+Timber plantation,Plantation,1.7985,15.891125,2018,my_examples_planet_final/15.891124999999999_1.7985
+Other large-scale plantations,Plantation,4.098125,9.219875,2015,my_examples_planet_final/9.219875_4.098125
+Other large-scale plantations,Plantation,6.109875,10.394625,2015,my_examples_planet_final/10.394625_6.109874999999999
+Oil palm plantation,Plantation,4.149625,8.9955,2015,my_examples_planet_final/8.9955_4.149625
+Oil palm plantation,Plantation,4.51325,8.987625,2017,my_examples_planet_final/8.987625_4.513249999999999
+Rubber plantation,Plantation,4.596125,12.226375,2020,my_examples_planet_final/12.226375_4.596125
+Rubber plantation,Plantation,3.225125,12.41874038,2015,my_examples_planet_final/12.418740384615383_3.2251250000000002
+Oil palm plantation,Plantation,4.895125,8.730875,2020,my_examples_planet_final/8.730875000000001_4.895124999999999
+Timber plantation,Plantation,1.939125,15.87675,2017,my_examples_planet_final/15.87675_1.939125
+Oil palm plantation,Plantation,4.095125,9.210875,2016,my_examples_planet_final/9.210875000000001_4.095124999999999
+Oil palm plantation,Plantation,4.4290625,9.405125,2020,my_examples_planet_final/9.405125_4.4290625
+Rubber plantation,Plantation,4.418625,9.401303571,2019,my_examples_planet_final/9.401303571428572_4.418625
+Timber plantation,Plantation,1.931625,15.888125,2017,my_examples_planet_final/15.888124999999997_1.9316249999999993
+Timber plantation,Plantation,2.0805,16.059375,2018,my_examples_planet_final/16.059375_2.0805
+Other large-scale plantations,Plantation,4.1905,9.336,2015,my_examples_planet_final/9.336000000000002_4.190500000000001
+Oil palm plantation,Plantation,5.157625,9.281875,2019,my_examples_planet_final/9.281875_5.157624999999999
+Other large-scale plantations,Plantation,4.689458333,14.19529167,2019,my_examples_planet_final/14.195291666666668_4.689458333333334
+Timber plantation,Plantation,1.876875,15.973875,2017,my_examples_planet_final/15.973874999999998_1.876875
+Timber plantation,Plantation,1.929,15.859875,2017,my_examples_planet_final/15.859874999999999_1.9289999999999994
+Timber plantation,Plantation,1.905125,15.931875,2017,my_examples_planet_final/15.931875000000002_1.9051250000000002
+Timber plantation,Plantation,2.079,15.77875,2020,my_examples_planet_final/15.778750000000002_2.0789999999999997
+Fruit plantation,Plantation,4.721125,9.715375,2020,my_examples_planet_final/9.715375000000002_4.721125
+Other large-scale plantations,Plantation,6.085,10.381625,2015,my_examples_planet_final/10.381625_6.085
+Timber plantation,Plantation,1.937625,15.887,2017,my_examples_planet_final/15.887_1.937625
+Other large-scale plantations,Plantation,4.1343125,9.2615625,2015,my_examples_planet_final/9.261562500000002_4.134312500000001
+Oil palm plantation,Plantation,3.791208333,9.884708333,2016,my_examples_planet_final/9.884708333333336_3.7912083333333335
+Rubber plantation,Plantation,4.421854167,9.3899375,2019,my_examples_planet_final/9.3899375_4.421854166666666
+Timber plantation,Plantation,1.781513889,15.94334722,2017,my_examples_planet_final/15.943347222222227_1.78151388888889
+Timber plantation,Plantation,1.807875,15.893125,2018,my_examples_planet_final/15.893125000000001_1.8078750000000003
+Timber plantation,Plantation,1.9415,15.833125,2017,my_examples_planet_final/15.833124999999999_1.9414999999999998
+Timber plantation,Plantation,1.808105769,15.89286058,2017,my_examples_planet_final/15.89286057692308_1.8081057692307692
+Oil palm plantation,Plantation,3.709875,10.634875,2019,my_examples_planet_final/10.634875_3.7098750000000003
+Timber plantation,Plantation,1.843625,15.845625,2017,my_examples_planet_final/15.845624999999998_1.843625
+Timber plantation,Plantation,1.851958333,15.85504167,2016,my_examples_planet_final/15.855041666666665_1.8519583333333325
+Oil palm plantation,Plantation,4.664458333,9.070236111,2016,my_examples_planet_final/9.07023611111111_4.664458333333333
+Other large-scale plantations,Plantation,4.603375,12.233375,2015,my_examples_planet_final/12.233375_4.603375
+Rubber plantation,Plantation,4.392625,9.574125,2019,my_examples_planet_final/9.574125_4.392625000000001
+Oil palm plantation,Plantation,5.162875,9.426125,2019,my_examples_planet_final/9.426125_5.162874999999999
+Timber plantation,Plantation,1.767375,16.006375,2020,my_examples_planet_final/16.006375_1.7673750000000004
+Timber plantation,Plantation,1.906625,15.921375,2017,my_examples_planet_final/15.921375_1.9066250000000002
+Timber plantation,Plantation,1.854875,15.856125,2016,my_examples_planet_final/15.856125_1.8548749999999998
+Timber plantation,Plantation,2.033339286,15.856625,2019,my_examples_planet_final/15.856625_2.0333392857142853
+Rubber plantation,Plantation,3.2259,12.415475,2015,my_examples_planet_final/12.415474999999997_3.2258999999999984
+Oil palm plantation,Plantation,5.171639368,9.413102011,2015,my_examples_planet_final/9.413102011494253_5.171639367816088
+Other large-scale plantations,Plantation,6.385083333,10.82995833,2015,my_examples_planet_final/10.829958333333332_6.385083333333335
+Oil palm plantation,Plantation,4.150193182,8.995602273,2017,my_examples_planet_final/8.995602272727274_4.150193181818182
+Rubber plantation,Plantation,3.072535714,12.41801786,2015,my_examples_planet_final/12.418017857142855_3.0725357142857144
+Timber plantation,Plantation,2.033375,15.8570625,2018,my_examples_planet_final/15.857062499999998_2.0333749999999986
+Oil palm plantation,Plantation,5.136125,9.036625,2016,my_examples_planet_final/9.036624999999999_5.136125000000001
+Oil palm plantation,Plantation,4.532696429,9.111875,2020,my_examples_planet_final/9.111875000000003_4.532696428571429
+Rubber plantation,Plantation,4.421625,9.388375,2019,my_examples_planet_final/9.388375_4.421625000000001
+Other large-scale plantations,Plantation,3.627625,10.088375,2017,my_examples_planet_final/10.088375000000001_3.6276249999999997
+Timber plantation,Plantation,1.936025,15.875075,2017,my_examples_planet_final/15.875075_1.9360249999999997
+Rubber plantation,Plantation,3.976229167,9.22815625,2019,my_examples_planet_final/9.228156249999998_3.9762291666666663
+Oil palm plantation,Plantation,2.903816176,9.945522059,2015,my_examples_planet_final/9.945522058823533_2.903816176470587
+Timber plantation,Plantation,2.107625,16.010375,2020,my_examples_planet_final/16.010375_2.107625
+Timber plantation,Plantation,1.79965,15.8934,2020,my_examples_planet_final/15.893399999999998_1.7996499999999997
+Rubber plantation,Plantation,2.728625,9.990125,2018,my_examples_planet_final/9.990125_2.728625
+Timber plantation,Plantation,1.780875,15.944,2017,my_examples_planet_final/15.944_1.7808749999999993
+Timber plantation,Plantation,1.823625,15.870875,2017,my_examples_planet_final/15.870875_1.8236249999999996
+Oil palm plantation,Plantation,3.628625,10.665575,2020,my_examples_planet_final/10.665575_3.628624999999999
+Oil palm plantation,Plantation,4.992,8.905125,2015,my_examples_planet_final/8.905124999999998_4.992
+Timber plantation,Plantation,1.854375,15.846125,2017,my_examples_planet_final/15.846124999999999_1.854375
+Rubber plantation,Plantation,4.00915,9.290525,2015,my_examples_planet_final/9.290525000000002_4.009150000000001
+Oil palm plantation,Plantation,4.05375,9.199125,2016,my_examples_planet_final/9.199125_4.053750000000001
+Rubber plantation,Plantation,2.7275,9.989625,2020,my_examples_planet_final/9.989625_2.7274999999999996
+Timber plantation,Plantation,1.911625,15.913625,2017,my_examples_planet_final/15.913625_1.911625
+Timber plantation,Plantation,2.064575,15.894725,2019,my_examples_planet_final/15.894724999999998_2.064574999999999
+Timber plantation,Plantation,1.93525,15.87675,2017,my_examples_planet_final/15.87675_1.9352499999999997
+Timber plantation,Plantation,1.839325,15.866275,2017,my_examples_planet_final/15.866274999999998_1.8393249999999999
+Timber plantation,Plantation,1.809291667,15.89354167,2020,my_examples_planet_final/15.893541666666668_1.809291666666666
+Timber plantation,Plantation,1.903041667,15.86945833,2017,my_examples_planet_final/15.869458333333334_1.9030416666666663
+Timber plantation,Plantation,1.794125,15.91275,2016,my_examples_planet_final/15.91275_1.7941250000000004
+Fruit plantation,Plantation,4.852625,9.78525,2016,my_examples_planet_final/9.785250000000001_4.852625
+Fruit plantation,Plantation,4.849825,9.783275,2015,my_examples_planet_final/9.783275000000001_4.849825
+Timber plantation,Plantation,1.839125,15.83925,2020,my_examples_planet_final/15.839250000000002_1.8391250000000003
+Other large-scale plantations,Plantation,3.891625,9.834625,2020,my_examples_planet_final/9.834625_3.891625
+Rubber plantation,Plantation,3.474507813,10.07234375,2020,my_examples_planet_final/10.072343749999998_3.4745078125000006
+Timber plantation,Plantation,2.033875,15.857375,2018,my_examples_planet_final/15.857374999999998_2.033875
+Timber plantation,Plantation,1.840958333,16.01704167,2016,my_examples_planet_final/16.017041666666664_1.8409583333333335
+Grassland shrubland,Grassland shrubland,5.987208333,9.126916667,2020,my_examples_planet_final/9.126916666666668_5.987208333333333
+Grassland shrubland,Grassland shrubland,5.86735146,9.403767185,2020,my_examples_planet_final/9.403767184557443_5.867351459510359
+Grassland shrubland,Grassland shrubland,5.853708333,9.397416667,2020,my_examples_planet_final/9.397416666666668_5.8537083333333335
+Grassland shrubland,Grassland shrubland,5.980958333,9.023208333,2020,my_examples_planet_final/9.023208333333333_5.9809583333333345
+Grassland shrubland,Grassland shrubland,5.93396875,9.294114583,2020,my_examples_planet_final/9.294114583333336_5.933968750000002
+Grassland shrubland,Grassland shrubland,5.943291667,9.311458333,2020,my_examples_planet_final/9.311458333333336_5.943291666666668
+Grassland shrubland,Grassland shrubland,5.883833333,9.956833333,2020,my_examples_planet_final/9.956833333333332_5.883833333333333
+Grassland shrubland,Grassland shrubland,5.809041667,9.366041667,2020,my_examples_planet_final/9.366041666666668_5.809041666666667
+Grassland shrubland,Grassland shrubland,5.995025,9.788825,2020,my_examples_planet_final/9.788825_5.995025
+Grassland shrubland,Grassland shrubland,5.938767857,9.119946429,2020,my_examples_planet_final/9.119946428571426_5.938767857142857
+Grassland shrubland,Grassland shrubland,5.801708333,9.313125,2020,my_examples_planet_final/9.313125_5.801708333333333
+Grassland shrubland,Grassland shrubland,5.812625,9.652375,2020,my_examples_planet_final/9.652375_5.812625000000001
+Grassland shrubland,Grassland shrubland,5.838091667,9.397191667,2020,my_examples_planet_final/9.397191666666666_5.838091666666667
+Grassland shrubland,Grassland shrubland,5.844625,9.386625,2020,my_examples_planet_final/9.386624999999999_5.844625000000001
+Grassland shrubland,Grassland shrubland,5.865833333,9.403902778,2020,my_examples_planet_final/9.403902777777779_5.865833333333333
+Grassland shrubland,Grassland shrubland,5.979458333,9.433083333,2020,my_examples_planet_final/9.433083333333332_5.979458333333334
+Grassland shrubland,Grassland shrubland,5.980916667,9.023625,2020,my_examples_planet_final/9.023625_5.980916666666666
+Grassland shrubland,Grassland shrubland,5.994625,9.582509615,2020,my_examples_planet_final/9.582509615384616_5.994625000000001
+Grassland shrubland,Grassland shrubland,5.896189815,9.862407407,2020,my_examples_planet_final/9.862407407407408_5.896189814814815
+Grassland shrubland,Grassland shrubland,5.852053148,9.956970926,2020,my_examples_planet_final/9.956970925925933_5.852053148148149
+Grassland shrubland,Grassland shrubland,5.842808333,9.296201667,2020,my_examples_planet_final/9.296201666666665_5.842808333333334
+Grassland shrubland,Grassland shrubland,5.992558333,9.265408333,2020,my_examples_planet_final/9.26540833333333_5.992558333333333
+Grassland shrubland,Grassland shrubland,5.978410714,9.066184524,2020,my_examples_planet_final/9.066184523809525_5.978410714285714
+Grassland shrubland,Grassland shrubland,5.993425,9.235275,2020,my_examples_planet_final/9.235275000000001_5.993425
+Grassland shrubland,Grassland shrubland,5.887166667,9.2604375,2020,my_examples_planet_final/9.260437500000002_5.887166666666666
+Small-scale other plantation,Smallholder agriculture,5.466943883,10.83699243,2020,my_examples_planet_final/10.836992425511319_5.466943883201376
+Small-scale maize plantation,Smallholder agriculture,7.612460608,14.52950996,2020,my_examples_planet_final/14.529509956521798_7.612460608093536
+Small-scale other plantation,Smallholder agriculture,5.874852733,10.18738539,2020,my_examples_planet_final/10.187385390168824_5.874852733030243
+Small-scale oil palm plantation,Smallholder agriculture,3.969013744,10.2374501,2019,my_examples_planet_final/10.2374500989903_3.969013743813106
+Small-scale maize plantation,Smallholder agriculture,7.677878452,14.30870525,2020,my_examples_planet_final/14.308705249848872_7.677878452006671
+Small-scale maize plantation,Smallholder agriculture,7.643982578,14.54801682,2020,my_examples_planet_final/14.548016824838369_7.6439825779931185
+Small-scale maize plantation,Smallholder agriculture,7.44840215,13.76374778,2020,my_examples_planet_final/13.763747783385787_7.448402149502648
+Small-scale oil palm plantation,Smallholder agriculture,3.992510019,11.65758277,2019,my_examples_planet_final/11.657582774137579_3.9925100194196688
+Small-scale other plantation,Smallholder agriculture,5.576766523,10.7594616,2020,my_examples_planet_final/10.759461604305038_5.576766523193497
+Small-scale oil palm plantation,Smallholder agriculture,3.718967994,10.787875,2019,my_examples_planet_final/10.787875000000001_3.7189679944565435
+Small-scale oil palm plantation,Smallholder agriculture,3.96754509,10.23778993,2019,my_examples_planet_final/10.237789929716888_3.967545090081172
+Small-scale maize plantation,Smallholder agriculture,7.71312198,14.52209878,2020,my_examples_planet_final/14.522098783956816_7.7131219801195225
+Small-scale other plantation,Smallholder agriculture,5.648485574,10.08519298,2020,my_examples_planet_final/10.085192982557047_5.6484855742387055
+Small-scale maize plantation,Smallholder agriculture,7.647395392,14.53371256,2020,my_examples_planet_final/14.533712562675658_7.647395392136151
+Small-scale oil palm plantation,Smallholder agriculture,3.523954249,10.11328724,2019,my_examples_planet_final/10.113287236190853_3.5239542486636313
+Small-scale maize plantation,Smallholder agriculture,7.392061318,13.72008947,2020,my_examples_planet_final/13.720089472154529_7.392061317849758
+Small-scale maize plantation,Smallholder agriculture,7.715125,14.723375,2020,my_examples_planet_final/14.723375_7.715125000000001
+Small-scale oil palm plantation,Smallholder agriculture,3.64725014,10.12535081,2019,my_examples_planet_final/10.125350810235595_3.6472501395763213
+Small-scale maize plantation,Smallholder agriculture,7.651939351,13.73945343,2020,my_examples_planet_final/13.739453430521039_7.651939351190916
+Small-scale maize plantation,Smallholder agriculture,7.725690854,14.74772502,2020,my_examples_planet_final/14.74772501864743_7.725690854258928
+Small-scale maize plantation,Smallholder agriculture,7.715965055,13.52051754,2020,my_examples_planet_final/13.52051754284098_7.715965055361054
+Small-scale maize plantation,Smallholder agriculture,7.720370677,14.52766026,2020,my_examples_planet_final/14.527660258305557_7.720370677450603
+Small-scale maize plantation,Smallholder agriculture,7.39986277,13.03092897,2020,my_examples_planet_final/13.03092897447351_7.399862770019991
+Small-scale maize plantation,Smallholder agriculture,7.684582468,13.46507314,2020,my_examples_planet_final/13.465073142131946_7.6845824680472266
+Small-scale other plantation,Smallholder agriculture,5.616703892,10.06905213,2020,my_examples_planet_final/10.069052126845378_5.61670389247525
+Small-scale maize plantation,Smallholder agriculture,7.807355971,12.50059516,2020,my_examples_planet_final/12.500595161339833_7.807355970993413
+Small-scale maize plantation,Smallholder agriculture,7.676132758,14.24927382,2020,my_examples_planet_final/14.249273817450339_7.676132757603491
+Small-scale oil palm plantation,Smallholder agriculture,3.870330937,10.86758054,2019,my_examples_planet_final/10.86758053622464_3.8703309365465746
+Small-scale other plantation,Smallholder agriculture,5.60263985,10.0326325,2020,my_examples_planet_final/10.032632495618689_5.602639849531036
+Small-scale oil palm plantation,Smallholder agriculture,3.894277178,9.840002152,2019,my_examples_planet_final/9.840002151551912_3.894277178002875
+Small-scale oil palm plantation,Smallholder agriculture,3.613847219,10.69955477,2019,my_examples_planet_final/10.69955476985186_3.6138472190002964
+Small-scale maize plantation,Smallholder agriculture,7.760482497,13.57243417,2020,my_examples_planet_final/13.57243417328724_7.76048249658455
+Small-scale maize plantation,Smallholder agriculture,7.698516871,14.32752363,2020,my_examples_planet_final/14.327523632487427_7.698516870536854
+Small-scale maize plantation,Smallholder agriculture,7.733625,13.945375,2020,my_examples_planet_final/13.945375_7.733624999999999
+Small-scale maize plantation,Smallholder agriculture,7.374581738,12.99875807,2020,my_examples_planet_final/12.998758067180278_7.374581738479535
+Small-scale oil palm plantation,Smallholder agriculture,4.206375,9.863925,2019,my_examples_planet_final/9.863925000000002_4.2063749999999995
+Small-scale maize plantation,Smallholder agriculture,7.686165793,12.208371,2020,my_examples_planet_final/12.20837100374851_7.686165793382314
+Small-scale maize plantation,Smallholder agriculture,7.726911434,13.83013927,2020,my_examples_planet_final/13.830139271959757_7.726911433527406
+Small-scale oil palm plantation,Smallholder agriculture,3.177411726,12.10236729,2019,my_examples_planet_final/12.102367289598218_3.17741172563987
+Small-scale oil palm plantation,Smallholder agriculture,3.735341707,10.67984944,2019,my_examples_planet_final/10.679849440876247_3.7353417073171418
+Small-scale oil palm plantation,Smallholder agriculture,3.84728927,9.877881139,2019,my_examples_planet_final/9.87788113894217_3.8472892701463497
+Small-scale maize plantation,Smallholder agriculture,7.63333473,14.5657069,2020,my_examples_planet_final/14.56570690171645_7.6333347302115175
+Small-scale oil palm plantation,Smallholder agriculture,4.175695218,11.54200177,2019,my_examples_planet_final/11.542001765986933_4.1756952177786575
+Small-scale maize plantation,Smallholder agriculture,7.416863455,12.44822739,2020,my_examples_planet_final/12.448227390921511_7.416863455448893
+Small-scale maize plantation,Smallholder agriculture,7.4330625,13.7283125,2020,my_examples_planet_final/13.728312500000001_7.4330625
+Small-scale maize plantation,Smallholder agriculture,7.691149212,14.696125,2020,my_examples_planet_final/14.696125_7.691149211758611
+Small-scale oil palm plantation,Smallholder agriculture,4.19454268,9.869777168,2019,my_examples_planet_final/9.869777167571668_4.194542680387034
+Small-scale other plantation,Smallholder agriculture,6.264865317,10.48016159,2020,my_examples_planet_final/10.480161593431449_6.264865316540297
+Small-scale other plantation,Smallholder agriculture,6.056926093,10.36900779,2020,my_examples_planet_final/10.369007787295057_6.056926093479837
+Small-scale maize plantation,Smallholder agriculture,7.832382948,14.48843452,2020,my_examples_planet_final/14.488434520053271_7.832382947642366
+Small-scale maize plantation,Smallholder agriculture,7.373434248,13.00149662,2020,my_examples_planet_final/13.001496615851032_7.373434248216875
+Small-scale maize plantation,Smallholder agriculture,7.520871356,13.82610077,2020,my_examples_planet_final/13.826100774990485_7.5208713555456255
+Small-scale maize plantation,Smallholder agriculture,7.448868335,13.76636484,2020,my_examples_planet_final/13.766364837215441_7.448868334665861
+Small-scale maize plantation,Smallholder agriculture,7.832673226,13.54101753,2020,my_examples_planet_final/13.54101752851587_7.832673225586088
+Small-scale maize plantation,Smallholder agriculture,7.685232549,14.41601692,2020,my_examples_planet_final/14.416016917078117_7.685232549168196
+Small-scale maize plantation,Smallholder agriculture,7.596784995,12.30399077,2020,my_examples_planet_final/12.303990769432783_7.596784994563026
+Small-scale maize plantation,Smallholder agriculture,7.752815235,13.9580589,2020,my_examples_planet_final/13.958058901607808_7.752815235281486
+Small-scale other plantation,Smallholder agriculture,5.621233603,10.58793471,2020,my_examples_planet_final/10.587934706388957_5.621233602822666
+Small-scale maize plantation,Smallholder agriculture,7.70133913,13.82578571,2020,my_examples_planet_final/13.825785708783402_7.70133913005042
+Small-scale maize plantation,Smallholder agriculture,7.55931597,13.707375,2020,my_examples_planet_final/13.707374999999999_7.559315970432102
+Small-scale maize plantation,Smallholder agriculture,7.718732526,14.52276684,2020,my_examples_planet_final/14.52276684265741_7.718732525758865
+Small-scale other plantation,Smallholder agriculture,5.341401622,10.75938761,2020,my_examples_planet_final/10.759387607971458_5.341401621608157
+Small-scale maize plantation,Smallholder agriculture,7.400063798,13.03032347,2020,my_examples_planet_final/13.030323468472448_7.400063798244258
+Small-scale maize plantation,Smallholder agriculture,7.69485851,14.59367552,2020,my_examples_planet_final/14.593675520108446_7.694858509549653
+Small-scale maize plantation,Smallholder agriculture,7.716982527,13.52172588,2020,my_examples_planet_final/13.521725875359065_7.7169825269817425
+Small-scale maize plantation,Smallholder agriculture,7.699014866,14.4601074,2020,my_examples_planet_final/14.460107401632316_7.6990148658822735
+Small-scale oil palm plantation,Smallholder agriculture,3.684553516,9.86108585,2019,my_examples_planet_final/9.861085849691431_3.6845535164232643
+Small-scale maize plantation,Smallholder agriculture,7.442158826,13.38289693,2020,my_examples_planet_final/13.382896932399534_7.442158826084711
+Small-scale oil palm plantation,Smallholder agriculture,3.669309557,10.73317286,2019,my_examples_planet_final/10.733172861174861_3.6693095565771907
+Small-scale other plantation,Smallholder agriculture,5.872277271,10.19574234,2020,my_examples_planet_final/10.195742339447875_5.872277270946491
+Small-scale maize plantation,Smallholder agriculture,7.681719038,14.23544279,2020,my_examples_planet_final/14.235442793263921_7.681719038051052
+Small-scale oil palm plantation,Smallholder agriculture,3.677792379,10.67841314,2019,my_examples_planet_final/10.678413140001442_3.6777923789506315
+Small-scale oil palm plantation,Smallholder agriculture,4.276242748,9.571375012,2019,my_examples_planet_final/9.571375012173828_4.276242748155098
+Small-scale maize plantation,Smallholder agriculture,7.400353536,13.03060754,2020,my_examples_planet_final/13.030607536892559_7.400353535867019
+Small-scale maize plantation,Smallholder agriculture,7.731651263,14.73057383,2020,my_examples_planet_final/14.730573830432999_7.731651262790954
+Small-scale oil palm plantation,Smallholder agriculture,3.63795389,10.725375,2019,my_examples_planet_final/10.725375_3.6379538903187494
+Small-scale other plantation,Smallholder agriculture,5.337599645,10.77471699,2020,my_examples_planet_final/10.774716987669569_5.337599645269782
+Small-scale maize plantation,Smallholder agriculture,7.680006772,14.30915898,2020,my_examples_planet_final/14.309158983521744_7.680006772282081
+Small-scale other plantation,Smallholder agriculture,5.903860757,10.19232734,2020,my_examples_planet_final/10.192327335128143_5.903860756872069
+Small-scale maize plantation,Smallholder agriculture,7.73438789,13.86309844,2020,my_examples_planet_final/13.86309843587867_7.734387889639641
+Small-scale maize plantation,Smallholder agriculture,7.387740892,13.01937816,2020,my_examples_planet_final/13.019378162369446_7.387740892403609
+Small-scale maize plantation,Smallholder agriculture,7.731125,14.73075,2020,my_examples_planet_final/14.730749999999999_7.731124999999999
+Small-scale oil palm plantation,Smallholder agriculture,4.957638146,8.862858711,2019,my_examples_planet_final/8.862858710595564_4.95763814553649
+Small-scale other plantation,Smallholder agriculture,5.902112977,10.18618216,2020,my_examples_planet_final/10.186182157236237_5.902112976743371
+Small-scale maize plantation,Smallholder agriculture,7.718568029,14.52338063,2020,my_examples_planet_final/14.523380631910092_7.718568028780803
+Small-scale other plantation,Smallholder agriculture,5.902635848,10.18516448,2020,my_examples_planet_final/10.185164480382666_5.902635847911655
+Small-scale other plantation,Smallholder agriculture,5.291057064,10.87528205,2020,my_examples_planet_final/10.875282045432357_5.291057063577994
+Small-scale other plantation,Smallholder agriculture,5.863115724,10.18715841,2020,my_examples_planet_final/10.187158405195431_5.863115724103519
+Small-scale oil palm plantation,Smallholder agriculture,4.138215305,10.02903163,2019,my_examples_planet_final/10.029031625420707_4.138215304890121
+Small-scale maize plantation,Smallholder agriculture,7.613121781,13.99408051,2020,my_examples_planet_final/13.994080505169217_7.613121781199769
+Small-scale oil palm plantation,Smallholder agriculture,3.967759922,9.931978118,2019,my_examples_planet_final/9.931978117699465_3.967759921797663
+Small-scale other plantation,Smallholder agriculture,5.877277272,10.18824234,2020,my_examples_planet_final/10.188242338441285_5.877277271617551
+Small-scale maize plantation,Smallholder agriculture,7.72173074,14.52640703,2020,my_examples_planet_final/14.526407034965482_7.7217307397293045
+Small-scale oil palm plantation,Smallholder agriculture,4.097540377,9.865705201,2019,my_examples_planet_final/9.865705200644411_4.097540376708444
+Small-scale maize plantation,Smallholder agriculture,7.73446801,13.94492402,2020,my_examples_planet_final/13.944924017488185_7.734468009959793
+Small-scale maize plantation,Smallholder agriculture,7.809992707,14.73036235,2020,my_examples_planet_final/14.730362349965606_7.809992707188961
+Small-scale other plantation,Smallholder agriculture,5.902027275,10.18670067,2020,my_examples_planet_final/10.186700671562114_5.902027274939299
+Small-scale maize plantation,Smallholder agriculture,7.800206301,13.51239051,2020,my_examples_planet_final/13.512390514221273_7.80020630113526
+Small-scale maize plantation,Smallholder agriculture,7.639912516,14.37088189,2020,my_examples_planet_final/14.370881894788793_7.639912516279701
+Small-scale oil palm plantation,Smallholder agriculture,3.609693634,10.22982158,2019,my_examples_planet_final/10.22982157805879_3.6096936343555748
+Small-scale maize plantation,Smallholder agriculture,7.711607531,14.1108088,2020,my_examples_planet_final/14.110808796990979_7.711607530650368
+Small-scale other plantation,Smallholder agriculture,5.387763909,10.6197904,2020,my_examples_planet_final/10.6197903991539_5.387763909454795
+Small-scale oil palm plantation,Smallholder agriculture,3.756322907,10.654,2019,my_examples_planet_final/10.654_3.75632290734508
+Small-scale oil palm plantation,Smallholder agriculture,3.645125,11.540125,2019,my_examples_planet_final/11.540124999999998_3.645125
+Small-scale maize plantation,Smallholder agriculture,7.574895808,13.86043739,2020,my_examples_planet_final/13.860437388421136_7.574895808071317
+Small-scale maize plantation,Smallholder agriculture,7.696548416,13.45816017,2020,my_examples_planet_final/13.45816017285552_7.696548415830579
+Small-scale maize plantation,Smallholder agriculture,7.752423338,13.55901752,2020,my_examples_planet_final/13.559017515937722_7.752423337741242
+Small-scale maize plantation,Smallholder agriculture,7.791397951,14.71184084,2020,my_examples_planet_final/14.711840843694917_7.7913979510446145
+Small-scale oil palm plantation,Smallholder agriculture,3.920540284,10.91541871,2019,my_examples_planet_final/10.915418705704242_3.9205402842092276
+Small-scale maize plantation,Smallholder agriculture,7.814452644,12.51757213,2020,my_examples_planet_final/12.517572131730457_7.814452644223921
+Small-scale maize plantation,Smallholder agriculture,7.37575,13.002625,2020,my_examples_planet_final/13.002625000000002_7.37575
+Small-scale oil palm plantation,Smallholder agriculture,4.036970133,9.884206767,2019,my_examples_planet_final/9.884206766976835_4.036970132647001
+Small-scale other plantation,Smallholder agriculture,5.677055328,10.59380875,2020,my_examples_planet_final/10.593808745671598_5.677055328422627
+Small-scale oil palm plantation,Smallholder agriculture,3.144916326,12.10290439,2019,my_examples_planet_final/12.10290439162812_3.144916326270133
+Small-scale oil palm plantation,Smallholder agriculture,3.122994773,11.7035119,2019,my_examples_planet_final/11.703511896654126_3.122994773312215
+Small-scale other plantation,Smallholder agriculture,5.903091778,10.18492883,2020,my_examples_planet_final/10.184928834901624_5.903091777749624
+Small-scale other plantation,Smallholder agriculture,5.874189335,10.1847204,2020,my_examples_planet_final/10.184720398448476_5.8741893346727165
+Small-scale maize plantation,Smallholder agriculture,7.697996776,14.68308041,2020,my_examples_planet_final/14.683080406797275_7.697996775912807
+Small-scale maize plantation,Smallholder agriculture,7.425346087,13.65815406,2020,my_examples_planet_final/13.658154058771194_7.425346087392883
+Small-scale maize plantation,Smallholder agriculture,7.682506769,14.36693362,2020,my_examples_planet_final/14.366933618101761_7.6825067687881505
+Small-scale oil palm plantation,Smallholder agriculture,3.975454901,9.90954842,2019,my_examples_planet_final/9.909548419628575_3.9754549006197637
+Small-scale oil palm plantation,Smallholder agriculture,4.226967173,11.53629707,2019,my_examples_planet_final/11.536297066917442_4.226967172837062
+Small-scale oil palm plantation,Smallholder agriculture,4.634277769,9.114838883,2019,my_examples_planet_final/9.114838883336228_4.634277769477096
+Small-scale oil palm plantation,Smallholder agriculture,3.590203371,11.17768279,2019,my_examples_planet_final/11.177682792836864_3.590203371415561
+Small-scale oil palm plantation,Smallholder agriculture,3.867549479,9.882161844,2019,my_examples_planet_final/9.8821618437849_3.867549478793001
+Small-scale other plantation,Smallholder agriculture,5.187561977,10.40025534,2020,my_examples_planet_final/10.400255340153556_5.187561976934308
+Small-scale maize plantation,Smallholder agriculture,7.382779144,13.05289058,2020,my_examples_planet_final/13.052890584062993_7.382779144346759
+Small-scale oil palm plantation,Smallholder agriculture,3.953125,9.98875,2019,my_examples_planet_final/9.988750000000001_3.9531250000000004
+Small-scale oil palm plantation,Smallholder agriculture,3.820732662,10.91075303,2019,my_examples_planet_final/10.910753030093053_3.820732661849139
+Small-scale maize plantation,Smallholder agriculture,7.700877706,14.4746279,2020,my_examples_planet_final/14.474627902584862_7.700877705844569
+Small-scale maize plantation,Smallholder agriculture,7.610246223,13.70214723,2020,my_examples_planet_final/13.702147229840728_7.6102462231616
+Small-scale oil palm plantation,Smallholder agriculture,3.919560022,11.32554946,2019,my_examples_planet_final/11.32554946347258_3.9195600217778654
+Small-scale oil palm plantation,Smallholder agriculture,3.128035095,12.27519787,2019,my_examples_planet_final/12.275197865109222_3.1280350947007194
+Small-scale oil palm plantation,Smallholder agriculture,3.972793234,9.929512302,2019,my_examples_planet_final/9.929512301853533_3.9727932339520744
+Small-scale maize plantation,Smallholder agriculture,7.699822343,14.3221023,2020,my_examples_planet_final/14.322102302397733_7.699822342565561
+Small-scale oil palm plantation,Smallholder agriculture,3.683086745,11.1760177,2019,my_examples_planet_final/11.176017696438024_3.683086744825485
+Small-scale other plantation,Smallholder agriculture,5.268392022,10.87085781,2020,my_examples_planet_final/10.870857806530063_5.268392022333584
+Small-scale oil palm plantation,Smallholder agriculture,4.275875,9.571625,2019,my_examples_planet_final/9.571625000000001_4.275874999999999
+Small-scale oil palm plantation,Smallholder agriculture,3.421590002,11.848875,2019,my_examples_planet_final/11.848875000000001_3.421590001979806
+Small-scale oil palm plantation,Smallholder agriculture,3.488092073,11.77909252,2019,my_examples_planet_final/11.779092518169222_3.4880920729017344
+Small-scale oil palm plantation,Smallholder agriculture,3.740757548,10.67367436,2019,my_examples_planet_final/10.673674357058008_3.740757548010295
+Small-scale maize plantation,Smallholder agriculture,7.730340035,13.95974281,2020,my_examples_planet_final/13.959742805190027_7.730340035270958
+Small-scale maize plantation,Smallholder agriculture,7.778418277,14.71651951,2020,my_examples_planet_final/14.716519507086604_7.778418277394319
+Small-scale maize plantation,Smallholder agriculture,7.778034413,14.75260281,2020,my_examples_planet_final/14.752602808220653_7.7780344130589825
+Small-scale maize plantation,Smallholder agriculture,7.875400593,13.68763459,2020,my_examples_planet_final/13.687634589836454_7.875400592771101
+Small-scale maize plantation,Smallholder agriculture,7.61734999,14.5581597,2020,my_examples_planet_final/14.558159700471744_7.617349990332181
+Small-scale maize plantation,Smallholder agriculture,7.566310379,13.72050098,2020,my_examples_planet_final/13.720500981989165_7.566310379006997
+Small-scale maize plantation,Smallholder agriculture,7.377166727,12.94682569,2020,my_examples_planet_final/12.94682568938614_7.377166727379035
+Small-scale maize plantation,Smallholder agriculture,7.734368345,14.70880682,2020,my_examples_planet_final/14.708806815159429_7.7343683447856835
+Small-scale other plantation,Smallholder agriculture,5.902367513,10.18532337,2020,my_examples_planet_final/10.185323369733798_5.90236751330836
+Small-scale maize plantation,Smallholder agriculture,7.467149086,13.49781824,2020,my_examples_planet_final/13.497818237643353_7.4671490855589004
+Small-scale maize plantation,Smallholder agriculture,7.626197417,14.55641663,2020,my_examples_planet_final/14.55641662692754_7.6261974170502596
+Small-scale maize plantation,Smallholder agriculture,7.434125,13.769125,2020,my_examples_planet_final/13.769124999999999_7.434125000000002
+Small-scale other plantation,Smallholder agriculture,5.290671256,10.87570791,2020,my_examples_planet_final/10.87570791379627_5.290671256475914
+Small-scale oil palm plantation,Smallholder agriculture,4.125904457,9.472252152,2019,my_examples_planet_final/9.472252152071908_4.125904457346155
+Small-scale oil palm plantation,Smallholder agriculture,4.224289613,9.651025115,2019,my_examples_planet_final/9.651025114828746_4.22428961294793
+Small-scale maize plantation,Smallholder agriculture,7.69823254,14.45955855,2020,my_examples_planet_final/14.459558553289362_7.698232540083978
+Small-scale maize plantation,Smallholder agriculture,7.716298388,14.34076697,2020,my_examples_planet_final/14.340766969661765_7.716298388228529
+Small-scale maize plantation,Smallholder agriculture,7.62867044,14.56356349,2020,my_examples_planet_final/14.563563485561035_7.628670440318576
+Small-scale oil palm plantation,Smallholder agriculture,4.277078699,9.584347665,2019,my_examples_planet_final/9.584347664710235_4.277078699029211
+Small-scale oil palm plantation,Smallholder agriculture,3.964816877,10.73173648,2019,my_examples_planet_final/10.73173648279375_3.9648168770017524
+Small-scale oil palm plantation,Smallholder agriculture,3.815502542,10.27416639,2019,my_examples_planet_final/10.274166388338942_3.8155025420708775
+Small-scale maize plantation,Smallholder agriculture,7.720558062,14.52666327,2020,my_examples_planet_final/14.526663268890404_7.7205580616151
+Small-scale oil palm plantation,Smallholder agriculture,2.948625,11.69633854,2019,my_examples_planet_final/11.696338543852702_2.9486250000000003
+Small-scale maize plantation,Smallholder agriculture,7.679482553,13.48851757,2020,my_examples_planet_final/13.488517565202136_7.679482553186215
+Small-scale other plantation,Smallholder agriculture,5.387318873,10.6252424,2020,my_examples_planet_final/10.625242397091927_5.387318872531522
+Small-scale maize plantation,Smallholder agriculture,7.628482589,14.55222516,2020,my_examples_planet_final/14.552225155260093_7.6284825888243
+Small-scale maize plantation,Smallholder agriculture,7.714899195,13.51247588,2020,my_examples_planet_final/13.512475881822834_7.714899195162443
+Small-scale maize plantation,Smallholder agriculture,7.684895331,13.46604053,2020,my_examples_planet_final/13.46604053460105_7.68489533142667
+Small-scale maize plantation,Smallholder agriculture,7.732605057,13.57045126,2020,my_examples_planet_final/13.570451262903678_7.73260505708541
+Small-scale maize plantation,Smallholder agriculture,7.710865536,14.52209416,2020,my_examples_planet_final/14.5220941608505_7.710865535638917
+Small-scale oil palm plantation,Smallholder agriculture,3.753645753,11.39423655,2019,my_examples_planet_final/11.394236553882799_3.753645752751944
+Small-scale maize plantation,Smallholder agriculture,7.702024204,14.48940873,2020,my_examples_planet_final/14.48940873160939_7.702024204071965
+Small-scale maize plantation,Smallholder agriculture,7.700140263,14.46110978,2020,my_examples_planet_final/14.461109777019981_7.700140263098364
+Small-scale other plantation,Smallholder agriculture,5.28855529,10.67330874,2020,my_examples_planet_final/10.673308735331474_5.288555289753492
+Small-scale other plantation,Smallholder agriculture,5.975125,10.14586733,2020,my_examples_planet_final/10.145867332770829_5.975125
+Small-scale maize plantation,Smallholder agriculture,7.382382188,13.05778573,2020,my_examples_planet_final/13.057785732408407_7.382382188234447
+Small-scale oil palm plantation,Smallholder agriculture,3.811625,11.63447018,2019,my_examples_planet_final/11.634470184121955_3.8116249999999994
+Small-scale oil palm plantation,Smallholder agriculture,3.697215518,11.63783706,2019,my_examples_planet_final/11.637837062583753_3.697215518302142
+Small-scale maize plantation,Smallholder agriculture,7.768829349,13.58520298,2020,my_examples_planet_final/13.585202975466572_7.768829349454899
+Small-scale oil palm plantation,Smallholder agriculture,3.126717818,12.12408991,2019,my_examples_planet_final/12.1240899066936_3.1267178177182835
+Small-scale maize plantation,Smallholder agriculture,7.52043471,13.82497134,2020,my_examples_planet_final/13.824971339427796_7.52043470991996
+Small-scale maize plantation,Smallholder agriculture,7.411034163,13.47459035,2020,my_examples_planet_final/13.474590345015802_7.411034162632245
+Small-scale other plantation,Smallholder agriculture,5.88389856,10.20491969,2020,my_examples_planet_final/10.20491968863182_5.883898559633748
+Small-scale other plantation,Smallholder agriculture,5.321179394,10.78245075,2020,my_examples_planet_final/10.782450751518914_5.321179393957806
+Small-scale maize plantation,Smallholder agriculture,7.551046887,14.41790351,2020,my_examples_planet_final/14.417903513163935_7.551046887004166
+Small-scale maize plantation,Smallholder agriculture,7.802643989,13.53085602,2020,my_examples_planet_final/13.530856015340389_7.802643989096194
+Small-scale maize plantation,Smallholder agriculture,7.511891759,13.90256302,2020,my_examples_planet_final/13.902563018716467_7.511891758526535
+Small-scale maize plantation,Smallholder agriculture,7.401423367,12.79580238,2020,my_examples_planet_final/12.795802378170395_7.401423367120591
+Small-scale maize plantation,Smallholder agriculture,7.366107772,13.28430937,2020,my_examples_planet_final/13.284309374537607_7.366107772080931
+Small-scale maize plantation,Smallholder agriculture,7.717329572,14.33899096,2020,my_examples_planet_final/14.33899095994056_7.717329572038906
+Small-scale maize plantation,Smallholder agriculture,7.378193567,12.94936321,2020,my_examples_planet_final/12.949363214799298_7.378193566617205
+Small-scale maize plantation,Smallholder agriculture,7.634415029,14.55534475,2020,my_examples_planet_final/14.555344753056389_7.634415028623388
+Small-scale other plantation,Smallholder agriculture,6.252887977,10.74928408,2020,my_examples_planet_final/10.749284080412066_6.252887977384017
+Small-scale maize plantation,Smallholder agriculture,7.802311578,14.74411382,2020,my_examples_planet_final/14.74411381545501_7.80231157820392
+Small-scale oil palm plantation,Smallholder agriculture,3.000659206,12.02946663,2019,my_examples_planet_final/12.029466630370223_3.0006592060978026
+Small-scale oil palm plantation,Smallholder agriculture,3.630465313,10.29104287,2019,my_examples_planet_final/10.291042869722196_3.6304653131866726
+Small-scale maize plantation,Smallholder agriculture,7.685732549,12.20893513,2020,my_examples_planet_final/12.208935126081952_7.685732548818804
+Small-scale oil palm plantation,Smallholder agriculture,4.297876714,9.636590354,2019,my_examples_planet_final/9.636590354270474_4.297876714456591
+Small-scale maize plantation,Smallholder agriculture,7.697861963,13.46572614,2020,my_examples_planet_final/13.465726137124047_7.697861962933103
+Small-scale maize plantation,Smallholder agriculture,7.617045565,14.13287335,2020,my_examples_planet_final/14.13287335235857_7.617045564549174
+Small-scale oil palm plantation,Smallholder agriculture,3.760425376,10.65560842,2019,my_examples_planet_final/10.655608417601078_3.7604253761684756
+Small-scale oil palm plantation,Smallholder agriculture,3.124982922,12.12401303,2019,my_examples_planet_final/12.124013029103148_3.124982922193625
+Small-scale maize plantation,Smallholder agriculture,7.853170108,13.77567379,2020,my_examples_planet_final/13.775673785954373_7.853170107630338
+Small-scale other plantation,Smallholder agriculture,5.187298366,10.40059172,2020,my_examples_planet_final/10.40059172184771_5.187298365671822
+Small-scale oil palm plantation,Smallholder agriculture,3.595881424,10.88587147,2019,my_examples_planet_final/10.885871470958078_3.5958814236160657
+Small-scale other plantation,Smallholder agriculture,5.874455609,10.18534089,2020,my_examples_planet_final/10.185340888293048_5.874455609410129
+Small-scale maize plantation,Smallholder agriculture,7.733274182,13.55589252,2020,my_examples_planet_final/13.555892518208775_7.733274182234904
+Small-scale other plantation,Smallholder agriculture,5.90321207,10.19493219,2020,my_examples_planet_final/10.194932192745435_5.903212070272501
+Small-scale maize plantation,Smallholder agriculture,7.634048503,13.83257632,2020,my_examples_planet_final/13.832576316247936_7.6340485031788266
+Small-scale oil palm plantation,Smallholder agriculture,3.773625,11.06400448,2019,my_examples_planet_final/11.064004484260543_3.7736249999999996
+Small-scale maize plantation,Smallholder agriculture,7.375679074,13.00317602,2020,my_examples_planet_final/13.003176020941595_7.375679074421927
+Small-scale other plantation,Smallholder agriculture,5.89189211,10.18622925,2020,my_examples_planet_final/10.186229245368123_5.891892109982199
+Small-scale other plantation,Smallholder agriculture,5.876852664,10.20037032,2020,my_examples_planet_final/10.20037032166181_5.876852663548895
+Small-scale maize plantation,Smallholder agriculture,7.733565849,13.98676231,2020,my_examples_planet_final/13.986762306909753_7.733565848668641
+Small-scale maize plantation,Smallholder agriculture,7.800375,13.51222588,2020,my_examples_planet_final/13.512225881997532_7.800374999999999
+Infrastructure,Other,3.889788395,12.55792357,2020,my_examples_planet_final/12.557923570000002_3.8897883949999996
+Mining,Other,3.279625,15.59625,2017,my_examples_planet_final/15.596250000000001_3.279625
+Mining,Other,3.391125,10.624625,2017,my_examples_planet_final/10.624625_3.3911249999999993
+Wildfire,Other,7.384234851,12.27675089,2020,my_examples_planet_final/12.276750889999999_7.384234851
+Selective logging,Other,4.824125,10.704375,2016,my_examples_planet_final/10.704374999999999_4.8241249999999996
+Hunting,Other,2.157208333,15.72020833,2017,my_examples_planet_final/15.720208333333334_2.1572083333333327
+Mining,Other,3.336013889,14.11384722,2015,my_examples_planet_final/14.113847222222223_3.336013888888888
+Selective logging,Other,2.559625,12.859875,2016,my_examples_planet_final/12.859874999999999_2.559625
+Mining,Other,2.208875,13.913375,2019,my_examples_planet_final/13.913375_2.2088749999999995
+Mining,Other,3.455375,13.834625,2016,my_examples_planet_final/13.834624999999999_3.455375
+Other,Other,5.951375,11.079375,2020,my_examples_planet_final/11.079375000000002_5.9513750000000005
+Wildfire,Other,8.840958333,14.11495833,2015,my_examples_planet_final/14.114958333333332_8.840958333333333
+Selective logging,Other,3.40025,13.9885,2018,my_examples_planet_final/13.988499999999998_3.4002499999999998
+Selective logging,Other,4.916,13.009125,2017,my_examples_planet_final/13.009125000000001_4.916
+Hunting,Other,5.076541667,12.44245833,2015,my_examples_planet_final/12.442458333333333_5.0765416666666665
+Wildfire,Other,7.734625,13.951875,2016,my_examples_planet_final/13.951875_7.734624999999999
+Mining,Other,2.54575,12.763375,2016,my_examples_planet_final/12.763375_2.54575
+Infrastructure,Other,7.300691529,12.53187243,2020,my_examples_planet_final/12.531872429999998_7.300691529
+Selective logging,Other,3.019125,15.212125,2017,my_examples_planet_final/15.212125000000002_3.019125
+Selective logging,Other,3.094875,15.446375,2017,my_examples_planet_final/15.446375_3.0948749999999996
+Selective logging,Other,3.028375,15.456,2016,my_examples_planet_final/15.456000000000001_3.028375
+Selective logging,Other,4.043625,14.425125,2018,my_examples_planet_final/14.425125000000001_4.043625
+Hunting,Other,3.514125,15.071375,2020,my_examples_planet_final/15.071375_3.514125
+Selective logging,Other,2.929791667,13.78354167,2017,my_examples_planet_final/13.783541666666668_2.929791666666666
+Wildfire,Other,8.7435,13.574375,2016,my_examples_planet_final/13.574375_8.743500000000001
+Wildfire,Other,8.386125,13.606375,2017,my_examples_planet_final/13.606374999999998_8.386125
+Selective logging,Other,2.108875,15.423875,2018,my_examples_planet_final/15.423875_2.108875
+Mining,Other,2.968946429,14.15066071,2017,my_examples_planet_final/14.150660714285717_2.968946428571429
+Infrastructure,Other,4.590474317,13.7293267,2020,my_examples_planet_final/13.7293267_4.590474317
+Hunting,Other,3.481025,14.884075,2019,my_examples_planet_final/14.884075000000001_3.481025
+Selective logging,Other,3.494125,12.519625,2015,my_examples_planet_final/12.519625000000001_3.4941249999999995
+Mining,Other,3.626791667,10.75279167,2017,my_examples_planet_final/10.752791666666667_3.6267916666666666
+Selective logging,Other,2.10625,15.422375,2017,my_examples_planet_final/15.422374999999995_2.1062499999999997
+Selective logging,Other,2.871625,12.988875,2016,my_examples_planet_final/12.988875000000002_2.871625
+Infrastructure,Other,4.070349767,9.381480725,2020,my_examples_planet_final/9.381480725_4.070349767
+Selective logging,Other,4.194875,14.168625,2018,my_examples_planet_final/14.168624999999999_4.194875
+Mining,Other,3.460541667,10.69079167,2019,my_examples_planet_final/10.690791666666668_3.4605416666666664
+Selective logging,Other,2.607375,9.993416667,2017,my_examples_planet_final/9.993416666666667_2.607375
+Wildfire,Other,8.494025,13.734325,2018,my_examples_planet_final/13.734325000000005_8.494024999999999
+Mining,Other,3.587375,10.621625,2017,my_examples_planet_final/10.621625000000002_3.5873749999999993
+Selective logging,Other,3.408291667,14.54854167,2017,my_examples_planet_final/14.548541666666667_3.4082916666666665
+Mining,Other,3.770541667,10.65254167,2017,my_examples_planet_final/10.65254166666667_3.770541666666668
+Selective logging,Other,2.765625,15.167,2018,my_examples_planet_final/15.166999999999998_2.765625
+Hunting,Other,5.2626875,12.7810625,2017,my_examples_planet_final/12.781062499999999_5.2626875
+Selective logging,Other,5.454708333,11.99416667,2017,my_examples_planet_final/11.994166666666668_5.454708333333334
+Selective logging,Other,5.052125,13.430375,2017,my_examples_planet_final/13.430375000000002_5.052124999999999
+Selective logging,Other,3.09675,14.55325,2017,my_examples_planet_final/14.553250000000002_3.0967499999999997
+Selective logging,Other,4.452525,10.668425,2017,my_examples_planet_final/10.668424999999997_4.452525
+Selective logging,Other,3.617125,10.404875,2018,my_examples_planet_final/10.404874999999999_3.617125
+Infrastructure,Other,2.698622329,13.28466063,2020,my_examples_planet_final/13.28466063_2.698622329
+Hunting,Other,3.474375,15.056375,2017,my_examples_planet_final/15.056375_3.474375
+Selective logging,Other,2.544899725,11.77930082,2018,my_examples_planet_final/11.779300824175822_2.544899725274725
+Wildfire,Other,8.389208333,13.60595833,2017,my_examples_planet_final/13.605958333333332_8.38920833333333
+Mining,Other,3.627125,10.752375,2017,my_examples_planet_final/10.752375_3.6271249999999995
+Wildfire,Other,8.310920455,13.69473864,2019,my_examples_planet_final/13.694738636363638_8.310920454545453
+Selective logging,Other,2.906791667,16.06754167,2016,my_examples_planet_final/16.06754166666667_2.906791666666666
+Selective logging,Other,2.60525,12.528125,2017,my_examples_planet_final/12.528125000000001_2.60525
+Wildfire,Other,8.309875,13.691875,2019,my_examples_planet_final/13.691875_8.309874999999998
+Selective logging,Other,5.14625,12.846375,2016,my_examples_planet_final/12.846375_5.146249999999999
+Selective logging,Other,3.487,12.157125,2016,my_examples_planet_final/12.157124999999999_3.487
+Selective logging,Other,2.765375,15.776875,2017,my_examples_planet_final/15.776875_2.765375
+Hunting,Other,4.87628125,12.4251875,2018,my_examples_planet_final/12.425187500000002_4.87628125
+Other,Other,5.957083333,11.07429167,2020,my_examples_planet_final/11.074291666666667_5.957083333333332
+Selective logging,Other,2.80275,14.357375,2016,my_examples_planet_final/14.357375000000001_2.8027500000000005
+Selective logging,Other,4.18775,13.455375,2018,my_examples_planet_final/13.455375_4.187749999999999
+Selective logging,Other,4.004666667,14.07933333,2017,my_examples_planet_final/14.079333333333336_4.004666666666666
+Infrastructure,Other,4.191622331,10.97419372,2020,my_examples_planet_final/10.97419372_4.191622331
+Selective logging,Other,2.96925,11.661375,2017,my_examples_planet_final/11.661375000000001_2.9692499999999997
+Selective logging,Other,4.346916667,14.287125,2017,my_examples_planet_final/14.287125000000001_4.346916666666665
+Selective logging,Other,2.649125,13.297575,2017,my_examples_planet_final/13.297575000000002_2.649125
+Selective logging,Other,2.568958333,15.54329167,2015,my_examples_planet_final/15.543291666666665_2.5689583333333323
+Hunting,Other,5.986791667,12.39354167,2019,my_examples_planet_final/12.393541666666668_5.986791666666666
+Mining,Other,3.354125,10.615375,2015,my_examples_planet_final/10.615375000000004_3.354125
+Hunting,Other,4.884875,12.4231875,2017,my_examples_planet_final/12.423187499999996_4.884875
+Mining,Other,2.595125,12.806625,2015,my_examples_planet_final/12.806625_2.5951249999999995
+Selective logging,Other,4.381666667,14.44714583,2016,my_examples_planet_final/14.447145833333332_4.381666666666667
+Mining,Other,3.447125,10.677625,2017,my_examples_planet_final/10.677625_3.4471249999999998
+Selective logging,Other,5.97325,9.34325,2017,my_examples_planet_final/9.34325_5.97325
+Selective logging,Other,3.407625,15.476375,2016,my_examples_planet_final/15.476375_3.407625
+Selective logging,Other,3.715875,15.23026786,2017,my_examples_planet_final/15.230267857142858_3.715875
+Hunting,Other,2.7715625,15.40265625,2019,my_examples_planet_final/15.402656250000001_2.7715625000000004
+Wildfire,Other,7.747375,14.571125,2019,my_examples_planet_final/14.571125_7.747374999999999
+Wildfire,Other,7.245958333,11.82754167,2016,my_examples_planet_final/11.827541666666665_7.245958333333332
+Selective logging,Other,3.232375,14.024875,2017,my_examples_planet_final/14.024875_3.2323749999999998
+Mining,Other,3.551525,10.773425,2017,my_examples_planet_final/10.773424999999998_3.5515250000000003
+Infrastructure,Other,3.128017034,10.29237242,2020,my_examples_planet_final/10.29237242_3.1280170340000004
+Selective logging,Other,3.026232143,13.76641071,2015,my_examples_planet_final/13.766410714285714_3.0262321428571424
+Selective logging,Other,3.963958333,14.115875,2017,my_examples_planet_final/14.115874999999999_3.963958333333333
+Selective logging,Other,3.241553571,15.12366071,2015,my_examples_planet_final/15.123660714285712_3.2415535714285704
+Other,Other,5.971099747,11.00889731,2020,my_examples_planet_final/11.008897306397298_5.97109974747475
+Selective logging,Other,2.3725,10.6945,2017,my_examples_planet_final/10.694499999999998_2.3725
+Mining,Other,3.7706875,10.6548125,2019,my_examples_planet_final/10.6548125_3.7706874999999993
+Selective logging,Other,3.7535,11.802625,2016,my_examples_planet_final/11.802624999999999_3.7535000000000003
+Selective logging,Other,3.40346875,14.0265625,2016,my_examples_planet_final/14.026562499999999_3.403468749999999
+Selective logging,Other,2.549291667,11.77870833,2016,my_examples_planet_final/11.778708333333334_2.549291666666667
+Hunting,Other,3.029925,15.165775,2017,my_examples_planet_final/15.165775000000002_3.029925
+Hunting,Other,8.563625,13.312375,2017,my_examples_planet_final/13.312374999999998_8.563625
+Mining,Other,3.285125,15.578625,2016,my_examples_planet_final/15.578625_3.285125
+Hunting,Other,5.979225,12.393825,2016,my_examples_planet_final/12.393824999999998_5.979225
+Selective logging,Other,3.145375,15.132375,2016,my_examples_planet_final/15.132375000000001_3.145375000000001
+Mining,Other,3.417410714,13.83355357,2015,my_examples_planet_final/13.83355357142857_3.417410714285714
+Selective logging,Other,4.548125,13.257375,2015,my_examples_planet_final/13.257374999999998_4.548125
+Wildfire,Other,8.528875,14.38358654,2017,my_examples_planet_final/14.383586538461538_8.528875000000001
+Mining,Other,2.610458333,12.67629167,2019,my_examples_planet_final/12.67629166666667_2.6104583333333338
+Other,Other,5.99425,11.04104167,2020,my_examples_planet_final/11.041041666666667_5.99425
+Selective logging,Other,4.772125,10.345,2015,my_examples_planet_final/10.344999999999997_4.772125
+Selective logging,Other,4.184028846,14.01989423,2018,my_examples_planet_final/14.019894230769232_4.184028846153846
+Wildfire,Other,8.63175,14.211875,2017,my_examples_planet_final/14.211875_8.631749999999998
+Selective logging,Other,5.45625,11.992125,2015,my_examples_planet_final/11.992125000000001_5.45625
+Mining,Other,3.007175,14.18965,2019,my_examples_planet_final/14.18965_3.0071749999999997
+Selective logging,Other,2.598625,15.654375,2018,my_examples_planet_final/15.654374999999998_2.5986249999999997
+Wildfire,Other,8.337375,13.55475,2020,my_examples_planet_final/13.554750000000002_8.33737499960429
+Hunting,Other,2.442475,15.483825,2020,my_examples_planet_final/15.483825000000001_2.4424750000000004
+Mining,Other,3.6645,10.635625,2015,my_examples_planet_final/10.635625_3.6644999999999994
+Selective logging,Other,2.225375,14.278875,2017,my_examples_planet_final/14.278875_2.225375
+Mining,Other,3.669625,10.583125,2019,my_examples_planet_final/10.583124999999997_3.6696250000000004
+Mining,Other,3.354053571,10.61598214,2016,my_examples_planet_final/10.615982142857142_3.354053571428572
+Selective logging,Other,3.495080882,10.67521324,2015,my_examples_planet_final/10.675213235294118_3.495080882352941
+Mining,Other,3.589778846,10.62229808,2015,my_examples_planet_final/10.622298076923077_3.589778846153847
+Hunting,Other,3.514125,15.244625,2017,my_examples_planet_final/15.244625_3.514125
+Wildfire,Other,8.719131363,13.8056835,2020,my_examples_planet_final/13.805683499999999_8.719131362999999
+Hunting,Other,5.904125,12.314875,2015,my_examples_planet_final/12.314875_5.904125
+Hunting,Other,8.490875,13.662625,2015,my_examples_planet_final/13.662625_8.490874999999999
+Selective logging,Other,3.6765,13.909125,2017,my_examples_planet_final/13.909125000000001_3.6765000000000003
+Hunting,Other,2.147408333,14.77324167,2019,my_examples_planet_final/14.773241666666669_2.147408333333333
+Hunting,Other,8.481025,13.694075,2019,my_examples_planet_final/13.694074999999996_8.481024999999999
+Selective logging,Other,2.710375,13.609125,2016,my_examples_planet_final/13.609125_2.7103749999999995
+Hunting,Other,3.002625,15.116875,2018,my_examples_planet_final/15.116875_3.002624999999999
+Other,Other,5.957177083,11.07397917,2020,my_examples_planet_final/11.073979166666664_5.957177083333333
+Mining,Other,3.379075,10.585675,2019,my_examples_planet_final/10.585674999999998_3.379074999999999
+Other,Other,5.962213235,10.03951716,2020,my_examples_planet_final/10.039517156862745_5.962213235294117
+Selective logging,Other,4.293375,10.736375,2015,my_examples_planet_final/10.736374999999999_4.293374999999999
+Selective logging,Other,2.519375,10.98375,2016,my_examples_planet_final/10.98375_2.5193749999999997
+Other,Other,5.950677083,11.07973611,2020,my_examples_planet_final/11.079736111111112_5.950677083333332
+Wildfire,Other,9.2545,14.232875,2017,my_examples_planet_final/14.232875000000002_9.2545
+Mining,Other,2.644065,12.656635,2016,my_examples_planet_final/12.656635_2.644065
+Mining,Other,2.792125,13.899125,2016,my_examples_planet_final/13.899125000000002_2.7921249999999995
+Mining,Other,3.586125,10.753125,2015,my_examples_planet_final/10.753125000000002_3.5861250000000005
+Infrastructure,Other,2.811810054,9.929453048,2020,my_examples_planet_final/9.929453048_2.8118100540000004
+Selective logging,Other,4.189806452,13.67296371,2016,my_examples_planet_final/13.672963709677417_4.1898064516129025
+Selective logging,Other,2.5965,11.40975,2016,my_examples_planet_final/11.409749999999999_2.5964999999999994
+Selective logging,Other,3.677625,13.907875,2018,my_examples_planet_final/13.907874999999999_3.6776249999999995
+Selective logging,Other,3.337696429,14.176625,2015,my_examples_planet_final/14.176624999999996_3.3376964285714283
+Selective logging,Other,4.358528846,13.60029808,2016,my_examples_planet_final/13.600298076923075_4.3585288461538445
+Selective logging,Other,4.850232143,9.879803571,2018,my_examples_planet_final/9.879803571428571_4.850232142857143
+Other,Other,5.99944697,10.93554924,2020,my_examples_planet_final/10.935549242424248_5.999446969696968
+Wildfire,Other,8.839175,14.092025,2015,my_examples_planet_final/14.092025000000001_8.839175000000001
+Selective logging,Other,3.30025,13.981625,2015,my_examples_planet_final/13.981625_3.3002499999999992
+Hunting,Other,7.912975,12.741925,2018,my_examples_planet_final/12.741925000000002_7.912975
+Mining,Other,2.451125,12.847625,2019,my_examples_planet_final/12.847625_2.4511249999999998
+Selective logging,Other,4.110958333,10.38440278,2015,my_examples_planet_final/10.384402777777778_4.1109583333333335
+Mining,Other,3.583375,10.75375,2016,my_examples_planet_final/10.75375_3.5833749999999993
+Selective logging,Other,2.828375,12.895125,2017,my_examples_planet_final/12.895125000000002_2.828375
+Mining,Other,3.585160714,10.75544643,2017,my_examples_planet_final/10.755446428571432_3.585160714285714
+Selective logging,Other,3.506416667,12.5126875,2017,my_examples_planet_final/12.5126875_3.5064166666666683
+Other,Other,5.94857797,11.08515553,2020,my_examples_planet_final/11.085155528052804_5.948577970297027
+Selective logging,Other,2.810725,12.290225,2016,my_examples_planet_final/12.290225000000001_2.8107250000000006
+Other,Other,5.989385234,10.96595029,2020,my_examples_planet_final/10.965950292397656_5.989385233918129
+Other,Other,5.948291667,11.08270833,2020,my_examples_planet_final/11.082708333333334_5.948291666666667
+Selective logging,Other,5.0125,11.862125,2015,my_examples_planet_final/11.862124999999999_5.012499999999999
+Wildfire,Other,7.748932143,14.57073929,2019,my_examples_planet_final/14.570739285754705_7.748932142676788
+Selective logging,Other,3.766846154,10.93322115,2017,my_examples_planet_final/10.933221153846155_3.7668461538461537
+Selective logging,Other,3.629553571,13.14435714,2015,my_examples_planet_final/13.14435714285714_3.629553571428571
+Selective logging,Other,4.7931875,10.404125,2016,my_examples_planet_final/10.404125000000002_4.7931875
+Mining,Other,3.6725,10.600875,2016,my_examples_planet_final/10.600874999999998_3.6725000000000003
+Wildfire,Other,8.385375,13.604875,2017,my_examples_planet_final/13.604875_8.385375000000002
+Selective logging,Other,3.401166667,14.507625,2017,my_examples_planet_final/14.507624999999997_3.401166666666666
+Mining,Other,2.909125,12.181625,2016,my_examples_planet_final/12.181625_2.909125
+Other,Other,5.990238426,10.9632662,2020,my_examples_planet_final/10.963266203703702_5.990238425925925
+Selective logging,Other,3.019625,15.452625,2018,my_examples_planet_final/15.452625000000001_3.019625
+Wildfire,Other,8.396625,13.76375,2017,my_examples_planet_final/13.763749999999998_8.396625
+Selective logging,Other,2.658071429,10.80010714,2016,my_examples_planet_final/10.800107142857144_2.6580714285714295
+Selective logging,Other,4.058,14.67,2015,my_examples_planet_final/14.669999999999998_4.058
+Selective logging,Other,4.189375,13.651625,2015,my_examples_planet_final/13.651624999999997_4.189375
+Selective logging,Other,5.214625,9.493125,2017,my_examples_planet_final/9.493125_5.214625
+Selective logging,Other,2.934553571,14.14351786,2018,my_examples_planet_final/14.143517857142857_2.9345535714285704
+Wildfire,Other,8.387217262,13.60922411,2017,my_examples_planet_final/13.609224113343256_8.38721726190476
+Hunting,Other,3.062325,14.706075,2017,my_examples_planet_final/14.706074999999998_3.0623250000000004
+Selective logging,Other,2.78875,12.856125,2015,my_examples_planet_final/12.856125000000002_2.78875
+Infrastructure,Other,6.062813068,14.38689349,2020,my_examples_planet_final/14.38689349_6.062813068
+Other,Other,5.999639768,10.92093829,2020,my_examples_planet_final/10.92093829113924_5.999639767932489
+Wildfire,Other,8.391625,13.611,2017,my_examples_planet_final/13.610999999999999_8.391625000000001
+Mining,Other,3.673625,10.598125,2017,my_examples_planet_final/10.598125_3.6736250000000004
+Hunting,Other,2.454708333,15.49654167,2018,my_examples_planet_final/15.496541666666666_2.454708333333333
+Selective logging,Other,2.423625,14.001875,2018,my_examples_planet_final/14.001875_2.423625
+Wildfire,Other,9.286125,14.12925,2020,my_examples_planet_final/14.129249999999999_9.286124999999998
+Other,Other,5.987921296,11.04174228,2020,my_examples_planet_final/11.041742283950613_5.987921296296298
+Selective logging,Other,2.756875,12.748375,2018,my_examples_planet_final/12.748375_2.756875
+Mining,Other,3.318875,14.10745833,2015,my_examples_planet_final/14.107458333333327_3.3188749999999994
+Wildfire,Other,8.851125,14.165625,2016,my_examples_planet_final/14.165625_8.851125
+Hunting,Other,3.022741667,15.18660833,2016,my_examples_planet_final/15.186608333333336_3.0227416666666667
+Infrastructure,Other,3.73078659,11.0667202,2020,my_examples_planet_final/11.0667202_3.73078659
+Other,Other,5.976911311,11.05435872,2020,my_examples_planet_final/11.054358722871443_5.976911310517533
+Selective logging,Other,2.7215,14.310125,2017,my_examples_planet_final/14.310124999999998_2.7215
+Selective logging,Other,4.186125,13.101375,2016,my_examples_planet_final/13.101375_4.1861250000000005
+Hunting,Other,3.47925,15.050875,2015,my_examples_planet_final/15.050875000000001_3.47925
+Hunting,Other,2.773375,15.401125,2020,my_examples_planet_final/15.401125_2.7733749999999997
+Selective logging,Other,3.741625,14.776,2017,my_examples_planet_final/14.776_3.741625
+Mining,Other,3.772775,10.650325,2019,my_examples_planet_final/10.650324999999999_3.7727749999999993
+Selective logging,Other,5.70325,11.40025,2015,my_examples_planet_final/11.40025_5.70325
+Wildfire,Other,8.311425,13.69249167,2019,my_examples_planet_final/13.69249166673565_8.311424999849176
+Selective logging,Other,5.96475,9.3485,2015,my_examples_planet_final/9.3485_5.96475
+Wildfire,Other,8.484375,13.735125,2018,my_examples_planet_final/13.735125_8.484375
+Selective logging,Other,2.396375,10.45175,2015,my_examples_planet_final/10.451749999999999_2.396375
+Wildfire,Other,8.338541667,13.55645833,2018,my_examples_planet_final/13.556458333333332_8.338541666666666
+Mining,Other,3.272125,15.580625,2017,my_examples_planet_final/15.580625000000001_3.272125
+Selective logging,Other,3.657458333,13.11670833,2017,my_examples_planet_final/13.11670833333333_3.657458333333333
+Selective logging,Other,2.858625,13.124,2015,my_examples_planet_final/13.124_2.858625
+Mining,Other,2.647595588,12.64719853,2015,my_examples_planet_final/12.647198529411769_2.647595588235295
+Other,Other,5.989772528,11.03168401,2020,my_examples_planet_final/11.031684011164272_5.9897725279106835
+Selective logging,Other,3.128897727,13.76589773,2015,my_examples_planet_final/13.765897727272726_3.1288977272727263
+Mining,Other,2.798375,13.90625,2015,my_examples_planet_final/13.906249999999996_2.798375
+Wildfire,Other,8.838875,14.0895,2015,my_examples_planet_final/14.089499999999997_8.838875
+Other,Other,5.996333333,10.93929167,2020,my_examples_planet_final/10.939291666666666_5.996333333333334
+Selective logging,Other,5.369625,13.08925,2018,my_examples_planet_final/13.08925_5.369625
+Selective logging,Other,4.057458333,14.66254167,2018,my_examples_planet_final/14.662541666666664_4.057458333333332
+Hunting,Other,5.977671875,12.40048437,2018,my_examples_planet_final/12.400484374999998_5.977671874999997
+Selective logging,Other,5.001875,12.184,2015,my_examples_planet_final/12.184_5.001874999999999
+Selective logging,Other,5.158541667,12.86279167,2017,my_examples_planet_final/12.862791666666668_5.158541666666667
+Wildfire,Other,7.980958333,14.80904167,2016,my_examples_planet_final/14.809041666666664_7.980958333333332
+Selective logging,Other,5.81375,8.9115625,2017,my_examples_planet_final/8.9115625_5.813749999999999
+Selective logging,Other,3.751125,11.793375,2017,my_examples_planet_final/11.793375_3.7511249999999996
+Selective logging,Other,4.77775,10.35075,2018,my_examples_planet_final/10.35075_4.77775
+Mining,Other,3.62575,10.756375,2015,my_examples_planet_final/10.756374999999998_3.625749999999999
+Wildfire,Other,7.744625,14.57425,2019,my_examples_planet_final/14.574249999999997_7.744625000000001
+Selective logging,Other,3.128375,14.521125,2015,my_examples_planet_final/14.521125_3.128375
+Mining,Other,2.2085,13.91375,2019,my_examples_planet_final/13.913749999999999_2.2085
+Mining,Other,3.673875,10.598375,2017,my_examples_planet_final/10.598375000000003_3.673875
+Infrastructure,Other,2.815403316,10.52503608,2020,my_examples_planet_final/10.52503608_2.815403316
+Selective logging,Other,4.088375,14.879375,2018,my_examples_planet_final/14.879375000000001_4.088374999999999
+Selective logging,Other,2.479875,15.24225,2017,my_examples_planet_final/15.242250000000002_2.479875
+Other,Other,5.994526316,10.93801261,2020,my_examples_planet_final/10.938012609649123_5.99452631578947
+Selective logging,Other,2.808875,13.9655,2018,my_examples_planet_final/13.965499999999997_2.808875
+Selective logging,Other,2.816375,14.33375,2015,my_examples_planet_final/14.333750000000002_2.8163750000000003
+Selective logging,Other,2.601625,13.991125,2018,my_examples_planet_final/13.991125000000002_2.601625
+Other,Other,5.977741213,10.99551276,2020,my_examples_planet_final/10.995512755102043_5.977741213151928
+Hunting,Other,2.472375,12.841375,2020,my_examples_planet_final/12.841374999999998_2.472375
+Selective logging,Other,2.242625,14.28975,2015,my_examples_planet_final/14.28975_2.242625
+Mining,Other,3.618375,10.751625,2019,my_examples_planet_final/10.751625_3.618375
+Selective logging,Other,2.493875,12.811375,2017,my_examples_planet_final/12.811375000000002_2.4938749999999996
+Wildfire,Other,8.368859852,13.60038909,2016,my_examples_planet_final/13.600389094902084_8.368859852030521
+Selective logging,Other,3.516125,13.593625,2016,my_examples_planet_final/13.593624999999998_3.5161249999999993
+Selective logging,Other,3.762875,10.938,2015,my_examples_planet_final/10.937999999999999_3.762875
+Hunting,Other,3.514041667,15.24559722,2019,my_examples_planet_final/15.24559722222222_3.514041666666666
+Selective logging,Other,3.721625,12.5855,2015,my_examples_planet_final/12.585499999999998_3.7216249999999995
+Mining,Other,3.352625,14.138125,2017,my_examples_planet_final/14.138124999999999_3.3526249999999997
+Selective logging,Other,2.24275,15.151125,2015,my_examples_planet_final/15.151124999999999_2.24275
+Hunting,Other,3.2585625,14.8638125,2018,my_examples_planet_final/14.863812500000002_3.2585625000000005
+Mining,Other,3.590125,10.618875,2016,my_examples_planet_final/10.618875_3.590125
+Selective logging,Other,3.065,14.69725,2016,my_examples_planet_final/14.697249999999999_3.065
+Hunting,Other,5.261458333,12.78170833,2018,my_examples_planet_final/12.781708333333333_5.2614583333333345
+Other,Other,5.991875,11.041375,2020,my_examples_planet_final/11.041375_5.991875
+Selective logging,Other,3.763125,10.949875,2018,my_examples_planet_final/10.949875_3.763125
+Wildfire,Other,9.282321429,14.13330357,2020,my_examples_planet_final/14.133303571428574_9.28232142857143
+Selective logging,Other,5.024625,12.270125,2016,my_examples_planet_final/12.270124999999998_5.024625
+Hunting,Other,2.151875,15.6475,2020,my_examples_planet_final/15.6475_2.151875
+Selective logging,Other,4.300583333,14.409875,2016,my_examples_planet_final/14.409875_4.300583333333332
+Selective logging,Other,3.992,14.092125,2016,my_examples_planet_final/14.092125000000001_3.992000000000001
+Mining,Other,3.357152778,10.61981944,2019,my_examples_planet_final/10.619819444444444_3.357152777777777
+Selective logging,Other,3.505875,12.512625,2018,my_examples_planet_final/12.512624999999998_3.505875
+Selective logging,Other,4.11825,12.361625,2015,my_examples_planet_final/12.361625_4.11825
+Selective logging,Other,4.014261364,14.09107955,2015,my_examples_planet_final/14.091079545454543_4.014261363636362
+Selective logging,Other,2.338625,10.69575,2015,my_examples_planet_final/10.69575_2.338625
+Mining,Other,3.663,10.6411875,2017,my_examples_planet_final/10.641187499999997_3.6629999999999994
+Mining,Other,2.610875,12.683625,2017,my_examples_planet_final/12.683625000000001_2.6108749999999996
+Other,Other,5.979291667,10.98045833,2020,my_examples_planet_final/10.980458333333333_5.979291666666667
+Selective logging,Other,3.428410714,13.66130357,2018,my_examples_planet_final/13.66130357142857_3.428410714285714
+Selective logging,Other,2.64425,12.33275,2016,my_examples_planet_final/12.33275_2.6442500000000004
+Wildfire,Other,8.696673481,14.75520275,2020,my_examples_planet_final/14.755202750000002_8.696673481
+Selective logging,Other,5.262953947,12.786125,2015,my_examples_planet_final/12.786125000000002_5.2629539473684215
+Mining,Other,2.647875,12.6575,2019,my_examples_planet_final/12.657499999999999_2.647875
+Mining,Other,3.587125,10.755875,2015,my_examples_planet_final/10.755874999999998_3.5871250000000003
+Infrastructure,Other,3.976924978,11.60391274,2020,my_examples_planet_final/11.60391274_3.9769249779999996
+Selective logging,Other,4.037625,14.530125,2016,my_examples_planet_final/14.530125_4.037625
+Mining,Other,3.286375,15.577875,2016,my_examples_planet_final/15.577875_3.286375
+Selective logging,Other,4.8255,10.696875,2015,my_examples_planet_final/10.696875_4.825499999999999
+Hunting,Other,2.49840625,15.29809375,2020,my_examples_planet_final/15.298093749999998_2.49840625
+Selective logging,Other,3.516725,13.380675,2017,my_examples_planet_final/13.380675000000002_3.5167250000000005
+Selective logging,Other,3.705375,15.198875,2018,my_examples_planet_final/15.198875_3.705375
+Selective logging,Other,4.86775,13.69025,2018,my_examples_planet_final/13.69025_4.867750000000001
+Selective logging,Other,3.376625,14.4755,2017,my_examples_planet_final/14.4755_3.376625
+Selective logging,Other,4.915513889,13.00565278,2018,my_examples_planet_final/13.005652777777781_4.915513888888888
+Mining,Other,3.378875,10.584375,2016,my_examples_planet_final/10.584375000000001_3.378875
+Wildfire,Other,7.862175,12.389775,2020,my_examples_planet_final/12.389775000029958_7.862174999610534
+Other,Other,5.965958333,10.04,2020,my_examples_planet_final/10.040000000000001_5.965958333333333
+Selective logging,Other,4.115625,12.361875,2016,my_examples_planet_final/12.361875000000001_4.1156250000000005
+Selective logging,Other,5.552053571,9.370839286,2015,my_examples_planet_final/9.370839285714288_5.552053571428572
+Selective logging,Other,2.391736111,10.45420833,2017,my_examples_planet_final/10.454208333333334_2.3917361111111104
+Mining,Other,2.646875,12.652,2016,my_examples_planet_final/12.652000000000003_2.646875
+Other,Other,5.948023148,11.08239352,2020,my_examples_planet_final/11.082393518518519_5.948023148148148
+Wildfire,Other,7.745125,14.568,2019,my_examples_planet_final/14.568000000000001_7.745125000000001
+Selective logging,Other,3.112102273,13.87971591,2018,my_examples_planet_final/13.879715909090908_3.1121022727272716
+Infrastructure,Other,4.555440021,13.7526829,2020,my_examples_planet_final/13.752682900000002_4.555440021
+Selective logging,Other,4.006625,14.08176136,2016,my_examples_planet_final/14.081761363636362_4.006624999999999
+Mining,Other,3.419375,13.833375,2016,my_examples_planet_final/13.833374999999998_3.419374999999999
+Hunting,Other,3.4855,14.879625,2015,my_examples_planet_final/14.879625_3.4855000000000005
+Wildfire,Other,8.381125,13.609875,2017,my_examples_planet_final/13.609875_8.381125
+Infrastructure,Other,4.001179491,11.05324547,2020,my_examples_planet_final/11.05324547_4.001179491
+Mining,Other,3.379458333,10.58470833,2016,my_examples_planet_final/10.584708333333333_3.379458333333333
+Other,Other,5.982041667,11.04795833,2020,my_examples_planet_final/11.047958333333334_5.982041666666668
+Selective logging,Other,4.11790625,12.37059375,2018,my_examples_planet_final/12.370593750000001_4.11790625
+Selective logging,Other,4.124190789,10.42213816,2017,my_examples_planet_final/10.422138157894734_4.124190789473684
+Selective logging,Other,2.736875,13.3715,2018,my_examples_planet_final/13.3715_2.7368749999999995
+Hunting,Other,2.47275,12.84425,2019,my_examples_planet_final/12.84425_2.47275
+Hunting,Other,3.514375,15.072375,2016,my_examples_planet_final/15.072375000000001_3.514375
+Selective logging,Other,3.359875,14.48969643,2018,my_examples_planet_final/14.489696428571431_3.3598749999999997
+Selective logging,Other,2.805125,12.326125,2016,my_examples_planet_final/12.326125000000001_2.805125
+Selective logging,Other,2.962125,12.658625,2016,my_examples_planet_final/12.658625_2.962125
+Hunting,Other,3.524375,14.958125,2016,my_examples_planet_final/14.958124999999999_3.5243749999999996
+Selective logging,Other,2.638625,12.766,2015,my_examples_planet_final/12.766_2.6386249999999998
+Mining,Other,3.060875,14.198,2016,my_examples_planet_final/14.198_3.060875
+Selective logging,Other,2.660125,11.202375,2018,my_examples_planet_final/11.202375_2.660125
+Mining,Other,3.090625,10.645875,2016,my_examples_planet_final/10.645875_3.0906249999999993
+Mining,Other,3.571625,10.604875,2015,my_examples_planet_final/10.604874999999998_3.5716250000000005
+Infrastructure,Other,3.356189117,12.22824186,2020,my_examples_planet_final/12.228241859999999_3.356189117
+Hunting,Other,2.6802375,15.3173,2020,my_examples_planet_final/15.317299999999998_2.6802375000000005
+Selective logging,Other,2.406458333,10.46595833,2018,my_examples_planet_final/10.465958333333333_2.4064583333333327
+Selective logging,Other,4.233541667,13.82654167,2016,my_examples_planet_final/13.826541666666667_4.233541666666666
+Mining,Other,2.5895,9.964875,2016,my_examples_planet_final/9.964875000000001_2.5894999999999992
+Other,Other,5.977859979,10.98441434,2020,my_examples_planet_final/10.984414341917015_5.977859978540769
+Selective logging,Other,2.913232143,12.28391071,2017,my_examples_planet_final/12.283910714285717_2.9132321428571437
+Mining,Other,3.062291667,14.19870833,2015,my_examples_planet_final/14.198708333333336_3.0622916666666664
+Mining,Other,2.467125,12.825875,2017,my_examples_planet_final/12.825875_2.467125
+Infrastructure,Other,4.078434605,9.372497572,2020,my_examples_planet_final/9.372497572_4.078434604999999
+Selective logging,Other,3.001375,15.529375,2015,my_examples_planet_final/15.529375_3.001375
+Selective logging,Other,3.222125,15.574625,2018,my_examples_planet_final/15.574625000000001_3.2221249999999997
+Mining,Other,2.451125,12.848375,2019,my_examples_planet_final/12.848374999999999_2.451125
+Selective logging,Other,4.916375,13.007125,2016,my_examples_planet_final/13.007124999999998_4.9163749999999995
+Other,Other,5.990828704,11.0415787,2020,my_examples_planet_final/11.041578703703705_5.9908287037037065
