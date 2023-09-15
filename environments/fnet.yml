@@ -1,0 +1,28 @@
+name: fnet
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - ipykernel
+  - torchvision
+  - pytorch=1.7.0
+  - cudatoolkit=11.0
+  - pytorch-lightning
+  - ignite
+  - fire
+  - r-logging
+  - python-utils
+  - pathlib
+  - geopy
+  - pyproj
+  - descarteslabs
+  - plotly
+  - seaborn
+  - pretrainedmodels
+  - numpy
+  - mkl
+  - earthengine-api
+  - folium
+  - selenium
+prefix: /home/aed58/anaconda3/envs/fnet

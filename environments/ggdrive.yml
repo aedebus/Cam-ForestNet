@@ -1,0 +1,17 @@
+name: ggdrive
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.5
+  - ipykernel
+  - xarray
+  - earthengine-api
+  - gcloud
+  - fire
+  - gdal
+  - rioxarray
+  - geopy
+  - geemap
+  - folium
+prefix: /home/aed58/anaconda3/envs/ggdrive

@@ -1,0 +1,22 @@
+name: pygdal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - ipykernel
+  - gdal
+  - scikit-image
+  - imagecodecs
+  - pyshp
+  - pyproj
+  - shapely
+  - selenium
+  - xarray
+  - rioxarray
+  - earthpy
+  - earthengine-api
+  - richdem
+  - pynio
+  - cfgrib
+prefix: /home/aed58/anaconda3/envs/pygdal
