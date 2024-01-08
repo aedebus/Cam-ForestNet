@@ -19,7 +19,7 @@ Description of the sub-folders and files
 | ------------- | ------------- |------------- |------------- |------------- |
 | download auxiliary quick  | To download auxiliary data  |  download_gain_quick.py | To download forest gain | ggdrive |
 |   |   |  download_ir_quick.py | To download infrared bands | ggdrive |
-|   |   |  download_ncep_file.py | To generate NCEP data using the downloaded NCEP files (need to [download] (https://www.nco.ncep.noaa.gov/pmb/products/cfs/) those beforehand and put the result in an 'ncep' folder in the 'input' subfolder) | ggdrive |
+|   |   |  download_ncep_file.py | To generate NCEP data using the downloaded NCEP files (need to [download](https://www.nco.ncep.noaa.gov/pmb/products/cfs/) those beforehand and put the result in an 'ncep' folder in the 'input' subfolder) | ggdrive |
 |   |   |  download_ncep_quick.py | To download NCEP data using Google Earth Engine | ggdrive |
 |   |   |  download_osm_quick.py | To download OpenStreetMap data | ggdrive |
 |   |   |  download_srtm_quick.py | To download SRTM data | ggdrive |
