@@ -40,4 +40,8 @@ Description of the sub-folders and files
 |   |   |  extract_polygon_worldcover.py | To generate GFC forest loss patches where we know the land use for Worldcover data | pygdal |
 
 
+Data licenses
+------
+The NICFI PlanetScope images fall under the same license as the NICFI data program license agreement. OpenStreetMap® is open data, licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). The documentation is licensed under the Creative Commons Attribution-ShareAlike 2.0 license (CC BY-SA 2.0). The rest of the data (including data in the input folders shared with the code) is under a Creative Commons Attribution 4.0 International License. The data has been transformed following the code in this repository.
+
 
