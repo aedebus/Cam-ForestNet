@@ -11,6 +11,11 @@ Folders
 
 Guidelines for use
 ------
-Description of the files
+Description of the sub-folders and files
 ------
+- In 'prepare files':
 
+| Sub-folder    | File          | 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
