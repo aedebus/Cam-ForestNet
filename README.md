@@ -38,6 +38,14 @@ Description of the sub-folders and files
 |   |   |  extract_polygon_loss_maize.py | To generate shapefile where we know the land use from a WorldCereal csv file | pygdal |
 |   |   |  extract_polygon_water.py | To generate GFC forest loss patches where we know the land use for Worldcover water data | pygdal |
 |   |   |  extract_polygon_worldcover.py | To generate GFC forest loss patches where we know the land use for Worldcover data ([download WorldCover](https://esa-worldcover.org/en/data-access) file and add it in 'ESA_WorldCover_10m_2020_v100_N03E009_Map' subfolder in the 'input' and 'WorldCover' subfolders to reproduce the conversion from TIFF to shapefile)| pygdal |
+| download images quick  | To download the reference images from Google Earth Engine |  clean_up.py | To remove blank images (i.e. 'errors') | ggdrive |
+|  |  |  clean_up_timeseries.py | To remove blank images (i.e. 'errors') from the timeseries folders| ggdrive |
+|  |  |  download_landsat_quick.py | To download single Landsat-8 images centred on the GFC forest loss patches created | ggdrive |
+|  |  |  download_landsat_quick_timeseries.py | To download multiple Landsat-8 images centred on the GFC forest loss patches created for the timeseries approach | ggdrive |
+|  |  |  download_planetscope_quick_fix.py | To download single NICFI PlanetScope images centred on the GFC forest loss patches created (NB: 'fix' because the filtering in the previous version was not properly done)| ggdrive |
+|  |  |  download_planetscope_quick_fix_missing.py | To download NICFI PlanetScope images that were not properly downloaded| ggdrive |
+|  |  |  download_planetscope_quick_fix_missing2.py | To download NICFI PlanetScope images that were not properly downloaded| ggdrive |
+|  |  |  download_planetscope_quick_timeseries.py | To download multiple NICFI PlanetScope images centred on the GFC forest loss patches created created for the timeseries approach| ggdrive |
 
 
 Data licenses
