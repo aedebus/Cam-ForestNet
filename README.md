@@ -42,6 +42,6 @@ Description of the sub-folders and files
 
 Data licenses
 ------
-The NICFI PlanetScope images fall under the same license as the NICFI data program license agreement. OpenStreetMap® is open data, licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). The documentation is licensed under the Creative Commons Attribution-ShareAlike 2.0 license (CC BY-SA 2.0). The rest of the data (including data in the input folders shared with the code) is under a Creative Commons Attribution 4.0 International License. The data has been transformed following the code in this repository.
+The NICFI PlanetScope images fall under the same license as the [NICFI data program license agreement](https://assets.planet.com/docs/Planet_ParticipantLicenseAgreement_NICFI.pdf). [OpenStreetMap®](https://osmfoundation.org/wiki/Licence/Attribution_Guidelines) is open data, licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). The documentation is licensed under the [Creative Commons Attribution-ShareAlike 2.0 license (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/). The rest of the data (including data in the input folders shared with the code) is under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). The data has been transformed following the code in this repository.
 
 
