@@ -17,6 +17,11 @@ Description of the sub-folders and files
 
 | Sub-folder    | Description sub-folder          | File | Description file | Environment to use | 
 | ------------- | ------------- |------------- |------------- |------------- |
-| download auxiliary quick  | To download auxiliary data  |  download_gain_quick.py | To download forest gain | ggdrive
-|   |   |  download_ir_quick.py | To download infrared bands | ggdrive
+| download auxiliary quick  | To download auxiliary data  |  download_gain_quick.py | To download forest gain | ggdrive |
+|   |   |  download_ir_quick.py | To download infrared bands | ggdrive |
+|   |   |  download_ncep_file.py | To generate NCEP data using the downloaded NCEP files | ggdrive |
+|   |   |  download_ncep_quick.py | To download NCEP data using Google Earth Engine | ggdrive |
+|   |   |  download_osm_quick.py | To download OpenStreetMap data | ggdrive |
+|   |   |  download_srtm_quick.py | To download SRTM data | ggdrive |
+|   |   |  get_peat_quick.py | To generate data on the present of peat | ggdrive |
 
