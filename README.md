@@ -24,7 +24,7 @@ Description of the sub-folders and files
 |   |   |  download_osm_quick.py | To download OpenStreetMap data | ggdrive |
 |   |   |  download_srtm_quick.py | To download SRTM data | ggdrive |
 |   |   |  get_peat_quick.py | To generate data on the present of peat using the downloaded file from [Global Forest Watch](https://data.globalforestwatch.org/datasets/aed14a0e0a8d40c69a73321275caf3e8/explore?location=10.103967%2C-99.210783%2C1.87)| ggdrive |
-| download gfc  | To download the Global Forest Change (GFC) forest loss polygons  |  create_gfc.py | To create shapefiles from the GFC TIFF images | pygdal |
+| download gfc  | To download the Global Forest Change (GFC) forest loss polygons  |  create_gfc.py | To create shapefiles from the GFC TIFF images which need to be [downloaded](https://storage.googleapis.com/earthenginepartners-hansen/GFC-2020-v1.8/download.html) for coordinates 0-10N, 0-10E; 0-10N, 10-20E; 10-20N, 10-20E and added in the 'input' subfolder| pygdal |
 |   |   |  create_grassland.py | To create a shapefile from the ESA WorldCover 2020 map for grassland | pygdal |
 |   |   |  create_grassland_small.py | To create a shapefile from the ESA WorldCover 2020 map for grassland but limit output to a selected number of shapes| pygdal |
 |   |   |  extract_polygon_gfc_additional.py | To generate more GFC forest loss patches where we know the land use for large-scale plantations and mining | pygdal |
