@@ -16,11 +16,13 @@ Guidelines for use
 3. Download datasets and unzip in model>data>ForestNetDataset **add link**
 4. Choose the csv file for the wanted approach and sensor and add in model>data>ForestNetDataset
 5. Run
-`conda activate fnet
-python3 main_mytrain_all.py train --exp_name test_exp --gpus [0] --data_version ls8_dynamic --merge_scheme four-class --resize aggressive --spatial_augmentation affine --pixel_augmentation hazy --model EfficientNet-b2 --architecture FPN --loss_fn CE --gamma 10 --alpha 10 --late_fusion True --late_fusion_stats True --late_fusion_aux_feats True --late_fusion_ncep True --late_fusion_embedding_dim 128 --late_fusion_dropout 0.1
-ulimit -n 4096        
-python3 main_mytest_all.py test --ckpt_path models/sandbox/test_exp/ckpts/epoch=xx-val_f1_macro=xx.ckpt`
-**Note: Fill out xx values with the best epoch by examining the sandbox
+
+`conda activate fnet`
+
+`python3 main_mytrain_all.py train --exp_name test_exp --gpus [0] --data_version ls8_dynamic --merge_scheme four-class --resize aggressive --spatial_augmentation affine --pixel_augmentation hazy --model EfficientNet-b2 --architecture FPN --loss_fn CE --gamma 10 --alpha 10 --late_fusion True --late_fusion_stats True --late_fusion_aux_feats True --late_fusion_ncep True --late_fusion_embedding_dim 128 --late_fusion_dropout 0.1`
+`ulimit -n 4096`        
+`python3 main_mytest_all.py test --ckpt_path models/sandbox/test_exp/ckpts/epoch=xx-val_f1_macro=xx.ckpt`
+**Note: Fill out xx values with the best epoch by examining the sandbox**
 7. See the results in models>sandbox>test_exp>test_results
 
 
