@@ -21,10 +21,14 @@ Guidelines for use
 
 `python3 main_mytrain_all.py train --exp_name test_exp --gpus [0] --data_version ls8_dynamic --merge_scheme four-class --resize aggressive --spatial_augmentation affine --pixel_augmentation hazy --model EfficientNet-b2 --architecture FPN --loss_fn CE --gamma 10 --alpha 10 --late_fusion True --late_fusion_stats True --late_fusion_aux_feats True --late_fusion_ncep True --late_fusion_embedding_dim 128 --late_fusion_dropout 0.1`
 
+
 `ulimit -n 4096`
 
 `python3 main_mytest_all.py test --ckpt_path models/sandbox/test_exp/ckpts/epoch=xx-val_f1_macro=xx.ckpt`
-**Note: Fill out xx values with the best epoch by examining the sandbox**
+
+**Note 1: Fill out xx values with the best epoch by examining the sandbox**
+
+**Note 2: Possibility to choose timeseries or fusion approach too  by changing the .py file used**
 
 7. See the results in models>sandbox>test_exp>test_results
 
@@ -65,6 +69,14 @@ Description of the sub-folders and files
 |  |  |  download_planetscope_quick_fix_missing2.py | To download NICFI PlanetScope images that were not properly downloaded| ggdrive |
 |  |  |  download_planetscope_quick_timeseries.py | To download multiple NICFI PlanetScope images centred on the GFC forest loss patches created created for the timeseries approach| ggdrive |
 
+-In 'model': 
+
+| Sub-folder    | Description sub-folder          | File | Description file | Environment to use | 
+| ------------- | ------------- |------------- |------------- |------------- |
+|  |  |  main_my_test_all.py | To test Cam-ForestNet with a single image approach | fnet |
+|  |  |  main_my_test_fusion.py | To test Cam-ForestNet with a decision-based fusion approach | fnet |
+|  |  |  main_my_test_timeseries.py | To test Cam-ForestNet with a timeseries approach | fnet |
+|  |  |  main_my_train_all.py | To train Cam-ForestNet | fnet |
 
 Data licenses
 ------
