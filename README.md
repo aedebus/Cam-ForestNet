@@ -34,7 +34,7 @@ Description of the sub-folders and files
 |   |   |  extract_polygon_gfc_geowiki.py | To generate GFC forest loss patches where we know the land use for Geowiki data | pygdal |
 |   |   |  extract_polygon_gfc_small_scale_oil_palm.py | To generate GFC forest loss patches where we know the land use for Biopama data | pygdal |
 |   |   |  extract_polygon_gfc_worldcereal.py | To generate GFC forest loss patches where we know the land use for WorldCereal data | pygdal |
-|   |   |  extract_polygon_loss_geowiki.py | To generate shapefile where we know the land use from a Geowiki csv file: need to [download ILUC_DARE_campaign_x_y.csv] (https://pure.iiasa.ac.at/id/eprint/17539/) and add it to the 'Geowiki' subfolder in the 'input' subfolder| pygdal |
+|   |   |  extract_polygon_loss_geowiki.py | To generate shapefile where we know the land use from a Geowiki csv file: need to [download ILUC_DARE_campaign_x_y.csv](https://pure.iiasa.ac.at/id/eprint/17539/) and add it to the 'Geowiki' subfolder in the 'input' subfolder| pygdal |
 |   |   |  extract_polygon_loss_maize.py | To generate shapefile where we know the land use from a WorldCereal csv file | pygdal |
 |   |   |  extract_polygon_water.py | To generate GFC forest loss patches where we know the land use for Worldcover water data | pygdal |
 |   |   |  extract_polygon_worldcover.py | To generate GFC forest loss patches where we know the land use for Worldcover data ([download WorldCover](https://esa-worldcover.org/en/data-access) file and add it in 'ESA_WorldCover_10m_2020_v100_N03E009_Map' subfolder in the 'input' and 'WorldCover' subfolders to reproduce the conversion from TIFF to shapefile)| pygdal |
