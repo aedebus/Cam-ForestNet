@@ -15,7 +15,8 @@ Description of the sub-folders and files
 ------
 - In 'prepare files':
 
-| Sub-folder    | File          | 
+| Sub-folder    | Description sub-folder          | File | Description file | Environment to use | 
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| download auxiliary quick  | To download auxiliary data  |  download_gain_quick.py | To download forest gain | ggdrive
+|   |   |  download_ir_quick.py | To download infrared bands | ggdrive
+
