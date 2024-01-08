@@ -30,7 +30,7 @@ Guidelines for use
 
 **Note 2: Possibility to choose timeseries or fusion approach too  by changing the .py file used**
 
-7. See the results in models>sandbox>test_exp>test_results
+6. See the results in models>sandbox>test_exp>test_results
 
 
 Description of the sub-folders and files
