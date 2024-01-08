@@ -73,10 +73,15 @@ Description of the sub-folders and files
 
 | Sub-folder    | Description sub-folder          | File | Description file | Environment to use | 
 | ------------- | ------------- |------------- |------------- |------------- |
-|  |  |  main_my_test_all.py | To test Cam-ForestNet with a single image approach | fnet |
+| data > ForestNetDataset | To format and store the Cameroon dataset |  fix_folder.py | To remove images with high uncertainty | fnet |
+|  |  |  fix_names_all.py | To fix the names of NCEP data to match the ForestNet formatting for names | fnet |
+| / | / |  main_my_test_all.py | To test Cam-ForestNet with a single image approach | fnet |
 |  |  |  main_my_test_fusion.py | To test Cam-ForestNet with a decision-based fusion approach | fnet |
 |  |  |  main_my_test_timeseries.py | To test Cam-ForestNet with a timeseries approach | fnet |
 |  |  |  main_my_train_all.py | To train Cam-ForestNet | fnet |
+|  |  |  populate_folder_all_detailed.py | To create a formatted data folder to train and test Cam-ForestNet using the steps in 'prepare_files'; split the data into training, validation and testing datasets; and generate a reference csv file with labels | fnet |
+|  |  |  populate_folder_all_detailed_timeseries.py | To create a formatted data folder to train and test Cam-ForestNet with a timeseries approach using the steps in 'prepare_files'; split the data into training, validation and testing datasets; and generate a reference csv file with labels | fnet |
+|  |  |  populate_folder_all_match_test_datasets_planet.py | To select the available Landsat-8 and NICFI PlanetScope data with the same centroid coordinates; split the data into training, validation and testing datasets; and generate a reference csv file with labels to test data fusion | fnet |
 
 Data licenses
 ------
