@@ -4,11 +4,11 @@ Created on Mon Mar 14 14:28:13 2022
 
 @author: Amandine Debus
 
-This script creates a shapefile from the Global Forest Change tiff file by selecting the forest loss in 2020  
+This script creates a shapefile from the Global Forest Change tiff file by selecting the forest loss in the given year
 
 """
 
-#Create shape files for forest loss in 2020: http://geospatialpython.com/2013/11/extracting-features-from-images.html
+#Create shape files for forest loss in the given year: http://geospatialpython.com/2013/11/extracting-features-from-images.html
 
 import imageio
 import numpy as np
