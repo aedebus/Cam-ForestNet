@@ -49,7 +49,7 @@ def getRequests(year):
   list_dir = os.listdir(os.path.join(os.path.dirname(os.getcwd()), 'download_gfc', 'output', str(year)))
   list_points = []
   for shapes in list_dir:
-      if 'additional' in shapes:
+      #if 'additional' in shapes:
         if (shapes != '10N_000E') and (shapes != '10N_010E') and (shapes != '20N_010E'):
             list_index= os.listdir(os.path.join(os.path.dirname(os.getcwd()), 'download_gfc', 'output', str(year), shapes))
             path_out_year = os.path.join(os.getcwd(), 'output', str(year))
