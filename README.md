@@ -11,7 +11,6 @@ Folders
 
 Guidelines for use
 ------
-- From scratch:
 1. Download 'model' locally and the fnet environment
 3. Download datasets and unzip in model>data>ForestNetDataset **add link**
 4. Choose the csv file for the wanted approach and sensor and add in model>data>ForestNetDataset
