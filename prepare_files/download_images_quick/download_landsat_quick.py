@@ -49,28 +49,26 @@ def getRequests(year):
   list_dir = os.listdir(os.path.join(os.path.dirname(os.getcwd()), 'download_gfc', 'output', str(year)))
   list_points = []
   for shapes in list_dir:
-      #if 'additional' in shapes:
-        if (shapes != '10N_000E') and (shapes != '10N_010E') and (shapes != '20N_010E'):
-            list_index= os.listdir(os.path.join(os.path.dirname(os.getcwd()), 'download_gfc', 'output', str(year), shapes))
-            path_out_year = os.path.join(os.getcwd(), 'output', str(year))
-            if os.path.exists(path_out_year) == False:
-                os.mkdir(path_out_year)
+      if (shapes != '10N_000E') and (shapes != '10N_010E') and (shapes != '20N_010E'):
+        list_index= os.listdir(os.path.join(os.path.dirname(os.getcwd()), 'download_gfc', 'output', str(year), shapes))
+        path_out_year = os.path.join(os.getcwd(), 'output', str(year))
+        if os.path.exists(path_out_year) == False:
+            os.mkdir(path_out_year)
 
-            path_out_shapes = os.path.join(path_out_year, shapes)
-            if os.path.exists(path_out_shapes) == False:
-                os.mkdir(path_out_shapes)
+        path_out_shapes = os.path.join(path_out_year, shapes)
+        if os.path.exists(path_out_shapes) == False:
+            os.mkdir(path_out_shapes)
 
-            for index in list_index:
-                path_in = os.path.join(os.path.dirname(os.getcwd()), 'download_gfc', 'output', str(year), shapes, str(index))
-                if os.path.exists(path_in) == True:
-                    r = shapefile.Reader(os.path.join(path_in, 'extract_polygon.shp'))
-                    sh = r.shapes()[0]
-                    loss = ee.Geometry.Polygon(sh.points)
-                    loss_region = pickle.load(open(os.path.join(path_in, 'forest_loss_region.pkl'), 'rb'))
-                    centroid_x = loss_region.centroid.xy[0][0]
-                    centroid_y = loss_region.centroid.xy[1][0]
-                    list_points.append((index, ee.Geometry.Point([centroid_x, centroid_y]), year, os.path.join(path_out_shapes)))
-
+        for index in list_index:
+            path_in = os.path.join(os.path.dirname(os.getcwd()), 'download_gfc', 'output', str(year), shapes, str(index))
+            if os.path.exists(path_in) == True:
+                r = shapefile.Reader(os.path.join(path_in, 'extract_polygon.shp'))
+                sh = r.shapes()[0]
+                loss = ee.Geometry.Polygon(sh.points)
+                loss_region = pickle.load(open(os.path.join(path_in, 'forest_loss_region.pkl'), 'rb'))
+                centroid_x = loss_region.centroid.xy[0][0]
+                centroid_y = loss_region.centroid.xy[1][0]
+                list_points.append((index, ee.Geometry.Point([centroid_x, centroid_y]), year, os.path.join(path_out_shapes)))
   return list_points
 
 @retry(tries=10, delay=1, backoff=2)
