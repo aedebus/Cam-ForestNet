@@ -15,6 +15,7 @@ Guidelines for use
 3. Download datasets and unzip in model>data>ForestNetDataset **add link**
 4. Choose the csv file for the wanted approach and sensor and add in model>data>ForestNetDataset
 5. Run:
+
 a) Train from scratch
 `conda activate fnet`
 
