@@ -17,6 +17,7 @@ Guidelines for use
 5. Run:
 
 a) Train from scratch
+
 `conda activate fnet`
 
 `python3 main_mytrain_all.py train --exp_name test_exp --gpus [0] --data_version ls8_dynamic --merge_scheme four-class --resize aggressive --spatial_augmentation affine --pixel_augmentation hazy --model EfficientNet-b2 --architecture FPN --loss_fn CE --gamma 10 --alpha 10 --late_fusion True --late_fusion_stats True --late_fusion_aux_feats True --late_fusion_ncep True --late_fusion_embedding_dim 128 --late_fusion_dropout 0.1`
@@ -33,6 +34,7 @@ a) Train from scratch
 b) Use the trained model
 
 Best performing option for Landsat-8:
+
 `ulimit -n 4096`
 
 `python3 main_mytest_all.py test --ckpt_path models/sandbox/test_exp_landsat/ckpts/epoch=135-val_f1_macro=0.8258.ckpt`
