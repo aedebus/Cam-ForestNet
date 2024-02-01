@@ -15,7 +15,7 @@ Guidelines for use
 3. Download datasets and unzip in model>data>ForestNetDataset **add link**
 4. Choose the csv file for the wanted approach and sensor and add in model>data>ForestNetDataset
 5. Run:
-
+a) Train from scratch
 `conda activate fnet`
 
 `python3 main_mytrain_all.py train --exp_name test_exp --gpus [0] --data_version ls8_dynamic --merge_scheme four-class --resize aggressive --spatial_augmentation affine --pixel_augmentation hazy --model EfficientNet-b2 --architecture FPN --loss_fn CE --gamma 10 --alpha 10 --late_fusion True --late_fusion_stats True --late_fusion_aux_feats True --late_fusion_ncep True --late_fusion_embedding_dim 128 --late_fusion_dropout 0.1`
@@ -28,6 +28,20 @@ Guidelines for use
 **Note 1: Fill out xx values with the best epoch by examining the sandbox**
 
 **Note 2: Possibility to choose timeseries or fusion approach too  by changing the .py file used**
+
+b) Use the trained model
+
+Best performing option for Landsat-8:
+`ulimit -n 4096`
+
+`python3 main_mytest_all.py test --ckpt_path models/sandbox/test_exp_landsat/ckpts/epoch=135-val_f1_macro=0.8258.ckpt`
+
+Best performing option for NICFI PlanetScope:
+
+`ulimit -n 4096`
+
+`python3 main_mytest_all.py test --ckpt_path models/sandbox/test_exp_planet/ckpts/epoch=105-val_f1_macro=0.8071.ckpt`
+
 
 6. See the results in models>sandbox>test_exp>test_results
 
