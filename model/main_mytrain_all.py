@@ -11,7 +11,7 @@ from pytorch_lightning import Trainer
 from util import *
 from util.constants import *
 
-from lightning import SegmentationModel, ClassificationModel, PretrainingModel
+from lightning import SegmentationModel, ClassificationModel
 from lightning.util import *
 from data.util import add_labels_and_label_names
 
@@ -135,15 +135,7 @@ def train(exp_name,
     args['is_training'] = True
     add_labels_and_label_names(args)
 
-    if pretrained == "landcover":
-        args['ckpt_path'] = get_best_ckpt(
-            save_path, LANDCOVER_EXP_NAMES[model], ckpt_metric
-        )
-
     if segmentation: 
-        if dataset == LANDCOVER_DATASET_NAME:
-            m = PretrainingModel(args)
-        else:
             m = SegmentationModel(args)
     else:
         m = ClassificationModel(args)
@@ -196,10 +188,7 @@ def _load_from_checkpoint(ckpt_path, **kwargs):
     ensemble = os.path.isdir(ckpt_path)
 
     if hparams['segmentation']:
-        if hparams['dataset'] == LANDCOVER_DATASET_NAME:
-            Model = PretrainingModel
-        else:
-            Model = SegmentationModel
+        Model = SegmentationModel
     else:
         Model = ClassificationModel
 
