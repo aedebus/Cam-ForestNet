@@ -29,11 +29,11 @@ class OpenStreetMapDownloader(): #IRVIN
 
  
 def download_all(): #AD
-    years = [2018]
+    years = [2015, 2016, 2017, 2018, 2019, 2020]
     for year in years:
         td = OpenStreetMapDownloader()
         list_dir = os.listdir(os.path.join(os.path.dirname(os.getcwd()), 'download_images_quick', 'output', str(year)))
-        for shapes in ['new_timber_plantations.shp']:
+        for shapes in list_dir:
             list_index = os.listdir(
                 os.path.join(os.path.dirname(os.getcwd()), 'download_images_quick', 'output', str(year), shapes))
             path_out_year = os.path.join(os.getcwd(), 'output', str(year))
