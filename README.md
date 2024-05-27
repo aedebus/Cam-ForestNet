@@ -12,7 +12,7 @@ Folders
 Guidelines for use
 ------
 1. Download 'model' locally and the fnet environment
-3. Download datasets and unzip in model>data>ForestNetDataset **add link**
+3. Download datasets and unzip in model>data>ForestNetDataset: https://zenodo.org/records/8325259
 4. Choose the csv file for the wanted approach and sensor and add in model>data>ForestNetDataset
 5. Run:
 
