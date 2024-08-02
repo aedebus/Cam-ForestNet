@@ -1,0 +1,503 @@
+label,merged_label,latitude,longitude,year,example_path
+Oil palm plantation,Oil palm plantation,3.243345000000001,10.136475,2020,my_examples_planet_nir/10.136475_3.243345000000001
+Oil palm plantation,Oil palm plantation,2.960875,10.026125,2019,my_examples_planet_nir/10.026125_2.960875
+Oil palm plantation,Oil palm plantation,5.194125,9.464625000000002,2017,my_examples_planet_nir/9.464625000000002_5.194125
+Oil palm plantation,Oil palm plantation,5.178763888888889,9.396152777777777,2019,my_examples_planet_nir/9.396152777777777_5.178763888888889
+Oil palm plantation,Oil palm plantation,5.588965909090909,10.099556818181817,2016,my_examples_planet_nir/10.099556818181817_5.588965909090909
+Oil palm plantation,Oil palm plantation,4.45775,8.964125,2015,my_examples_planet_nir/8.964125_4.45775
+Oil palm plantation,Oil palm plantation,2.978612288135593,10.074874999999997,2019,my_examples_planet_nir/10.074874999999997_2.978612288135593
+Oil palm plantation,Oil palm plantation,3.1370416666666667,12.272541666666669,2020,my_examples_planet_nir/12.272541666666669_3.1370416666666667
+Oil palm plantation,Oil palm plantation,4.992,8.905124999999998,2015,my_examples_planet_nir/8.905124999999998_4.992
+Oil palm plantation,Oil palm plantation,4.133624999999999,9.320625000000001,2017,my_examples_planet_nir/9.320625000000001_4.133624999999999
+Oil palm plantation,Oil palm plantation,4.05425,9.199125,2017,my_examples_planet_nir/9.199125_4.05425
+Oil palm plantation,Oil palm plantation,3.723125,10.642624999999999,2016,my_examples_planet_nir/10.642624999999999_3.723125
+Oil palm plantation,Oil palm plantation,3.7196249999999997,10.582625,2019,my_examples_planet_nir/10.582625_3.7196249999999997
+Oil palm plantation,Oil palm plantation,4.531553571428572,9.116482142857143,2017,my_examples_planet_nir/9.116482142857143_4.531553571428572
+Oil palm plantation,Oil palm plantation,4.229625,9.014624999999999,2016,my_examples_planet_nir/9.014624999999999_4.229625
+Oil palm plantation,Oil palm plantation,2.902416666666667,9.946499999999999,2018,my_examples_planet_nir/9.946499999999999_2.902416666666667
+Oil palm plantation,Oil palm plantation,3.606625,10.668999999999999,2015,my_examples_planet_nir/10.668999999999999_3.606625
+Oil palm plantation,Oil palm plantation,4.0326249999999995,9.118374999999999,2017,my_examples_planet_nir/9.118374999999999_4.0326249999999995
+Oil palm plantation,Oil palm plantation,4.115013888888888,8.991847222222223,2019,my_examples_planet_nir/8.991847222222223_4.115013888888888
+Oil palm plantation,Oil palm plantation,2.9508749999999995,10.034875000000001,2019,my_examples_planet_nir/10.034875000000001_2.9508749999999995
+Oil palm plantation,Oil palm plantation,5.169874999999999,9.413875,2016,my_examples_planet_nir/9.413875_5.169874999999999
+Oil palm plantation,Oil palm plantation,3.2381607142857143,10.05455357142857,2016,my_examples_planet_nir/10.05455357142857_3.2381607142857143
+Oil palm plantation,Oil palm plantation,3.6279999999999997,10.666250000000002,2016,my_examples_planet_nir/10.666250000000002_3.6279999999999997
+Oil palm plantation,Oil palm plantation,2.9046249999999993,9.945250000000001,2019,my_examples_planet_nir/9.945250000000001_2.9046249999999993
+Oil palm plantation,Oil palm plantation,2.9552500000000004,10.033124999999998,2020,my_examples_planet_nir/10.033124999999998_2.9552500000000004
+Oil palm plantation,Oil palm plantation,3.270625,10.147124999999997,2019,my_examples_planet_nir/10.147124999999997_3.270625
+Oil palm plantation,Oil palm plantation,5.039125,9.065249999999999,2017,my_examples_planet_nir/9.065249999999999_5.039125
+Oil palm plantation,Oil palm plantation,4.532696428571429,9.111875000000003,2020,my_examples_planet_nir/9.111875000000003_4.532696428571429
+Oil palm plantation,Oil palm plantation,2.975375,10.038,2016,my_examples_planet_nir/10.038_2.975375
+Oil palm plantation,Oil palm plantation,4.513375,8.99075,2016,my_examples_planet_nir/8.99075_4.513375
+Oil palm plantation,Oil palm plantation,4.101125,9.211500000000001,2015,my_examples_planet_nir/9.211500000000001_4.101125
+Timber plantation,Timber plantation,1.7919583333333335,15.88279166666667,2020,my_examples_planet_nir/15.88279166666667_1.7919583333333335
+Timber plantation,Timber plantation,1.9388750000000001,15.814875,2016,my_examples_planet_nir/15.814875_1.9388750000000001
+Timber plantation,Timber plantation,1.9051250000000002,15.931875000000002,2017,my_examples_planet_nir/15.931875000000002_1.9051250000000002
+Timber plantation,Timber plantation,1.9186249999999998,15.872875,2017,my_examples_planet_nir/15.872875_1.9186249999999998
+Timber plantation,Timber plantation,1.9002499999999998,15.872250000000001,2017,my_examples_planet_nir/15.872250000000001_1.9002499999999998
+Timber plantation,Timber plantation,2.111291666666667,16.006291666666666,2017,my_examples_planet_nir/16.006291666666666_2.111291666666667
+Timber plantation,Timber plantation,1.9343125,15.879312500000001,2017,my_examples_planet_nir/15.879312500000001_1.9343125
+Timber plantation,Timber plantation,1.7701249999999995,16.007875,2017,my_examples_planet_nir/16.007875_1.7701249999999995
+Timber plantation,Timber plantation,1.9633750000000003,15.831375000000001,2016,my_examples_planet_nir/15.831375000000001_1.9633750000000003
+Timber plantation,Timber plantation,1.7808749999999993,15.944,2017,my_examples_planet_nir/15.944_1.7808749999999993
+Timber plantation,Timber plantation,1.9003749999999995,15.8705,2018,my_examples_planet_nir/15.8705_1.9003749999999995
+Timber plantation,Timber plantation,1.7683749999999998,16.002250000000004,2017,my_examples_planet_nir/16.002250000000004_1.7683749999999998
+Timber plantation,Timber plantation,1.9249583333333327,15.875291666666664,2017,my_examples_planet_nir/15.875291666666664_1.9249583333333327
+Timber plantation,Timber plantation,1.8542499999999993,15.8465,2016,my_examples_planet_nir/15.8465_1.8542499999999993
+Timber plantation,Timber plantation,1.9338749999999998,15.877250000000004,2017,my_examples_planet_nir/15.877250000000004_1.9338749999999998
+Timber plantation,Timber plantation,1.911625,15.913625,2017,my_examples_planet_nir/15.913625_1.911625
+Timber plantation,Timber plantation,1.9058511904761903,15.92725595238095,2017,my_examples_planet_nir/15.92725595238095_1.9058511904761903
+Timber plantation,Timber plantation,1.939125,15.87675,2017,my_examples_planet_nir/15.87675_1.939125
+Timber plantation,Timber plantation,1.9564583333333332,15.857458333333332,2017,my_examples_planet_nir/15.857458333333332_1.9564583333333332
+Timber plantation,Timber plantation,1.9621249999999992,15.863375,2017,my_examples_planet_nir/15.863375_1.9621249999999992
+Timber plantation,Timber plantation,1.8988749999999994,15.869000000000002,2017,my_examples_planet_nir/15.869000000000002_1.8988749999999994
+Timber plantation,Timber plantation,1.8176249999999996,15.876000000000001,2015,my_examples_planet_nir/15.876000000000001_1.8176249999999996
+Timber plantation,Timber plantation,1.7968416666666662,15.888775000000004,2016,my_examples_planet_nir/15.888775000000004_1.7968416666666662
+Timber plantation,Timber plantation,1.9180937500000004,15.872437500000004,2017,my_examples_planet_nir/15.872437500000004_1.9180937500000004
+Timber plantation,Timber plantation,2.04125,16.055875,2017,my_examples_planet_nir/16.055875_2.04125
+Timber plantation,Timber plantation,1.9168750000000003,15.875124999999997,2017,my_examples_planet_nir/15.875124999999997_1.9168750000000003
+Timber plantation,Timber plantation,1.939375,15.883125000000001,2017,my_examples_planet_nir/15.883125000000001_1.939375
+Timber plantation,Timber plantation,1.7683749999999998,16.005250000000004,2016,my_examples_planet_nir/16.005250000000004_1.7683749999999998
+Timber plantation,Timber plantation,1.8989044117647054,15.870433823529407,2017,my_examples_planet_nir/15.870433823529407_1.8989044117647054
+Timber plantation,Timber plantation,1.9146250000000002,15.89125,2017,my_examples_planet_nir/15.89125_1.9146250000000002
+Timber plantation,Timber plantation,2.075625,15.779624999999998,2020,my_examples_planet_nir/15.779624999999998_2.075625
+Timber plantation,Timber plantation,1.7716249999999993,15.986125000000001,2020,my_examples_planet_nir/15.986125000000001_1.7716249999999993
+Timber plantation,Timber plantation,1.926875,15.884875,2017,my_examples_planet_nir/15.884875_1.926875
+Timber plantation,Timber plantation,2.0228749999999995,16.052125,2017,my_examples_planet_nir/16.052125_2.0228749999999995
+Timber plantation,Timber plantation,1.7710000000000001,15.988708333333337,2020,my_examples_planet_nir/15.988708333333337_1.7710000000000001
+Timber plantation,Timber plantation,1.9158749999999998,15.862374999999998,2017,my_examples_planet_nir/15.862374999999998_1.9158749999999998
+Timber plantation,Timber plantation,1.7686250000000001,16.004875,2016,my_examples_planet_nir/16.004875_1.7686250000000001
+Timber plantation,Timber plantation,1.8420749999999997,15.838525000000004,2020,my_examples_planet_nir/15.838525000000004_1.8420749999999997
+Timber plantation,Timber plantation,1.957413461538461,15.85406730769231,2017,my_examples_planet_nir/15.85406730769231_1.957413461538461
+Timber plantation,Timber plantation,1.800528846153847,15.883471153846157,2018,my_examples_planet_nir/15.883471153846157_1.800528846153847
+Timber plantation,Timber plantation,1.9532916666666658,15.849958333333332,2017,my_examples_planet_nir/15.849958333333332_1.9532916666666658
+Timber plantation,Timber plantation,2.1048749999999994,15.968374999999996,2016,my_examples_planet_nir/15.968374999999996_2.1048749999999994
+Timber plantation,Timber plantation,1.9596249999999997,15.8255,2016,my_examples_planet_nir/15.8255_1.9596249999999997
+Timber plantation,Timber plantation,1.9593749999999996,15.86225,2017,my_examples_planet_nir/15.86225_1.9593749999999996
+Timber plantation,Timber plantation,1.8348749999999991,15.890875,2018,my_examples_planet_nir/15.890875_1.8348749999999991
+Timber plantation,Timber plantation,1.8771250000000004,15.974124999999997,2017,my_examples_planet_nir/15.974124999999997_1.8771250000000004
+Timber plantation,Timber plantation,2.027625,15.861374999999999,2016,my_examples_planet_nir/15.861374999999999_2.027625
+Timber plantation,Timber plantation,1.8233749999999995,15.871500000000003,2018,my_examples_planet_nir/15.871500000000003_1.8233749999999995
+Timber plantation,Timber plantation,2.0050480769230763,15.841413461538462,2017,my_examples_planet_nir/15.841413461538462_2.0050480769230763
+Timber plantation,Timber plantation,1.9590416666666661,15.856458333333334,2017,my_examples_planet_nir/15.856458333333334_1.9590416666666661
+Timber plantation,Timber plantation,1.8409583333333335,16.017041666666664,2016,my_examples_planet_nir/16.017041666666664_1.8409583333333335
+Timber plantation,Timber plantation,2.022625,15.837375,2015,my_examples_planet_nir/15.837375_2.022625
+Timber plantation,Timber plantation,1.9141249999999996,15.886499999999998,2017,my_examples_planet_nir/15.886499999999998_1.9141249999999996
+Timber plantation,Timber plantation,2.030291666666667,15.834458333333334,2018,my_examples_planet_nir/15.834458333333334_2.030291666666667
+Timber plantation,Timber plantation,2.027625,15.822750000000001,2015,my_examples_planet_nir/15.822750000000001_2.027625
+Timber plantation,Timber plantation,1.9577499999999999,15.896875,2018,my_examples_planet_nir/15.896875_1.9577499999999999
+Timber plantation,Timber plantation,1.7967500000000003,15.915458333333335,2016,my_examples_planet_nir/15.915458333333335_1.7967500000000003
+Timber plantation,Timber plantation,1.7697916666666658,15.998791666666666,2016,my_examples_planet_nir/15.998791666666666_1.7697916666666658
+Timber plantation,Timber plantation,1.9201249999999994,15.87675,2017,my_examples_planet_nir/15.87675_1.9201249999999994
+Timber plantation,Timber plantation,1.9487499999999995,15.835375,2017,my_examples_planet_nir/15.835375_1.9487499999999995
+Timber plantation,Timber plantation,1.8077499999999997,15.892125000000002,2018,my_examples_planet_nir/15.892125000000002_1.8077499999999997
+Timber plantation,Timber plantation,1.8402083333333337,15.86623611111111,2018,my_examples_planet_nir/15.86623611111111_1.8402083333333337
+Timber plantation,Timber plantation,2.031458333333333,15.834208333333335,2019,my_examples_planet_nir/15.834208333333335_2.031458333333333
+Timber plantation,Timber plantation,1.7916249999999998,15.883125000000001,2019,my_examples_planet_nir/15.883125000000001_1.7916249999999998
+Timber plantation,Timber plantation,1.909999999999999,15.874625000000002,2017,my_examples_planet_nir/15.874625000000002_1.909999999999999
+Timber plantation,Timber plantation,2.0805,16.059375,2018,my_examples_planet_nir/16.059375_2.0805
+Timber plantation,Timber plantation,1.9403750000000006,15.960750000000003,2016,my_examples_planet_nir/15.960750000000003_1.9403750000000006
+Timber plantation,Timber plantation,2.1080416666666664,16.01020833333333,2020,my_examples_planet_nir/16.01020833333333_2.1080416666666664
+Timber plantation,Timber plantation,1.9298749999999998,15.858749999999997,2017,my_examples_planet_nir/15.858749999999997_1.9298749999999998
+Timber plantation,Timber plantation,1.7818750000000008,15.942125000000003,2017,my_examples_planet_nir/15.942125000000003_1.7818750000000008
+Timber plantation,Timber plantation,1.9121249999999996,15.861,2017,my_examples_planet_nir/15.861_1.9121249999999996
+Timber plantation,Timber plantation,1.8301250000000004,15.869187500000002,2020,my_examples_planet_nir/15.869187500000002_1.8301250000000004
+Timber plantation,Timber plantation,1.7726875,15.986437500000001,2020,my_examples_planet_nir/15.986437500000001_1.7726875
+Timber plantation,Timber plantation,2.0288749999999998,16.057250000000003,2017,my_examples_planet_nir/16.057250000000003_2.0288749999999998
+Timber plantation,Timber plantation,1.9641250000000001,15.860125,2017,my_examples_planet_nir/15.860125_1.9641250000000001
+Timber plantation,Timber plantation,1.7931875000000002,15.881687500000002,2018,my_examples_planet_nir/15.881687500000002_1.7931875000000002
+Timber plantation,Timber plantation,1.7724903846153848,15.995605769230773,2018,my_examples_planet_nir/15.995605769230773_1.7724903846153848
+Fruit plantation,Fruit plantation,4.720513888888888,9.69641666666667,2015,my_examples_planet_nir/9.69641666666667_4.720513888888888
+Fruit plantation,Fruit plantation,4.847319444444445,9.79076388888889,2017,my_examples_planet_nir/9.79076388888889_4.847319444444445
+Fruit plantation,Fruit plantation,4.7216249999999995,9.695125,2015,my_examples_planet_nir/9.695125_4.7216249999999995
+Fruit plantation,Fruit plantation,4.85375,9.79175,2016,my_examples_planet_nir/9.79175_4.85375
+Fruit plantation,Fruit plantation,4.728625,9.777000000000001,2019,my_examples_planet_nir/9.777000000000001_4.728625
+Fruit plantation,Fruit plantation,4.730625,9.769875,2016,my_examples_planet_nir/9.769875_4.730625
+Fruit plantation,Fruit plantation,4.731,9.771125000000001,2017,my_examples_planet_nir/9.771125000000001_4.731
+Fruit plantation,Fruit plantation,4.72675,9.653125,2015,my_examples_planet_nir/9.653125_4.72675
+Fruit plantation,Fruit plantation,4.8514687499999996,9.785156250000002,2019,my_examples_planet_nir/9.785156250000002_4.8514687499999996
+Rubber plantation,Rubber plantation,4.436624999999999,9.400375,2016,my_examples_planet_nir/9.400375_4.436624999999999
+Rubber plantation,Rubber plantation,4.011125,9.280625,2015,my_examples_planet_nir/9.280625_4.011125
+Rubber plantation,Rubber plantation,3.471374999999999,10.087250000000001,2015,my_examples_planet_nir/10.087250000000001_3.471374999999999
+Rubber plantation,Rubber plantation,3.0735,12.436125,2015,my_examples_planet_nir/12.436125_3.0735
+Rubber plantation,Rubber plantation,3.054958333333334,9.998458333333334,2016,my_examples_planet_nir/9.998458333333334_3.054958333333334
+Rubber plantation,Rubber plantation,3.0606826923076933,12.407346153846154,2015,my_examples_planet_nir/12.407346153846154_3.0606826923076933
+Rubber plantation,Rubber plantation,3.076125,12.436,2018,my_examples_planet_nir/12.436_3.076125
+Rubber plantation,Rubber plantation,3.053791666666667,9.998458333333334,2017,my_examples_planet_nir/9.998458333333334_3.053791666666667
+Rubber plantation,Rubber plantation,4.013374999999999,9.270125,2017,my_examples_planet_nir/9.270125_4.013374999999999
+Rubber plantation,Rubber plantation,3.4706249999999996,10.090125,2016,my_examples_planet_nir/10.090125_3.4706249999999996
+Rubber plantation,Rubber plantation,3.1807499999999997,12.4275,2015,my_examples_planet_nir/12.4275_3.1807499999999997
+Rubber plantation,Rubber plantation,4.602482142857141,12.23105357142857,2020,my_examples_planet_nir/12.23105357142857_4.602482142857141
+Rubber plantation,Rubber plantation,4.012803571428571,9.252339285714285,2016,my_examples_planet_nir/9.252339285714285_4.012803571428571
+Rubber plantation,Rubber plantation,4.012875,9.251375,2016,my_examples_planet_nir/9.251375_4.012875
+Rubber plantation,Rubber plantation,2.809125,12.532625,2015,my_examples_planet_nir/12.532625_2.809125
+Rubber plantation,Rubber plantation,2.7288749999999995,9.990375,2016,my_examples_planet_nir/9.990375_2.7288749999999995
+Rubber plantation,Rubber plantation,3.327125,10.015125000000001,2020,my_examples_planet_nir/10.015125000000001_3.327125
+Rubber plantation,Rubber plantation,3.3598749999999997,10.116624999999999,2016,my_examples_planet_nir/10.116624999999999_3.3598749999999997
+Rubber plantation,Rubber plantation,3.0761249999999998,12.426874999999999,2017,my_examples_planet_nir/12.426874999999999_3.0761249999999998
+Rubber plantation,Rubber plantation,3.0105,12.553374999999999,2017,my_examples_planet_nir/12.553374999999999_3.0105
+Rubber plantation,Rubber plantation,4.0140416666666665,9.268708333333333,2020,my_examples_planet_nir/9.268708333333333_4.0140416666666665
+Rubber plantation,Rubber plantation,2.7218223684210523,9.98283552631579,2015,my_examples_planet_nir/9.98283552631579_2.7218223684210523
+Rubber plantation,Rubber plantation,3.0725357142857144,12.418017857142855,2015,my_examples_planet_nir/12.418017857142855_3.0725357142857144
+Rubber plantation,Rubber plantation,3.0383749999999994,9.993125,2019,my_examples_planet_nir/9.993125_3.0383749999999994
+Rubber plantation,Rubber plantation,4.40875,9.3735,2017,my_examples_planet_nir/9.3735_4.40875
+Rubber plantation,Rubber plantation,3.238375,12.407250000000001,2016,my_examples_planet_nir/12.407250000000001_3.238375
+Rubber plantation,Rubber plantation,2.9815,10.095625,2015,my_examples_planet_nir/10.095625_2.9815
+Rubber plantation,Rubber plantation,2.7278749999999996,9.99,2020,my_examples_planet_nir/9.99_2.7278749999999996
+Rubber plantation,Rubber plantation,2.7215000000000003,9.977125000000001,2017,my_examples_planet_nir/9.977125000000001_2.7215000000000003
+Rubber plantation,Rubber plantation,3.190375,12.403375,2019,my_examples_planet_nir/12.403375_3.190375
+Rubber plantation,Rubber plantation,2.8086964285714284,12.545232142857142,2015,my_examples_planet_nir/12.545232142857142_2.8086964285714284
+Other large-scale plantations,Other large-scale plantations,4.1079583333333325,9.224208333333335,2020,my_examples_planet_nir/9.224208333333335_4.1079583333333325
+Other large-scale plantations,Other large-scale plantations,6.112000000000001,10.389624999999999,2016,my_examples_planet_nir/10.389624999999999_6.112000000000001
+Other large-scale plantations,Other large-scale plantations,6.387875,10.806750000000001,2016,my_examples_planet_nir/10.806750000000001_6.387875
+Other large-scale plantations,Other large-scale plantations,6.371375,10.790500000000002,2015,my_examples_planet_nir/10.790500000000002_6.371375
+Other large-scale plantations,Other large-scale plantations,3.898375,9.805625,2017,my_examples_planet_nir/9.805625_3.898375
+Other large-scale plantations,Other large-scale plantations,3.79325,9.883249999999999,2020,my_examples_planet_nir/9.883249999999999_3.79325
+Other large-scale plantations,Other large-scale plantations,3.859125,9.960375,2016,my_examples_planet_nir/9.960375_3.859125
+Other large-scale plantations,Other large-scale plantations,3.6276249999999997,10.088375000000001,2017,my_examples_planet_nir/10.088375000000001_3.6276249999999997
+Other large-scale plantations,Other large-scale plantations,3.86,9.985375000000001,2020,my_examples_planet_nir/9.985375000000001_3.86
+Other large-scale plantations,Other large-scale plantations,4.136569444444444,9.254597222222221,2019,my_examples_planet_nir/9.254597222222221_4.136569444444444
+Other large-scale plantations,Other large-scale plantations,6.084541666666666,10.381875000000003,2019,my_examples_planet_nir/10.381875000000003_6.084541666666666
+Other large-scale plantations,Other large-scale plantations,4.0905000000000005,9.20875,2015,my_examples_planet_nir/9.20875_4.0905000000000005
+Other large-scale plantations,Other large-scale plantations,4.136125000000001,9.251875,2016,my_examples_planet_nir/9.251875_4.136125000000001
+Other large-scale plantations,Other large-scale plantations,3.788125,9.874375,2020,my_examples_planet_nir/9.874375_3.788125
+Other large-scale plantations,Other large-scale plantations,3.857625,9.984874999999999,2020,my_examples_planet_nir/9.984874999999999_3.857625
+Other large-scale plantations,Other large-scale plantations,6.085165289256196,10.37841873278237,2020,my_examples_planet_nir/10.37841873278237_6.085165289256196
+Other large-scale plantations,Other large-scale plantations,6.387125,10.807374999999999,2016,my_examples_planet_nir/10.807374999999999_6.387125
+Other large-scale plantations,Other large-scale plantations,6.383125000000001,10.815875,2019,my_examples_planet_nir/10.815875_6.383125000000001
+Other large-scale plantations,Other large-scale plantations,6.085,10.381625,2015,my_examples_planet_nir/10.381625_6.085
+Grassland shrubland,Grassland shrubland,5.823513888888888,9.70848611111111,2020,my_examples_planet_nir/9.70848611111111_5.823513888888888
+Grassland shrubland,Grassland shrubland,5.868025406504064,9.40241361788618,2020,my_examples_planet_nir/9.40241361788618_5.868025406504064
+Grassland shrubland,Grassland shrubland,5.8657708333333325,9.390624999999996,2020,my_examples_planet_nir/9.390624999999996_5.8657708333333325
+Grassland shrubland,Grassland shrubland,5.862591666666666,9.941358333333334,2020,my_examples_planet_nir/9.941358333333334_5.862591666666666
+Grassland shrubland,Grassland shrubland,5.842808333333334,9.296201666666665,2020,my_examples_planet_nir/9.296201666666665_5.842808333333334
+Grassland shrubland,Grassland shrubland,5.844827380952381,9.387148809523811,2020,my_examples_planet_nir/9.387148809523811_5.844827380952381
+Grassland shrubland,Grassland shrubland,5.979638888888887,9.43113492063492,2020,my_examples_planet_nir/9.43113492063492_5.979638888888887
+Grassland shrubland,Grassland shrubland,5.836666666666668,9.692416666666666,2020,my_examples_planet_nir/9.692416666666666_5.836666666666668
+Grassland shrubland,Grassland shrubland,5.938767857142857,9.119946428571426,2020,my_examples_planet_nir/9.119946428571426_5.938767857142857
+Grassland shrubland,Grassland shrubland,5.861625,9.83125,2020,my_examples_planet_nir/9.83125_5.861625
+Grassland shrubland,Grassland shrubland,5.904375,9.553041666666665,2020,my_examples_planet_nir/9.553041666666665_5.904375
+Grassland shrubland,Grassland shrubland,5.844333333333333,9.386208333333332,2020,my_examples_planet_nir/9.386208333333332_5.844333333333333
+Grassland shrubland,Grassland shrubland,5.992558333333333,9.26540833333333,2020,my_examples_planet_nir/9.26540833333333_5.992558333333333
+Grassland shrubland,Grassland shrubland,5.943625,9.117541666666668,2020,my_examples_planet_nir/9.117541666666668_5.943625
+Grassland shrubland,Grassland shrubland,5.812625000000001,9.652375,2020,my_examples_planet_nir/9.652375_5.812625000000001
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.86625,9.881750000000002,2019,my_examples_planet_nir/9.881750000000002_3.86625
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.207847523249041,9.59155742601412,2019,my_examples_planet_nir/9.59155742601412_4.207847523249041
+Small-scale oil palm plantation,Small-scale oil palm plantation,5.036580405871591,9.90609497155133,2019,my_examples_planet_nir/9.90609497155133_5.036580405871591
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.9681255611340847,10.237620654911247,2019,my_examples_planet_nir/10.237620654911247_3.9681255611340847
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.4880920729017344,11.779092518169222,2019,my_examples_planet_nir/11.779092518169222_3.4880920729017344
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.151653673728632,9.95059696332794,2019,my_examples_planet_nir/9.95059696332794_4.151653673728632
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.033253582458919,10.908550049495151,2019,my_examples_planet_nir/10.908550049495151_4.033253582458919
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.6223436151257173,10.719760853791328,2019,my_examples_planet_nir/10.719760853791328_3.6223436151257173
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.9747994659212513,10.017809290629039,2019,my_examples_planet_nir/10.017809290629039_3.9747994659212513
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.965017688499572,9.942476221887878,2019,my_examples_planet_nir/9.942476221887878_3.965017688499572
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.240622626962688,9.524371979316323,2019,my_examples_planet_nir/9.524371979316323_4.240622626962688
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.9736538170281204,9.929818227852673,2019,my_examples_planet_nir/9.929818227852673_3.9736538170281204
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.886111931078797,10.876975600904734,2019,my_examples_planet_nir/10.876975600904734_3.886111931078797
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.165374999999999,9.580605997822214,2019,my_examples_planet_nir/9.580605997822214_4.165374999999999
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.8584325389615404,9.874696146639062,2019,my_examples_planet_nir/9.874696146639062_3.8584325389615404
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.289256493061053,9.585673792444004,2019,my_examples_planet_nir/9.585673792444004_4.289256493061053
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.847293847385555,9.877839093400791,2019,my_examples_planet_nir/9.877839093400791_3.847293847385555
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.208939318948444,9.613932771088342,2019,my_examples_planet_nir/9.613932771088342_4.208939318948444
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.7264909265491983,10.682021401207683,2019,my_examples_planet_nir/10.682021401207683_3.7264909265491983
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.165874999999999,9.579999999999998,2019,my_examples_planet_nir/9.579999999999998_4.165874999999999
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.7187994881115825,10.583455013090811,2019,my_examples_planet_nir/10.583455013090811_3.7187994881115825
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.190131755098,9.572875,2019,my_examples_planet_nir/9.572875_4.190131755098
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.165208333333334,9.58854166666667,2019,my_examples_planet_nir/9.58854166666667_4.165208333333334
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.192514399128886,9.635764418926945,2019,my_examples_planet_nir/9.635764418926945_4.192514399128886
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.8610248822015443,9.89199078103346,2019,my_examples_planet_nir/9.89199078103346_3.8610248822015443
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.753645752751944,11.394236553882799,2019,my_examples_planet_nir/11.394236553882799_3.753645752751944
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.158874999999999,9.516625000000001,2019,my_examples_planet_nir/9.516625000000001_4.158874999999999
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.6304653131866726,10.291042869722196,2019,my_examples_planet_nir/10.291042869722196_3.6304653131866726
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.6942411334389234,10.614020471193824,2019,my_examples_planet_nir/10.614020471193824_3.6942411334389234
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.967545090081172,10.237789929716888,2019,my_examples_planet_nir/10.237789929716888_3.967545090081172
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.7368493187268936,10.739347545408908,2019,my_examples_planet_nir/10.739347545408908_3.7368493187268936
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.759375,10.68876505345476,2019,my_examples_planet_nir/10.68876505345476_3.759375
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.865625,9.881625000000001,2019,my_examples_planet_nir/9.881625000000001_3.865625
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.339756490793902,9.387661902593546,2019,my_examples_planet_nir/9.387661902593546_4.339756490793902
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.157441995090653,9.579127341711649,2019,my_examples_planet_nir/9.579127341711649_4.157441995090653
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.681488081568007,11.599802578697288,2019,my_examples_planet_nir/11.599802578697288_3.681488081568007
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.6490234567412396,11.531711442288655,2019,my_examples_planet_nir/11.531711442288655_3.6490234567412396
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.734208102864394,10.681239023071152,2019,my_examples_planet_nir/10.681239023071152_3.734208102864394
+Small-scale oil palm plantation,Small-scale oil palm plantation,5.81418990517537,9.780002037769354,2019,my_examples_planet_nir/9.780002037769354_5.81418990517537
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.22428961294793,9.651025114828746,2019,my_examples_planet_nir/9.651025114828746_4.22428961294793
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.297876714456591,9.636590354270474,2019,my_examples_planet_nir/9.636590354270474_4.297876714456591
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.684155784639555,10.683300450580033,2019,my_examples_planet_nir/10.683300450580033_3.684155784639555
+Small-scale oil palm plantation,Small-scale oil palm plantation,3.964932515320599,9.90431363365533,2019,my_examples_planet_nir/9.90431363365533_3.964932515320599
+Small-scale oil palm plantation,Small-scale oil palm plantation,2.87122062264898,12.032359021975847,2019,my_examples_planet_nir/12.032359021975847_2.87122062264898
+Small-scale other plantation,Small-scale other plantation,5.900669473076496,10.187065239174075,2020,my_examples_planet_nir/10.187065239174075_5.900669473076496
+Small-scale other plantation,Small-scale other plantation,5.87552727138268,10.207742341058417,2020,my_examples_planet_nir/10.207742341058417_5.87552727138268
+Small-scale other plantation,Small-scale other plantation,5.306374096818124,10.597986523487263,2020,my_examples_planet_nir/10.597986523487263_5.306374096818124
+Small-scale other plantation,Small-scale other plantation,5.424364225713523,10.755983545938843,2020,my_examples_planet_nir/10.755983545938843_5.424364225713523
+Small-scale other plantation,Small-scale other plantation,5.2477771871310965,10.436659038470818,2020,my_examples_planet_nir/10.436659038470818_5.2477771871310965
+Small-scale other plantation,Small-scale other plantation,5.350925733436256,10.823327604015835,2020,my_examples_planet_nir/10.823327604015835_5.350925733436256
+Small-scale other plantation,Small-scale other plantation,5.707917618953397,10.079177602013344,2020,my_examples_planet_nir/10.079177602013344_5.707917618953397
+Small-scale other plantation,Small-scale other plantation,5.681596157368956,10.704276482067204,2020,my_examples_planet_nir/10.704276482067204_5.681596157368956
+Small-scale other plantation,Small-scale other plantation,5.872277270946491,10.195742339447875,2020,my_examples_planet_nir/10.195742339447875_5.872277270946491
+Small-scale other plantation,Small-scale other plantation,5.5497864671198265,10.408212106054732,2020,my_examples_planet_nir/10.408212106054732_5.5497864671198265
+Small-scale other plantation,Small-scale other plantation,6.2920689939598295,10.339242358707295,2020,my_examples_planet_nir/10.339242358707295_6.2920689939598295
+Small-scale other plantation,Small-scale other plantation,5.863115724103519,10.187158405195431,2020,my_examples_planet_nir/10.187158405195431_5.863115724103519
+Small-scale other plantation,Small-scale other plantation,5.291057063577994,10.875282045432357,2020,my_examples_planet_nir/10.875282045432357_5.291057063577994
+Small-scale other plantation,Small-scale other plantation,5.874655374662372,10.186605947396611,2020,my_examples_planet_nir/10.186605947396611_5.874655374662372
+Small-scale other plantation,Small-scale other plantation,5.392199044765367,10.794840327149275,2020,my_examples_planet_nir/10.794840327149275_5.392199044765367
+Small-scale other plantation,Small-scale other plantation,5.392217217440006,10.626027956411024,2020,my_examples_planet_nir/10.626027956411024_5.392217217440006
+Small-scale other plantation,Small-scale other plantation,5.873985604503511,10.187575671696326,2020,my_examples_planet_nir/10.187575671696326_5.873985604503511
+Small-scale other plantation,Small-scale other plantation,5.258985521963131,10.894075766517107,2020,my_examples_planet_nir/10.894075766517107_5.258985521963131
+Small-scale other plantation,Small-scale other plantation,5.875027271315574,10.187784005052029,2020,my_examples_planet_nir/10.187784005052029_5.875027271315574
+Small-scale other plantation,Small-scale other plantation,5.576766523193497,10.759461604305038,2020,my_examples_planet_nir/10.759461604305038_5.576766523193497
+Small-scale other plantation,Small-scale other plantation,5.7790657140394055,10.38281473959657,2020,my_examples_planet_nir/10.38281473959657_5.7790657140394055
+Small-scale other plantation,Small-scale other plantation,6.266320246873465,10.594099126514656,2020,my_examples_planet_nir/10.594099126514656_6.266320246873465
+Small-scale other plantation,Small-scale other plantation,6.031950049571341,10.409025025954703,2020,my_examples_planet_nir/10.409025025954703_6.031950049571341
+Small-scale maize plantation,Small-scale maize plantation,7.8292741151514464,14.751516682635415,2020,my_examples_planet_nir/14.751516682635415_7.8292741151514464
+Small-scale maize plantation,Small-scale maize plantation,7.375679074421927,13.003176020941595,2020,my_examples_planet_nir/13.003176020941595_7.375679074421927
+Small-scale maize plantation,Small-scale maize plantation,7.827896959601506,12.449807122222532,2020,my_examples_planet_nir/12.449807122222532_7.827896959601506
+Small-scale maize plantation,Small-scale maize plantation,7.702232537288833,13.509993433748033,2020,my_examples_planet_nir/13.509993433748033_7.702232537288833
+Small-scale maize plantation,Small-scale maize plantation,7.8088750000000005,14.632375,2020,my_examples_planet_nir/14.632375_7.8088750000000005
+Small-scale maize plantation,Small-scale maize plantation,7.813875,14.636874999999998,2020,my_examples_planet_nir/14.636874999999998_7.813875
+Small-scale maize plantation,Small-scale maize plantation,7.617349990332181,14.558159700471744,2020,my_examples_planet_nir/14.558159700471744_7.617349990332181
+Small-scale maize plantation,Small-scale maize plantation,7.729625,13.94675,2020,my_examples_planet_nir/13.94675_7.729625
+Small-scale maize plantation,Small-scale maize plantation,7.470415708954125,13.976286912656006,2020,my_examples_planet_nir/13.976286912656006_7.470415708954125
+Small-scale maize plantation,Small-scale maize plantation,7.628670440318576,14.563563485561035,2020,my_examples_planet_nir/14.563563485561035_7.628670440318576
+Small-scale maize plantation,Small-scale maize plantation,7.598283337604461,13.933609818717308,2020,my_examples_planet_nir/13.933609818717308_7.598283337604461
+Small-scale maize plantation,Small-scale maize plantation,7.675113785942785,14.241634037796192,2020,my_examples_planet_nir/14.241634037796192_7.675113785942785
+Small-scale maize plantation,Small-scale maize plantation,7.378193566617205,12.949363214799298,2020,my_examples_planet_nir/12.949363214799298_7.378193566617205
+Small-scale maize plantation,Small-scale maize plantation,7.776214971157342,14.756950024367313,2020,my_examples_planet_nir/14.756950024367313_7.776214971157342
+Small-scale maize plantation,Small-scale maize plantation,7.411034162632245,13.474590345015802,2020,my_examples_planet_nir/13.474590345015802_7.411034162632245
+Small-scale maize plantation,Small-scale maize plantation,7.667935758990542,14.304928525803216,2020,my_examples_planet_nir/14.304928525803216_7.667935758990542
+Small-scale maize plantation,Small-scale maize plantation,7.679482553186215,13.488517565202136,2020,my_examples_planet_nir/13.488517565202136_7.679482553186215
+Small-scale maize plantation,Small-scale maize plantation,7.80231157820392,14.74411381545501,2020,my_examples_planet_nir/14.74411381545501_7.80231157820392
+Small-scale maize plantation,Small-scale maize plantation,7.383363230462648,13.69562600929197,2020,my_examples_planet_nir/13.69562600929197_7.383363230462648
+Small-scale maize plantation,Small-scale maize plantation,7.703195770032967,14.448554906149745,2020,my_examples_planet_nir/14.448554906149745_7.703195770032967
+Small-scale maize plantation,Small-scale maize plantation,7.873307191117364,13.778079716300415,2020,my_examples_planet_nir/13.778079716300415_7.873307191117364
+Small-scale maize plantation,Small-scale maize plantation,7.696090083137797,13.471517577081494,2020,my_examples_planet_nir/13.471517577081494_7.696090083137797
+Small-scale maize plantation,Small-scale maize plantation,7.770690092472908,14.456988068100339,2020,my_examples_planet_nir/14.456988068100339_7.770690092472908
+Small-scale maize plantation,Small-scale maize plantation,7.844625000000001,12.520578149862398,2020,my_examples_planet_nir/12.520578149862398_7.844625000000001
+Small-scale maize plantation,Small-scale maize plantation,7.72615949597196,14.742141657915582,2020,my_examples_planet_nir/14.742141657915582_7.72615949597196
+Small-scale maize plantation,Small-scale maize plantation,7.691628047929845,14.693732111039836,2020,my_examples_planet_nir/14.693732111039836_7.691628047929845
+Small-scale maize plantation,Small-scale maize plantation,7.4297316879790145,12.73691551240878,2020,my_examples_planet_nir/12.73691551240878_7.4297316879790145
+Small-scale maize plantation,Small-scale maize plantation,7.442158826084711,13.382896932399534,2020,my_examples_planet_nir/13.382896932399534_7.442158826084711
+Small-scale maize plantation,Small-scale maize plantation,7.691625000000001,14.282625,2020,my_examples_planet_nir/14.282625_7.691625000000001
+Small-scale maize plantation,Small-scale maize plantation,7.77807911491078,14.759362375787642,2020,my_examples_planet_nir/14.759362375787642_7.77807911491078
+Small-scale maize plantation,Small-scale maize plantation,7.715125000000001,14.723375,2020,my_examples_planet_nir/14.723375_7.715125000000001
+Small-scale maize plantation,Small-scale maize plantation,7.409751941649859,12.551083315562508,2020,my_examples_planet_nir/12.551083315562508_7.409751941649859
+Small-scale maize plantation,Small-scale maize plantation,7.735590027933703,13.86329356072226,2020,my_examples_planet_nir/13.86329356072226_7.735590027933703
+Small-scale maize plantation,Small-scale maize plantation,7.692274210885128,14.282767010191353,2020,my_examples_planet_nir/14.282767010191353_7.692274210885128
+Small-scale maize plantation,Small-scale maize plantation,7.425042328215465,13.723608697429347,2020,my_examples_planet_nir/13.723608697429347_7.425042328215465
+Small-scale maize plantation,Small-scale maize plantation,7.76487329064685,13.559868802216114,2020,my_examples_planet_nir/13.559868802216114_7.76487329064685
+Small-scale maize plantation,Small-scale maize plantation,7.681719038051052,14.235442793263921,2020,my_examples_planet_nir/14.235442793263921_7.681719038051052
+Small-scale maize plantation,Small-scale maize plantation,7.4671490855589004,13.497818237643353,2020,my_examples_planet_nir/13.497818237643353_7.4671490855589004
+Small-scale maize plantation,Small-scale maize plantation,7.490215370862932,13.783618051337395,2020,my_examples_planet_nir/13.783618051337395_7.490215370862932
+Small-scale maize plantation,Small-scale maize plantation,7.698524915857598,14.328916243855558,2020,my_examples_planet_nir/14.328916243855558_7.698524915857598
+Small-scale maize plantation,Small-scale maize plantation,7.732125,13.570184174859511,2020,my_examples_planet_nir/13.570184174859511_7.732125
+Small-scale maize plantation,Small-scale maize plantation,7.721348129844968,13.780145388413473,2020,my_examples_planet_nir/13.780145388413473_7.721348129844968
+Small-scale maize plantation,Small-scale maize plantation,7.623330730875464,14.56080250742623,2020,my_examples_planet_nir/14.56080250742623_7.623330730875464
+Small-scale maize plantation,Small-scale maize plantation,7.773807324914246,14.752256037486575,2020,my_examples_planet_nir/14.752256037486575_7.773807324914246
+Small-scale maize plantation,Small-scale maize plantation,7.675875,14.628375000000002,2020,my_examples_planet_nir/14.628375000000002_7.675875
+Small-scale maize plantation,Small-scale maize plantation,7.693607543228516,13.476059240545391,2020,my_examples_planet_nir/13.476059240545391_7.693607543228516
+Small-scale maize plantation,Small-scale maize plantation,7.500090357061908,13.914076202345816,2020,my_examples_planet_nir/13.914076202345816_7.500090357061908
+Small-scale maize plantation,Small-scale maize plantation,7.570215259057172,13.856409616272467,2020,my_examples_planet_nir/13.856409616272467_7.570215259057172
+Small-scale maize plantation,Small-scale maize plantation,7.700877705844569,14.474627902584862,2020,my_examples_planet_nir/14.474627902584862_7.700877705844569
+Small-scale maize plantation,Small-scale maize plantation,7.734468009959793,13.944924017488185,2020,my_examples_planet_nir/13.944924017488185_7.734468009959793
+Small-scale maize plantation,Small-scale maize plantation,7.45558757195833,13.883332792041053,2020,my_examples_planet_nir/13.883332792041053_7.45558757195833
+Small-scale maize plantation,Small-scale maize plantation,7.639912516279701,14.370881894788793,2020,my_examples_planet_nir/14.370881894788793_7.639912516279701
+Small-scale maize plantation,Small-scale maize plantation,7.545024313781366,12.849244357193733,2020,my_examples_planet_nir/12.849244357193733_7.545024313781366
+Small-scale maize plantation,Small-scale maize plantation,7.810975582559311,14.525178922809744,2020,my_examples_planet_nir/14.525178922809744_7.810975582559311
+Small-scale maize plantation,Small-scale maize plantation,7.8573717627363955,12.379639329846123,2020,my_examples_planet_nir/12.379639329846123_7.8573717627363955
+Small-scale maize plantation,Small-scale maize plantation,7.857875,12.380624999999997,2020,my_examples_planet_nir/12.380624999999997_7.857875
+Small-scale maize plantation,Small-scale maize plantation,7.690125,14.418124999999998,2020,my_examples_planet_nir/14.418124999999998_7.690125
+Small-scale maize plantation,Small-scale maize plantation,7.719274192017908,14.492975196663162,2020,my_examples_planet_nir/14.492975196663162_7.719274192017908
+Small-scale maize plantation,Small-scale maize plantation,7.7026937747687825,14.491910635102476,2020,my_examples_planet_nir/14.491910635102476_7.7026937747687825
+Small-scale maize plantation,Small-scale maize plantation,7.798369561185578,14.61909257598618,2020,my_examples_planet_nir/14.61909257598618_7.798369561185578
+Mining,Mining,2.648125,12.657125,2019,my_examples_planet_nir/12.657125_2.648125
+Mining,Mining,3.351402777777778,10.607680555555557,2016,my_examples_planet_nir/10.607680555555557_3.351402777777778
+Mining,Mining,3.6620500000000002,10.632575,2019,my_examples_planet_nir/10.632575_3.6620500000000002
+Mining,Mining,3.6632840909090914,10.641784090909091,2016,my_examples_planet_nir/10.641784090909091_3.6632840909090914
+Mining,Mining,3.4471249999999998,10.677625,2017,my_examples_planet_nir/10.677625_3.4471249999999998
+Mining,Mining,3.2316249999999997,10.520875,2016,my_examples_planet_nir/10.520875_3.2316249999999997
+Mining,Mining,3.287875,10.530999999999999,2017,my_examples_planet_nir/10.530999999999999_3.287875
+Mining,Mining,2.555089285714285,9.941196428571427,2017,my_examples_planet_nir/9.941196428571427_2.555089285714285
+Mining,Mining,3.662825,10.623475,2016,my_examples_planet_nir/10.623475_3.662825
+Mining,Mining,3.2307083333333337,10.680791666666668,2016,my_examples_planet_nir/10.680791666666668_3.2307083333333337
+Mining,Mining,3.583125,10.753374999999998,2016,my_examples_planet_nir/10.753374999999998_3.583125
+Mining,Mining,3.6263750000000003,10.753124999999999,2017,my_examples_planet_nir/10.753124999999999_3.6263750000000003
+Mining,Mining,3.3538750000000004,14.139124999999998,2016,my_examples_planet_nir/14.139124999999998_3.3538750000000004
+Mining,Mining,2.9693365384615387,14.149778846153845,2017,my_examples_planet_nir/14.149778846153845_2.9693365384615387
+Mining,Mining,3.125999999999999,10.596874999999999,2016,my_examples_planet_nir/10.596874999999999_3.125999999999999
+Mining,Mining,3.3298749999999995,10.642000000000001,2016,my_examples_planet_nir/10.642000000000001_3.3298749999999995
+Mining,Mining,2.6142638888888885,12.679819444444442,2017,my_examples_planet_nir/12.679819444444442_2.6142638888888885
+Mining,Mining,2.5948749999999996,9.967875,2016,my_examples_planet_nir/9.967875_2.5948749999999996
+Mining,Mining,3.67325,10.594875,2017,my_examples_planet_nir/10.594875_3.67325
+Mining,Mining,3.46175,13.850249999999999,2019,my_examples_planet_nir/13.850249999999999_3.46175
+Mining,Mining,3.2979999999999996,15.606000000000002,2016,my_examples_planet_nir/15.606000000000002_3.2979999999999996
+Mining,Mining,3.3520416666666657,14.134291666666664,2016,my_examples_planet_nir/14.134291666666664_3.3520416666666657
+Mining,Mining,3.0883749999999996,10.643625000000002,2017,my_examples_planet_nir/10.643625000000002_3.0883749999999996
+Mining,Mining,3.5873749999999993,10.621625000000002,2017,my_examples_planet_nir/10.621625000000002_3.5873749999999993
+Mining,Mining,3.325744047619047,15.585208333333336,2016,my_examples_planet_nir/15.585208333333336_3.325744047619047
+Mining,Mining,3.770541666666668,10.65254166666667,2017,my_examples_planet_nir/10.65254166666667_3.770541666666668
+Mining,Mining,2.6108749999999996,12.683625000000001,2017,my_examples_planet_nir/12.683625000000001_2.6108749999999996
+Mining,Mining,3.6267916666666666,10.752791666666667,2017,my_examples_planet_nir/10.752791666666667_3.6267916666666666
+Mining,Mining,2.6131249999999993,12.674125,2017,my_examples_planet_nir/12.674125_2.6131249999999993
+Mining,Mining,3.350625,10.606625,2017,my_examples_planet_nir/10.606625_3.350625
+Mining,Mining,3.328125,10.599375,2015,my_examples_planet_nir/10.599375_3.328125
+Mining,Mining,3.2812499999999996,15.583124999999999,2017,my_examples_planet_nir/15.583124999999999_3.2812499999999996
+Mining,Mining,3.236625,15.623125000000005,2016,my_examples_planet_nir/15.623125000000005_3.236625
+Mining,Mining,2.549375,12.738624999999997,2015,my_examples_planet_nir/12.738624999999997_2.549375
+Mining,Mining,3.092375,10.629375,2016,my_examples_planet_nir/10.629375_3.092375
+Mining,Mining,3.3521249999999996,10.608875000000001,2016,my_examples_planet_nir/10.608875000000001_3.3521249999999996
+Mining,Mining,2.647875,12.657499999999999,2019,my_examples_planet_nir/12.657499999999999_2.647875
+Mining,Mining,3.7735000000000003,10.654125000000002,2016,my_examples_planet_nir/10.654125000000002_3.7735000000000003
+Mining,Mining,3.287458333333333,10.530291666666667,2017,my_examples_planet_nir/10.530291666666667_3.287458333333333
+Mining,Mining,3.5875,10.63175,2016,my_examples_planet_nir/10.63175_3.5875
+Selective logging,Selective logging,2.765625,15.166999999999998,2018,my_examples_planet_nir/15.166999999999998_2.765625
+Selective logging,Selective logging,3.664041666666667,13.490541666666667,2015,my_examples_planet_nir/13.490541666666667_3.664041666666667
+Selective logging,Selective logging,2.39975,15.482875,2015,my_examples_planet_nir/15.482875_2.39975
+Selective logging,Selective logging,3.4864821428571426,12.161089285714283,2017,my_examples_planet_nir/12.161089285714283_3.4864821428571426
+Selective logging,Selective logging,4.532374999999999,13.439625000000001,2015,my_examples_planet_nir/13.439625000000001_4.532374999999999
+Selective logging,Selective logging,3.726875,13.387374999999999,2017,my_examples_planet_nir/13.387374999999999_3.726875
+Selective logging,Selective logging,3.6765000000000003,13.909125000000001,2017,my_examples_planet_nir/13.909125000000001_3.6765000000000003
+Selective logging,Selective logging,4.955708333333332,12.115791666666663,2018,my_examples_planet_nir/12.115791666666663_4.955708333333332
+Selective logging,Selective logging,5.374124999999999,11.178374999999997,2016,my_examples_planet_nir/11.178374999999997_5.374124999999999
+Selective logging,Selective logging,5.709458333333332,11.405450757575755,2016,my_examples_planet_nir/11.405450757575755_5.709458333333332
+Selective logging,Selective logging,5.617499999999999,9.122,2017,my_examples_planet_nir/9.122_5.617499999999999
+Selective logging,Selective logging,3.530675,13.255525000000002,2015,my_examples_planet_nir/13.255525000000002_3.530675
+Selective logging,Selective logging,5.806875000000001,8.925875,2015,my_examples_planet_nir/8.925875_5.806875000000001
+Selective logging,Selective logging,2.9381249999999994,12.640375,2015,my_examples_planet_nir/12.640375_2.9381249999999994
+Selective logging,Selective logging,5.0581249999999995,12.59675,2017,my_examples_planet_nir/12.59675_5.0581249999999995
+Selective logging,Selective logging,3.402041666666667,15.475958333333331,2015,my_examples_planet_nir/15.475958333333331_3.402041666666667
+Selective logging,Selective logging,5.70325,11.40025,2015,my_examples_planet_nir/11.40025_5.70325
+Selective logging,Selective logging,3.502624999999999,13.668375000000001,2018,my_examples_planet_nir/13.668375000000001_3.502624999999999
+Selective logging,Selective logging,2.9119999999999995,12.608374999999999,2018,my_examples_planet_nir/12.608374999999999_2.9119999999999995
+Selective logging,Selective logging,5.97325,9.34325,2017,my_examples_planet_nir/9.34325_5.97325
+Selective logging,Selective logging,3.1894375,14.970875000000001,2017,my_examples_planet_nir/14.970875000000001_3.1894375
+Selective logging,Selective logging,3.034958333333333,15.150208333333333,2017,my_examples_planet_nir/15.150208333333333_3.034958333333333
+Selective logging,Selective logging,3.0669999999999997,14.700375,2017,my_examples_planet_nir/14.700375_3.0669999999999997
+Selective logging,Selective logging,5.595946428571429,9.271982142857146,2015,my_examples_planet_nir/9.271982142857146_5.595946428571429
+Selective logging,Selective logging,4.865499999999999,13.641874999999999,2016,my_examples_planet_nir/13.641874999999999_4.865499999999999
+Selective logging,Selective logging,2.6442500000000004,12.33275,2016,my_examples_planet_nir/12.33275_2.6442500000000004
+Selective logging,Selective logging,3.8266666666666667,14.917041666666666,2017,my_examples_planet_nir/14.917041666666666_3.8266666666666667
+Selective logging,Selective logging,3.065,14.697249999999999,2016,my_examples_planet_nir/14.697249999999999_3.065
+Selective logging,Selective logging,4.4067500000000015,10.695625,2016,my_examples_planet_nir/10.695625_4.4067500000000015
+Selective logging,Selective logging,3.145375000000001,15.132375000000001,2016,my_examples_planet_nir/15.132375000000001_3.145375000000001
+Selective logging,Selective logging,5.158541666666667,12.862791666666668,2017,my_examples_planet_nir/12.862791666666668_5.158541666666667
+Selective logging,Selective logging,5.043291666666668,13.493916666666667,2016,my_examples_planet_nir/13.493916666666667_5.043291666666668
+Selective logging,Selective logging,3.407625,15.476375,2016,my_examples_planet_nir/15.476375_3.407625
+Selective logging,Selective logging,2.8055,12.3315,2018,my_examples_planet_nir/12.3315_2.8055
+Selective logging,Selective logging,3.1657916666666663,10.602458333333331,2018,my_examples_planet_nir/10.602458333333331_3.1657916666666663
+Selective logging,Selective logging,5.428625,11.997499999999999,2016,my_examples_planet_nir/11.997499999999999_5.428625
+Selective logging,Selective logging,2.5689583333333323,15.543291666666665,2015,my_examples_planet_nir/15.543291666666665_2.5689583333333323
+Selective logging,Selective logging,5.219833333333333,9.272458333333333,2015,my_examples_planet_nir/9.272458333333333_5.219833333333333
+Selective logging,Selective logging,5.96475,9.3485,2015,my_examples_planet_nir/9.3485_5.96475
+Selective logging,Selective logging,2.424,15.144124999999999,2015,my_examples_planet_nir/15.144124999999999_2.424
+Selective logging,Selective logging,3.070375,15.731875,2015,my_examples_planet_nir/15.731875_3.070375
+Selective logging,Selective logging,2.649125,13.297575000000002,2017,my_examples_planet_nir/13.297575000000002_2.649125
+Selective logging,Selective logging,3.0591250000000003,9.999375,2016,my_examples_planet_nir/9.999375_3.0591250000000003
+Selective logging,Selective logging,5.067625,8.89075,2015,my_examples_planet_nir/8.89075_5.067625
+Selective logging,Selective logging,2.921625,12.268375,2018,my_examples_planet_nir/12.268375_2.921625
+Selective logging,Selective logging,4.405875,14.461749999999999,2015,my_examples_planet_nir/14.461749999999999_4.405875
+Selective logging,Selective logging,3.9595416666666665,12.929708333333332,2018,my_examples_planet_nir/12.929708333333332_3.9595416666666665
+Selective logging,Selective logging,4.179513888888889,13.097097222222219,2015,my_examples_planet_nir/13.097097222222219_4.179513888888889
+Selective logging,Selective logging,3.1087500000000006,13.886062500000001,2017,my_examples_planet_nir/13.886062500000001_3.1087500000000006
+Selective logging,Selective logging,5.373074999999999,12.463275,2017,my_examples_planet_nir/12.463275_5.373074999999999
+Selective logging,Selective logging,3.127624999999999,13.765374999999999,2016,my_examples_planet_nir/13.765374999999999_3.127624999999999
+Selective logging,Selective logging,3.189475,14.999275,2018,my_examples_planet_nir/14.999275_3.189475
+Selective logging,Selective logging,4.694249999999999,10.292625000000003,2015,my_examples_planet_nir/10.292625000000003_4.694249999999999
+Selective logging,Selective logging,4.531874999999999,13.42425,2016,my_examples_planet_nir/13.42425_4.531874999999999
+Selective logging,Selective logging,4.189375,13.670124999999999,2018,my_examples_planet_nir/13.670124999999999_4.189375
+Selective logging,Selective logging,2.854375,13.608625,2016,my_examples_planet_nir/13.608625_2.854375
+Selective logging,Selective logging,4.124190789473684,10.422138157894734,2017,my_examples_planet_nir/10.422138157894734_4.124190789473684
+Selective logging,Selective logging,2.6564166666666664,11.784791666666667,2016,my_examples_planet_nir/11.784791666666667_2.6564166666666664
+Selective logging,Selective logging,2.756875,12.748375,2018,my_examples_planet_nir/12.748375_2.756875
+Selective logging,Selective logging,4.556374999999999,9.405125,2015,my_examples_planet_nir/9.405125_4.556374999999999
+Selective logging,Selective logging,3.128375,14.521125,2015,my_examples_planet_nir/14.521125_3.128375
+Selective logging,Selective logging,3.6671249999999995,13.854999999999999,2015,my_examples_planet_nir/13.854999999999999_3.6671249999999995
+Selective logging,Selective logging,3.617125,10.404874999999999,2018,my_examples_planet_nir/10.404874999999999_3.617125
+Selective logging,Selective logging,2.9132321428571437,12.283910714285717,2017,my_examples_planet_nir/12.283910714285717_2.9132321428571437
+Selective logging,Selective logging,3.4275750000000005,15.138924999999999,2015,my_examples_planet_nir/15.138924999999999_3.4275750000000005
+Selective logging,Selective logging,2.6282916666666662,13.312291666666665,2018,my_examples_planet_nir/13.312291666666665_2.6282916666666662
+Selective logging,Selective logging,4.381666666666667,14.447145833333332,2016,my_examples_planet_nir/14.447145833333332_4.381666666666667
+Selective logging,Selective logging,5.2191875,12.558124999999999,2015,my_examples_planet_nir/12.558124999999999_5.2191875
+Selective logging,Selective logging,4.547000000000001,13.2575,2018,my_examples_planet_nir/13.2575_4.547000000000001
+Selective logging,Selective logging,3.0225937499999995,15.187343749999998,2018,my_examples_planet_nir/15.187343749999998_3.0225937499999995
+Selective logging,Selective logging,3.4265250000000003,14.782924999999999,2018,my_examples_planet_nir/14.782924999999999_3.4265250000000003
+Selective logging,Selective logging,2.936375,14.141124999999999,2016,my_examples_planet_nir/14.141124999999999_2.936375
+Selective logging,Selective logging,2.5958750000000004,11.350874999999998,2017,my_examples_planet_nir/11.350874999999998_2.5958750000000004
+Selective logging,Selective logging,2.8947083333333334,13.763458333333332,2018,my_examples_planet_nir/13.763458333333332_2.8947083333333334
+Selective logging,Selective logging,3.0681249999999993,10.64675,2018,my_examples_planet_nir/10.64675_3.0681249999999993
+Selective logging,Selective logging,2.850925,13.116525,2018,my_examples_planet_nir/13.116525_2.850925
+Selective logging,Selective logging,3.4905,13.645624999999999,2016,my_examples_planet_nir/13.645624999999999_3.4905
+Selective logging,Selective logging,5.299875,9.281624999999998,2016,my_examples_planet_nir/9.281624999999998_5.299875
+Selective logging,Selective logging,2.608187499999999,9.990375000000002,2016,my_examples_planet_nir/9.990375000000002_2.608187499999999
+Selective logging,Selective logging,4.004666666666666,14.079333333333336,2017,my_examples_planet_nir/14.079333333333336_4.004666666666666
+Selective logging,Selective logging,5.1548333333333325,12.865583333333339,2018,my_examples_planet_nir/12.865583333333339_5.1548333333333325
+Selective logging,Selective logging,5.360208333333333,12.544791666666669,2018,my_examples_planet_nir/12.544791666666669_5.360208333333333
+Selective logging,Selective logging,3.726875,14.155999999999999,2015,my_examples_planet_nir/14.155999999999999_3.726875
+Selective logging,Selective logging,4.064125,14.640625,2017,my_examples_planet_nir/14.640625_4.064125
+Selective logging,Selective logging,2.6571875,10.808312500000001,2015,my_examples_planet_nir/10.808312500000001_2.6571875
+Infrastructure,Infrastructure,4.029027264,9.213495767,2020,my_examples_planet_nir/9.213495767_4.029027264
+Infrastructure,Infrastructure,3.356189117,12.228241859999999,2020,my_examples_planet_nir/12.228241859999999_3.356189117
+Infrastructure,Infrastructure,2.818098261,12.213868819999998,2020,my_examples_planet_nir/12.213868819999998_2.818098261
+Infrastructure,Infrastructure,7.784883466999999,14.71388025,2020,my_examples_planet_nir/14.71388025_7.784883466999999
+Infrastructure,Infrastructure,2.880980331,9.91957158,2020,my_examples_planet_nir/9.91957158_2.880980331
+Infrastructure,Infrastructure,7.845070591,13.58469794,2020,my_examples_planet_nir/13.58469794_7.845070591
+Infrastructure,Infrastructure,3.892483341,11.12870395,2020,my_examples_planet_nir/11.12870395_3.892483341
+Infrastructure,Infrastructure,5.690012225,12.10786761,2020,my_examples_planet_nir/12.10786761_5.690012225
+Wildfire,Wildfire,5.714266737,11.280519240000002,2020,my_examples_planet_nir/11.280519240000002_5.714266737
+Wildfire,Wildfire,8.214242647058825,15.196742647058826,2018,my_examples_planet_nir/15.196742647058826_8.214242647058825
+Wildfire,Wildfire,8.131725000000001,15.090575000000005,2019,my_examples_planet_nir/15.090575000000005_8.131725000000001
+Wildfire,Wildfire,7.7610833333333344,14.176958333333333,2019,my_examples_planet_nir/14.176958333333333_7.7610833333333344
+Wildfire,Wildfire,8.363875,15.073125,2016,my_examples_planet_nir/15.073125_8.363875
+Wildfire,Wildfire,8.136325,13.903975,2020,my_examples_planet_nir/13.903975_8.136325
+Wildfire,Wildfire,7.743951923076923,14.568298076923078,2019,my_examples_planet_nir/14.568298076923078_7.743951923076923
+Wildfire,Wildfire,8.381125,13.609875,2017,my_examples_planet_nir/13.609875_8.381125
+Wildfire,Wildfire,7.746562500000001,14.570687500000002,2019,my_examples_planet_nir/14.570687500000002_7.746562500000001
+Wildfire,Wildfire,8.8375,14.094875000000002,2015,my_examples_planet_nir/14.094875000000002_8.8375
+Wildfire,Wildfire,8.390374999999999,13.610625000000002,2017,my_examples_planet_nir/13.610625000000002_8.390374999999999
+Wildfire,Wildfire,8.133464285714286,15.088410714285713,2019,my_examples_planet_nir/15.088410714285713_8.133464285714286
+Wildfire,Wildfire,7.62049177,15.51427917,2020,my_examples_planet_nir/15.51427917_7.62049177
+Wildfire,Wildfire,8.493375000000002,13.734125,2018,my_examples_planet_nir/13.734125_8.493375000000002
+Wildfire,Wildfire,8.836949999999998,14.09435,2015,my_examples_planet_nir/14.09435_8.836949999999998
+Wildfire,Wildfire,8.837875,14.093875,2015,my_examples_planet_nir/14.093875_8.837875
+Wildfire,Wildfire,8.974875,14.099,2015,my_examples_planet_nir/14.099_8.974875
+Wildfire,Wildfire,8.385375000000002,13.604875,2017,my_examples_planet_nir/13.604875_8.385375000000002
+Wildfire,Wildfire,8.39125,13.611875,2017,my_examples_planet_nir/13.611875_8.39125
+Wildfire,Wildfire,8.387410714285716,13.608875,2017,my_examples_planet_nir/13.608875_8.387410714285716
+Wildfire,Wildfire,8.219958333333333,14.125583333333337,2018,my_examples_planet_nir/14.125583333333337_8.219958333333333
+Wildfire,Wildfire,9.25355,14.233950000000002,2017,my_examples_planet_nir/14.233950000000002_9.25355
+Wildfire,Wildfire,8.33737499960429,13.554750000000002,2020,my_examples_planet_nir/13.554750000000002_8.33737499960429
+Wildfire,Wildfire,8.552624999999999,14.375875,2018,my_examples_planet_nir/14.375875_8.552624999999999
+Wildfire,Wildfire,8.302875000000002,14.84225,2016,my_examples_planet_nir/14.84225_8.302875000000002
+Hunting,Hunting,8.369375,12.965749999999998,2019,my_examples_planet_nir/12.965749999999998_8.369375
+Hunting,Hunting,3.00825,15.1215,2015,my_examples_planet_nir/15.1215_3.00825
+Hunting,Hunting,2.7715625000000004,15.402656250000001,2019,my_examples_planet_nir/15.402656250000001_2.7715625000000004
+Hunting,Hunting,3.2575937499999994,14.86409375,2019,my_examples_planet_nir/14.86409375_3.2575937499999994
+Hunting,Hunting,7.934333333333333,13.666708333333334,2020,my_examples_planet_nir/13.666708333333334_7.934333333333333
+Hunting,Hunting,2.4335416666666667,15.418958333333336,2019,my_examples_planet_nir/15.418958333333336_2.4335416666666667
+Hunting,Hunting,5.259625,12.780375000000001,2016,my_examples_planet_nir/12.780375000000001_5.259625
+Hunting,Hunting,5.9665,12.40425,2017,my_examples_planet_nir/12.40425_5.9665
+Hunting,Hunting,2.6761249999999994,15.3205,2015,my_examples_planet_nir/15.3205_2.6761249999999994
+Hunting,Hunting,3.2585625000000005,14.863812500000002,2018,my_examples_planet_nir/14.863812500000002_3.2585625000000005
+Hunting,Hunting,3.2780416666666667,14.816291666666666,2016,my_examples_planet_nir/14.816291666666666_3.2780416666666667
+Hunting,Hunting,8.634875000000001,13.44375,2016,my_examples_planet_nir/13.44375_8.634875000000001
+Hunting,Hunting,3.5136250000000007,15.072625000000002,2018,my_examples_planet_nir/15.072625000000002_3.5136250000000007
+Hunting,Hunting,3.5148750000000004,15.242750000000003,2015,my_examples_planet_nir/15.242750000000003_3.5148750000000004
+Hunting,Hunting,4.874843750000001,12.425843749999997,2019,my_examples_planet_nir/12.425843749999997_4.874843750000001
+Hunting,Hunting,2.4424750000000004,15.483825000000001,2020,my_examples_planet_nir/15.483825000000001_2.4424750000000004
+Hunting,Hunting,8.563625,13.312374999999998,2017,my_examples_planet_nir/13.312374999999998_8.563625
+Hunting,Hunting,3.488125,14.887999999999998,2020,my_examples_planet_nir/14.887999999999998_3.488125
+Hunting,Hunting,3.0227416666666667,15.186608333333336,2016,my_examples_planet_nir/15.186608333333336_3.0227416666666667
+Hunting,Hunting,2.497375,15.359499999999999,2018,my_examples_planet_nir/15.359499999999999_2.497375
+Other,Other,5.960375,11.070958333333333,2020,my_examples_planet_nir/11.070958333333333_5.960375
+Other,Other,5.991416666666666,11.041416666666665,2020,my_examples_planet_nir/11.041416666666665_5.991416666666666
+Other,Other,5.9934483965673016,11.262880194218619,2020,my_examples_planet_nir/11.262880194218619_5.9934483965673016
+Other,Other,5.975796505376344,11.023050268817206,2020,my_examples_planet_nir/11.023050268817206_5.975796505376344
+Other,Other,5.9981512057191635,11.339767957746473,2020,my_examples_planet_nir/11.339767957746473_5.9981512057191635
+Other,Other,5.9518779761904765,11.079205357142856,2020,my_examples_planet_nir/11.079205357142856_5.9518779761904765
+Other,Other,5.984991666666667,10.163225,2020,my_examples_planet_nir/10.163225_5.984991666666667
+Other,Other,5.962569444444445,10.039569444444446,2020,my_examples_planet_nir/10.039569444444446_5.962569444444445
+Other,Other,5.948291666666667,11.082708333333334,2020,my_examples_planet_nir/11.082708333333334_5.948291666666667
+Other,Other,5.995604166666666,10.945895833333333,2020,my_examples_planet_nir/10.945895833333333_5.995604166666666
+Other,Other,5.982041666666668,11.047958333333334,2020,my_examples_planet_nir/11.047958333333334_5.982041666666668
+Other,Other,5.97109974747475,11.008897306397298,2020,my_examples_planet_nir/11.008897306397298_5.97109974747475
+Other,Other,5.9627318627450965,11.068767156862739,2020,my_examples_planet_nir/11.068767156862739_5.9627318627450965
+Other,Other,5.985495462046206,10.162995462046208,2020,my_examples_planet_nir/10.162995462046208_5.985495462046206
+Other,Other,5.995208333333333,11.040875,2020,my_examples_planet_nir/11.040875_5.995208333333333
