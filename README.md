@@ -63,7 +63,9 @@ Description of the sub-folders and files
 |   |   |  download_ir_quick.py | To download infrared bands | ggdrive |
 |   |   |  download_ncep_file.py | To generate NCEP data using the downloaded NCEP files (need to [download](https://www.nco.ncep.noaa.gov/pmb/products/cfs/) those beforehand and put the result in an 'ncep' folder in the 'input' subfolder) | ggdrive |
 |   |   |  download_ncep_quick.py | To download NCEP data using Google Earth Engine | ggdrive |
+|   |   |  download_ncep_landsat_30.py | To download NCEP data for non-pansharpened Landsat-8 data using Google Earth Engine | ggdrive |
 |   |   |  download_osm_quick.py | To download OpenStreetMap data | ggdrive |
+|   |   |  download_osm_landsat30.py | To download OpenStreetMap data for non-pansharpened Landsat-8 data| ggdrive |
 |   |   |  download_srtm_quick.py | To download SRTM data | ggdrive |
 |   |   |  get_peat_quick.py | To generate data on the present of peat using the downloaded file from [Global Forest Watch](https://data.globalforestwatch.org/datasets/aed14a0e0a8d40c69a73321275caf3e8/explore?location=10.103967%2C-99.210783%2C1.87)| ggdrive |
 | download gfc  | To download the Global Forest Change (GFC) forest loss polygons  |  create_gfc.py | To create shapefiles from the GFC TIFF images which need to be [downloaded](https://storage.googleapis.com/earthenginepartners-hansen/GFC-2020-v1.8/download.html) for coordinates 0-10N, 0-10E; 0-10N, 10-20E; 10-20N, 10-20E and added in the 'input' subfolder| pygdal |
