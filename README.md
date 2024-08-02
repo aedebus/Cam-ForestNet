@@ -35,19 +35,19 @@ b) Use the trained model
 
 Best performing option for Landsat-8:
 
-[Download](https://www.dropbox.com/scl/fi/56rmmiji3220d71391b6u/epoch-135-val_f1_macro-0.8258.ckpt?rlkey=od2sl0yjykbduir7rv5u4esnq&dl=0) .ckpt file in a sandbox>test_exp>ckpts folder
+[Download](https://www.dropbox.com/scl/fi/ffujhxhmmo54j9qato43x/epoch-epoch-126-val_f1_macro-val_f1_macro-0.8027.ckpt?rlkey=zkbldwnb2voo06k463wjbqydk&st=0qd62ags&dl=0) .ckpt file in a sandbox>test_exp>ckpts folder
 
 `ulimit -n 4096`
 
-`python3 main_mytest_all.py test --ckpt_path models/sandbox/test_exp/ckpts/epoch=135-val_f1_macro=0.8258.ckpt`
+`python3 main_mytest_all.py test --ckpt_path models/sandbox/test_exp/ckpts/epoch=126-val_f1_macro=0.8027.ckpt`
 
 Best performing option for NICFI PlanetScope:
 
-[Download](https://www.dropbox.com/scl/fi/56rmmiji3220d71391b6u/epoch-135-val_f1_macro-0.8258.ckpt?rlkey=od2sl0yjykbduir7rv5u4esnq&dl=0) .ckpt file in a sandbox>test_exp>ckpts folder
+[Download](https://www.dropbox.com/scl/fi/d99evxfjzfgowa6vqqm97/epoch-140-val_f1_macro-0.8208.ckpt?rlkey=cipa5j6txk5lmysbztg94afdx&st=oyv0xtyf&dl=0) .ckpt file in a sandbox>test_exp>ckpts folder
 
 `ulimit -n 4096`
 
-`python3 main_mytest_all.py test --ckpt_path models/sandbox/test_exp/ckpts/epoch=105-val_f1_macro=0.8071.ckpt`
+`python3 main_mytest_all.py test --ckpt_path models/sandbox/test_exp/ckpts/epoch=140-val_f1_macro=0.8208.ckpt`
 
 
 6. See the results in models>sandbox>test_exp>test_results
