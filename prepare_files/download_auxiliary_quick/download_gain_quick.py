@@ -39,7 +39,11 @@ def download_gain_from_images(sensor):
                         param = (0.05 * ((332 * 4.77) / 30.92)) / 372
                         geometry = ee.Geometry.BBox(lon - param, lat - param, lon + param, lat + param)
                         divider = 6
-
+                        
+                    elif sensor == 'landsat_30':
+                        param = (0.05 * ((332 * 30) / 30.92)) / 372  # same area as image: resolution 30.92 m
+                        geometry = ee.Geometry.BBox(lon - param, lat - param, lon + param, lat + param)
+                        divider = 1
                     else:
                         print('Sensor not available/known')
 
@@ -101,6 +105,11 @@ def download_gain_from_images(sensor):
                         param = (0.05 * ((332 * 4.77) / 30.92)) / 372
                         geometry = ee.Geometry.BBox(lon - param, lat - param, lon + param, lat + param)
                         divider = 6
+                        
+                    elif sensor == 'landsat_30':
+                        param = (0.05 * ((332 * 30) / 30.92)) / 372  # same area as image: resolution 30.92 m
+                        geometry = ee.Geometry.BBox(lon - param, lat - param, lon + param, lat + param)
+                        divider = 1
 
                     else:
                         print('Sensor not available/known')
@@ -259,7 +268,11 @@ def download_gain_from_year(sensor, shape, year):
                     param = (0.05 * ((332 * 4.77) / 30.92)) / 372
                     geometry = ee.Geometry.BBox(lon - param, lat - param, lon + param, lat + param)
                     divider = 6
-    
+                    
+                elif sensor == 'landsat_30':
+                        param = (0.05 * ((332 * 30) / 30.92)) / 372  # same area as image: resolution 30.92 m
+                        geometry = ee.Geometry.BBox(lon - param, lat - param, lon + param, lat + param)
+                        divider = 1
                 else:
                     print('Sensor not available/known')
     
@@ -339,7 +352,11 @@ def download_gain_from_index(sensor, shape, year):
                 param = (0.05 * ((332 * 4.77) / 30.92)) / 372
                 geometry = ee.Geometry.BBox(lon - param, lat - param, lon + param, lat + param)
                 divider = 6
-    
+                
+            elif sensor == 'landsat_30':
+                        param = (0.05 * ((332 * 30) / 30.92)) / 372  # same area as image: resolution 30.92 m
+                        geometry = ee.Geometry.BBox(lon - param, lat - param, lon + param, lat + param)
+                        divider = 1
             else:
                 print('Sensor not available/known')
     
