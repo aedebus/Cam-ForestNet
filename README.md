@@ -81,13 +81,16 @@ Description of the sub-folders and files
 |   |   |  extract_polygon_water.py | To generate GFC forest loss patches where we know the land use for Worldcover water data | pygdal |
 |   |   |  extract_polygon_worldcover.py | To generate GFC forest loss patches where we know the land use for Worldcover data ([download WorldCover](https://esa-worldcover.org/en/data-access) file and add it in 'ESA_WorldCover_10m_2020_v100_N03E009_Map' subfolder in the 'input' and 'WorldCover' subfolders to reproduce the conversion from TIFF to shapefile)| pygdal |
 | download images quick  | To download the reference images from Google Earth Engine |  clean_up.py | To remove blank images (i.e. 'errors') | ggdrive |
-|  |  |  clean_up_timeseries.py | To remove blank images (i.e. 'errors') from the timeseries folders| ggdrive |
-|  |  |  download_landsat_quick.py | To download single Landsat-8 images centred on the GFC forest loss patches created | ggdrive |
-|  |  |  download_landsat_quick_timeseries.py | To download multiple Landsat-8 images centred on the GFC forest loss patches created for the timeseries approach | ggdrive |
-|  |  |  download_planetscope_quick_fix.py | To download single NICFI PlanetScope images centred on the GFC forest loss patches created (NB: 'fix' because the filtering in the previous version was not properly done)| ggdrive |
-|  |  |  download_planetscope_quick_fix_missing.py | To download NICFI PlanetScope images that were not properly downloaded| ggdrive |
-|  |  |  download_planetscope_quick_fix_missing2.py | To download NICFI PlanetScope images that were not properly downloaded| ggdrive |
-|  |  |  download_planetscope_quick_timeseries.py | To download multiple NICFI PlanetScope images centred on the GFC forest loss patches created created for the timeseries approach| ggdrive |
+|  |  |  download_landsat_quick.py | To download single pan-sharpened RGB Landsat-8 images (TOA) centred on the GFC forest loss patches created | ggdrive |
+|  |  |  download_landsat_quick_nir.py | To download single non-pansharpened RGB + NIR Landsat-8 images (TOA) centred on the GFC forest loss patches created | ggdrive |
+|  |  |  download_landsat_quick_nir_pansharpened.py | To download single pansharpened RGB + NIR Landsat-8 images (TOA) centred on the GFC forest loss patches created | ggdrive |
+|  |  |  download_landsat_quick_sr_nir.py | To download single non-pansharpened RGB + NIR Landsat-8 images (SR) centred on the GFC forest loss patches created | ggdrive |
+|  |  |  download_planetscope_quick_fix.py | To download single RGB NICFI PlanetScope images (monthly composites) centred on the GFC forest loss patches created (NB: 'fix' because the filtering in the previous version was not properly done)| ggdrive |
+|  |  |  download_planetscope_quick_fix_missing.py | To download RGB NICFI PlanetScope images that were not properly downloaded| ggdrive |
+|  |  |  download_planetscope_quick_fix_missing2.py | To download RGB NICFI PlanetScope images that were not properly downloaded| ggdrive |
+|  |  |  download_planetscope_quick_nir.py | To download single RGB + NIR NICFI PlanetScope images (monthly composites) centred on the GFC forest loss patches created (NB: 'fix' because the filtering in the previous version was not properly done)| ggdrive |
+|  |  |  download_planetscope_quick_nir_biannual.py | To download single RGB + NIR NICFI PlanetScope images (biannual composites) centred on the GFC forest loss patches created (NB: 'fix' because the filtering in the previous version was not properly done)| ggdrive |
+
 
 -In 'model': 
 
@@ -97,10 +100,8 @@ Description of the sub-folders and files
 |  |  |  fix_names_all.py | To fix the names of NCEP data to match the ForestNet formatting for names | fnet |
 | / | / |  main_my_test_all.py | To test Cam-ForestNet with a single image approach | fnet |
 |  |  |  main_my_test_fusion.py | To test Cam-ForestNet with a decision-based fusion approach | fnet |
-|  |  |  main_my_test_timeseries.py | To test Cam-ForestNet with a timeseries approach | fnet |
 |  |  |  main_my_train_all.py | To train Cam-ForestNet | fnet |
 |  |  |  populate_folder_all_detailed.py | To create a formatted data folder to train and test Cam-ForestNet using the steps in 'prepare_files'; split the data into training, validation and testing datasets; and generate a reference csv file with labels | fnet |
-|  |  |  populate_folder_all_detailed_timeseries.py | To create a formatted data folder to train and test Cam-ForestNet with a timeseries approach using the steps in 'prepare_files'; split the data into training, validation and testing datasets; and generate a reference csv file with labels | fnet |
 |  |  |  populate_folder_all_match_test_datasets_planet.py | To select the available Landsat-8 and NICFI PlanetScope data with the same centroid coordinates; split the data into training, validation and testing datasets; and generate a reference csv file with labels to test data fusion | fnet |
 
 Data licenses
