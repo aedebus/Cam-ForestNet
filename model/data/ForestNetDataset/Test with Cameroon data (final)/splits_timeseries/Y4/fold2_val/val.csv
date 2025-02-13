@@ -1,0 +1,420 @@
+label,merged_lab,latitude,longitude,year,example_path
+Fruit plantation,Fruit plantation,4.722625,9.707125,2016,my_examples_landsat_nir_per_year/9.707125000000001_4.722625_fourth
+Fruit plantation,Fruit plantation,4.722125,9.708,2016,my_examples_landsat_nir_per_year/9.708_4.722125_fourth
+Fruit plantation,Fruit plantation,4.731875,9.769875,2016,my_examples_landsat_nir_per_year/9.769874999999999_4.7318750000000005_fourth
+Fruit plantation,Fruit plantation,4.730625,9.769875,2016,my_examples_landsat_nir_per_year/9.769875_4.730625_fourth
+Fruit plantation,Fruit plantation,4.730579545,9.770397727,2015,my_examples_landsat_nir_per_year/9.770397727272732_4.730579545454547_fourth
+Fruit plantation,Fruit plantation,4.731,9.771125,2017,my_examples_landsat_nir_per_year/9.771125000000001_4.731_fourth
+Fruit plantation,Fruit plantation,4.730375,9.771375,2015,my_examples_landsat_nir_per_year/9.771374999999999_4.730375_fourth
+Grassland shrubland,Grassland shrubland,5.862541667,9.940791667,2020,my_examples_landsat_nir_per_year/9.940791666666668_5.862541666666667_fourth
+Grassland shrubland,Grassland shrubland,5.862591667,9.941358333,2020,my_examples_landsat_nir_per_year/9.941358333333334_5.862591666666666_fourth
+Hunting,Hunting,4.86275,12.260625,2016,my_examples_landsat_nir_per_year/12.260625000000003_4.862750000000001_fourth
+Hunting,Hunting,5.904125,12.314875,2015,my_examples_landsat_nir_per_year/12.314875_5.904125_fourth
+Hunting,Hunting,5.986791667,12.39354167,2019,my_examples_landsat_nir_per_year/12.393541666666668_5.986791666666666_fourth
+Hunting,Hunting,5.979225,12.393825,2016,my_examples_landsat_nir_per_year/12.393824999999998_5.979225_fourth
+Hunting,Hunting,5.977671875,12.40048437,2018,my_examples_landsat_nir_per_year/12.400484374999998_5.977671874999997_fourth
+Hunting,Hunting,5.9665,12.40425,2017,my_examples_landsat_nir_per_year/12.40425_5.9665_fourth
+Hunting,Hunting,4.86484375,12.40559375,2015,my_examples_landsat_nir_per_year/12.40559375_4.8648437499999995_fourth
+Hunting,Hunting,4.884875,12.4231875,2017,my_examples_landsat_nir_per_year/12.423187499999996_4.884875_fourth
+Hunting,Hunting,4.87628125,12.4251875,2018,my_examples_landsat_nir_per_year/12.425187500000002_4.87628125_fourth
+Hunting,Hunting,4.888375,12.425375,2020,my_examples_landsat_nir_per_year/12.425375_4.888375_fourth
+Hunting,Hunting,4.87484375,12.42584375,2019,my_examples_landsat_nir_per_year/12.425843749999997_4.874843750000001_fourth
+Hunting,Hunting,5.0828,12.43425,2019,my_examples_landsat_nir_per_year/12.434249999999999_5.082800000000001_fourth
+Hunting,Hunting,5.083375,12.434375,2020,my_examples_landsat_nir_per_year/12.434375_5.083375_fourth
+Hunting,Hunting,5.079,12.437375,2017,my_examples_landsat_nir_per_year/12.437375_5.079_fourth
+Hunting,Hunting,5.071375,12.438875,2016,my_examples_landsat_nir_per_year/12.438875000000001_5.071375_fourth
+Hunting,Hunting,5.074375,12.439875,2018,my_examples_landsat_nir_per_year/12.439874999999999_5.074375_fourth
+Hunting,Hunting,5.076541667,12.44245833,2015,my_examples_landsat_nir_per_year/12.442458333333333_5.0765416666666665_fourth
+Hunting,Hunting,5.267788043,12.77563587,2015,my_examples_landsat_nir_per_year/12.77563586956522_5.2677880434782605_fourth
+Hunting,Hunting,5.263125,12.778625,2019,my_examples_landsat_nir_per_year/12.778624999999998_5.2631250000000005_fourth
+Hunting,Hunting,5.259625,12.780375,2016,my_examples_landsat_nir_per_year/12.780375000000001_5.259625_fourth
+Hunting,Hunting,5.2626875,12.7810625,2017,my_examples_landsat_nir_per_year/12.781062499999999_5.2626875_fourth
+Hunting,Hunting,5.261458333,12.78170833,2018,my_examples_landsat_nir_per_year/12.781708333333333_5.2614583333333345_fourth
+Hunting,Hunting,5.272625,12.78375,2020,my_examples_landsat_nir_per_year/12.78375_5.272625000000001_fourth
+Hunting,Hunting,2.472375,12.841375,2020,my_examples_landsat_nir_per_year/12.841374999999998_2.472375_fourth
+Hunting,Hunting,2.47275,12.84425,2019,my_examples_landsat_nir_per_year/12.84425_2.47275_fourth
+Hunting,Hunting,3.062325,14.706075,2017,my_examples_landsat_nir_per_year/14.706074999999998_3.0623250000000004_fourth
+Hunting,Hunting,3.278041667,14.81629167,2016,my_examples_landsat_nir_per_year/14.816291666666666_3.2780416666666667_fourth
+Infrastructure,Infrastructure,7.300691529,12.53187243,2020,my_examples_landsat_nir_per_year/12.531872429999998_7.300691529_fourth
+Infrastructure,Infrastructure,7.845070591,13.58469794,2020,my_examples_landsat_nir_per_year/13.58469794_7.845070591_fourth
+Infrastructure,Infrastructure,5.637011623,13.71405534,2020,my_examples_landsat_nir_per_year/13.714055339999996_5.637011623_fourth
+Infrastructure,Infrastructure,4.590474317,13.7293267,2020,my_examples_landsat_nir_per_year/13.7293267_4.590474317_fourth
+Infrastructure,Infrastructure,4.555440021,13.7526829,2020,my_examples_landsat_nir_per_year/13.752682900000002_4.555440021_fourth
+Infrastructure,Infrastructure,6.062813068,14.38689349,2020,my_examples_landsat_nir_per_year/14.38689349_6.062813068_fourth
+Infrastructure,Infrastructure,7.784883467,14.71388025,2020,my_examples_landsat_nir_per_year/14.71388025_7.784883466999999_fourth
+Mining,Mining,3.627125,10.752375,2017,my_examples_landsat_nir_per_year/10.752375_3.6271249999999995_fourth
+Mining,Mining,3.626791667,10.75279167,2017,my_examples_landsat_nir_per_year/10.752791666666667_3.6267916666666666_fourth
+Mining,Mining,3.626375,10.753125,2017,my_examples_landsat_nir_per_year/10.753124999999999_3.6263750000000003_fourth
+Mining,Mining,3.586125,10.753125,2015,my_examples_landsat_nir_per_year/10.753125000000002_3.5861250000000005_fourth
+Mining,Mining,3.583125,10.753375,2016,my_examples_landsat_nir_per_year/10.753374999999998_3.583125_fourth
+Mining,Mining,3.583375,10.75375,2016,my_examples_landsat_nir_per_year/10.75375_3.5833749999999993_fourth
+Mining,Mining,3.582875,10.753875,2016,my_examples_landsat_nir_per_year/10.753875000000003_3.582875_fourth
+Mining,Mining,3.620625,10.754375,2015,my_examples_landsat_nir_per_year/10.754375_3.6206250000000004_fourth
+Mining,Mining,3.585160714,10.75544643,2017,my_examples_landsat_nir_per_year/10.755446428571432_3.585160714285714_fourth
+Mining,Mining,3.587125,10.755875,2015,my_examples_landsat_nir_per_year/10.755874999999998_3.5871250000000003_fourth
+Mining,Mining,3.62575,10.756375,2015,my_examples_landsat_nir_per_year/10.756374999999998_3.625749999999999_fourth
+Mining,Mining,3.585125,10.756875,2015,my_examples_landsat_nir_per_year/10.756875_3.5851250000000006_fourth
+Mining,Mining,3.586,10.758625,2017,my_examples_landsat_nir_per_year/10.758624999999999_3.5860000000000003_fourth
+Mining,Mining,3.564125,10.762,2017,my_examples_landsat_nir_per_year/10.762_3.564125_fourth
+Mining,Mining,3.622125,10.763,2015,my_examples_landsat_nir_per_year/10.763_3.622125_fourth
+Mining,Mining,3.589375,10.76666667,2017,my_examples_landsat_nir_per_year/10.766666666666664_3.5893749999999986_fourth
+Mining,Mining,3.551525,10.773425,2017,my_examples_landsat_nir_per_year/10.773424999999998_3.5515250000000003_fourth
+Mining,Mining,3.552041667,10.77479167,2017,my_examples_landsat_nir_per_year/10.774791666666667_3.552041666666667_fourth
+Mining,Mining,3.554125,10.776375,2015,my_examples_landsat_nir_per_year/10.776375_3.554125_fourth
+Mining,Mining,3.553875,10.776625,2015,my_examples_landsat_nir_per_year/10.776625_3.553875_fourth
+Oil palm plantation,Oil palm plantation,4.461125,8.952375,2017,my_examples_landsat_nir_per_year/8.952375000000002_4.461125_fourth
+Oil palm plantation,Oil palm plantation,4.261041667,8.977208333,2017,my_examples_landsat_nir_per_year/8.977208333333333_4.261041666666666_fourth
+Oil palm plantation,Oil palm plantation,4.150193182,8.995602273,2017,my_examples_landsat_nir_per_year/8.995602272727274_4.150193181818182_fourth
+Oil palm plantation,Oil palm plantation,4.227903846,9.030086538,2017,my_examples_landsat_nir_per_year/9.030086538461536_4.227903846153845_fourth
+Oil palm plantation,Oil palm plantation,4.032625,9.118375,2017,my_examples_landsat_nir_per_year/9.118374999999999_4.0326249999999995_fourth
+Oil palm plantation,Oil palm plantation,4.459455954,9.123238712,2017,my_examples_landsat_nir_per_year/9.123238711819388_4.45945595396193_fourth
+Oil palm plantation,Oil palm plantation,4.05425,9.199125,2017,my_examples_landsat_nir_per_year/9.199125_4.05425_fourth
+Oil palm plantation,Oil palm plantation,4.093208333,9.202958333,2017,my_examples_landsat_nir_per_year/9.202958333333333_4.093208333333332_fourth
+Oil palm plantation,Oil palm plantation,4.096942308,9.218028846,2017,my_examples_landsat_nir_per_year/9.21802884615385_4.096942307692309_fourth
+Oil palm plantation,Oil palm plantation,4.133625,9.320625,2017,my_examples_landsat_nir_per_year/9.320625000000001_4.133624999999999_fourth
+Oil palm plantation,Oil palm plantation,4.157625,9.591875,2019,my_examples_landsat_nir_per_year/9.591875_4.157625_fourth
+Oil palm plantation,Oil palm plantation,4.160875,9.596625,2020,my_examples_landsat_nir_per_year/9.596625_4.160875000000001_fourth
+Other,Other,5.989772528,11.03168401,2020,my_examples_landsat_nir_per_year/11.031684011164272_5.9897725279106835_fourth
+Other,Other,5.998418624,11.03439234,2020,my_examples_landsat_nir_per_year/11.0343923378076_5.998418624161075_fourth
+Other,Other,5.997509703,11.03981564,2020,my_examples_landsat_nir_per_year/11.039815639269403_5.997509703196347_fourth
+Other,Other,5.995416667,11.04079167,2020,my_examples_landsat_nir_per_year/11.040791666666667_5.995416666666666_fourth
+Other,Other,5.995208333,11.040875,2020,my_examples_landsat_nir_per_year/11.040875_5.995208333333333_fourth
+Other,Other,5.994916667,11.04095833,2020,my_examples_landsat_nir_per_year/11.040958333333334_5.994916666666667_fourth
+Other,Other,5.99425,11.04104167,2020,my_examples_landsat_nir_per_year/11.041041666666667_5.99425_fourth
+Other,Other,5.994625,11.04104167,2020,my_examples_landsat_nir_per_year/11.041041666666667_5.994625_fourth
+Other,Other,5.993200758,11.04120076,2020,my_examples_landsat_nir_per_year/11.041200757575757_5.993200757575757_fourth
+Other,Other,5.991875,11.041375,2020,my_examples_landsat_nir_per_year/11.041375_5.991875_fourth
+Other,Other,5.992333333,11.041375,2020,my_examples_landsat_nir_per_year/11.041375_5.992333333333333_fourth
+Other,Other,5.991416667,11.04141667,2020,my_examples_landsat_nir_per_year/11.041416666666665_5.991416666666666_fourth
+Other,Other,5.990828704,11.0415787,2020,my_examples_landsat_nir_per_year/11.041578703703705_5.9908287037037065_fourth
+Other,Other,5.990083333,11.04170833,2020,my_examples_landsat_nir_per_year/11.041708333333334_5.990083333333333_fourth
+Other,Other,5.987921296,11.04174228,2020,my_examples_landsat_nir_per_year/11.041742283950613_5.987921296296298_fourth
+Other,Other,5.982383333,11.047625,2020,my_examples_landsat_nir_per_year/11.047625000000002_5.982383333333335_fourth
+Other,Other,5.982125,11.047875,2020,my_examples_landsat_nir_per_year/11.047874999999998_5.982125_fourth
+Other,Other,5.982041667,11.04795833,2020,my_examples_landsat_nir_per_year/11.047958333333334_5.982041666666668_fourth
+Other,Other,5.981934524,11.04819643,2020,my_examples_landsat_nir_per_year/11.04819642857143_5.981934523809524_fourth
+Other,Other,5.981791667,11.04858333,2020,my_examples_landsat_nir_per_year/11.048583333333333_5.981791666666666_fourth
+Other large-scale plantations,Other large-scale plantations,6.084541667,10.381875,2019,my_examples_landsat_nir_per_year/10.381875000000003_6.084541666666666_fourth
+Other large-scale plantations,Other large-scale plantations,6.096875,10.398375,2016,my_examples_landsat_nir_per_year/10.398375_6.096875_fourth
+Other large-scale plantations,Other large-scale plantations,6.095011364,10.39895455,2019,my_examples_landsat_nir_per_year/10.398954545454545_6.095011363636362_fourth
+Other large-scale plantations,Other large-scale plantations,6.095625,10.399875,2019,my_examples_landsat_nir_per_year/10.399875_6.095625_fourth
+Other large-scale plantations,Other large-scale plantations,6.385208333,10.82216667,2017,my_examples_landsat_nir_per_year/10.82216666666667_6.385208333333333_fourth
+Other large-scale plantations,Other large-scale plantations,6.385083333,10.82995833,2015,my_examples_landsat_nir_per_year/10.829958333333332_6.385083333333335_fourth
+Other large-scale plantations,Other large-scale plantations,4.689458333,14.19529167,2019,my_examples_landsat_nir_per_year/14.195291666666668_4.689458333333334_fourth
+Other large-scale plantations,Other large-scale plantations,4.68925,14.2115,2019,my_examples_landsat_nir_per_year/14.211500000000003_4.6892499999999995_fourth
+Other large-scale plantations,Other large-scale plantations,4.681625,14.225,2019,my_examples_landsat_nir_per_year/14.225_4.681625_fourth
+Rubber plantation,Rubber plantation,4.606625,12.239125,2020,my_examples_landsat_nir_per_year/12.239125000000003_4.606625_fourth
+Rubber plantation,Rubber plantation,3.074625,12.422125,2019,my_examples_landsat_nir_per_year/12.422124999999998_3.074625_fourth
+Rubber plantation,Rubber plantation,3.074875,12.426875,2019,my_examples_landsat_nir_per_year/12.426874999999999_3.074875_fourth
+Rubber plantation,Rubber plantation,3.077125,12.451,2019,my_examples_landsat_nir_per_year/12.451_3.077125_fourth
+Rubber plantation,Rubber plantation,3.018125,12.554375,2020,my_examples_landsat_nir_per_year/12.554374999999999_3.0181250000000004_fourth
+Selective logging,Selective logging,2.494125,12.287375,2017,my_examples_landsat_nir_per_year/12.287374999999999_2.4941249999999995_fourth
+Selective logging,Selective logging,3.505875,12.512625,2018,my_examples_landsat_nir_per_year/12.512624999999998_3.505875_fourth
+Selective logging,Selective logging,3.506416667,12.5126875,2017,my_examples_landsat_nir_per_year/12.5126875_3.5064166666666683_fourth
+Selective logging,Selective logging,3.494125,12.519625,2015,my_examples_landsat_nir_per_year/12.519625000000001_3.4941249999999995_fourth
+Selective logging,Selective logging,3.502375,12.531125,2016,my_examples_landsat_nir_per_year/12.531125_3.502375_fourth
+Selective logging,Selective logging,2.39175,12.976125,2018,my_examples_landsat_nir_per_year/12.976125_2.3917499999999996_fourth
+Selective logging,Selective logging,2.808875,13.9655,2018,my_examples_landsat_nir_per_year/13.965499999999997_2.808875_fourth
+Selective logging,Selective logging,2.850875,13.978625,2016,my_examples_landsat_nir_per_year/13.978625000000001_2.8508749999999994_fourth
+Selective logging,Selective logging,2.609475,13.987925,2017,my_examples_landsat_nir_per_year/13.987925_2.609475_fourth
+Selective logging,Selective logging,2.601625,13.991125,2018,my_examples_landsat_nir_per_year/13.991125000000002_2.601625_fourth
+Selective logging,Selective logging,2.423625,14.0015,2017,my_examples_landsat_nir_per_year/14.001499999999998_2.423625_fourth
+Selective logging,Selective logging,2.423625,14.001875,2018,my_examples_landsat_nir_per_year/14.001875_2.423625_fourth
+Selective logging,Selective logging,2.428625,14.00755357,2015,my_examples_landsat_nir_per_year/14.007553571428573_2.428625_fourth
+Selective logging,Selective logging,2.428375,14.007875,2016,my_examples_landsat_nir_per_year/14.007874999999999_2.428375_fourth
+Selective logging,Selective logging,2.603375,14.015375,2015,my_examples_landsat_nir_per_year/14.015374999999997_2.6033749999999993_fourth
+Selective logging,Selective logging,3.225,14.022875,2018,my_examples_landsat_nir_per_year/14.022875_3.224999999999999_fourth
+Selective logging,Selective logging,3.232375,14.024875,2017,my_examples_landsat_nir_per_year/14.024875_3.2323749999999998_fourth
+Selective logging,Selective logging,2.933,14.126125,2017,my_examples_landsat_nir_per_year/14.126125000000002_2.9330000000000003_fourth
+Selective logging,Selective logging,3.729375,14.133375,2018,my_examples_landsat_nir_per_year/14.133375_3.7293749999999997_fourth
+Selective logging,Selective logging,2.936375,14.141125,2016,my_examples_landsat_nir_per_year/14.141124999999999_2.936375_fourth
+Selective logging,Selective logging,2.934553571,14.14351786,2018,my_examples_landsat_nir_per_year/14.143517857142857_2.9345535714285704_fourth
+Selective logging,Selective logging,3.726875,14.156,2015,my_examples_landsat_nir_per_year/14.155999999999999_3.726875_fourth
+Selective logging,Selective logging,3.337696429,14.176625,2015,my_examples_landsat_nir_per_year/14.176624999999996_3.3376964285714283_fourth
+Selective logging,Selective logging,3.090625,14.191625,2016,my_examples_landsat_nir_per_year/14.191625_3.0906249999999993_fourth
+Selective logging,Selective logging,3.05275,14.213625,2015,my_examples_landsat_nir_per_year/14.213625_3.0527500000000005_fourth
+Selective logging,Selective logging,3.051916667,14.21366667,2017,my_examples_landsat_nir_per_year/14.213666666666663_3.051916666666666_fourth
+Selective logging,Selective logging,3.054234375,14.21398438,2018,my_examples_landsat_nir_per_year/14.213984375_3.0542343750000005_fourth
+Selective logging,Selective logging,2.928208333,14.23745833,2015,my_examples_landsat_nir_per_year/14.23745833333333_2.9282083333333335_fourth
+Selective logging,Selective logging,2.225375,14.278875,2017,my_examples_landsat_nir_per_year/14.278875_2.225375_fourth
+Selective logging,Selective logging,2.242625,14.28975,2015,my_examples_landsat_nir_per_year/14.28975_2.242625_fourth
+Selective logging,Selective logging,2.7226875,14.2936875,2018,my_examples_landsat_nir_per_year/14.293687500000004_2.722687500000001_fourth
+Selective logging,Selective logging,3.389775,14.296275,2018,my_examples_landsat_nir_per_year/14.296275000000001_3.389775_fourth
+Selective logging,Selective logging,2.7215,14.310125,2017,my_examples_landsat_nir_per_year/14.310124999999998_2.7215_fourth
+Selective logging,Selective logging,2.294375,14.330125,2016,my_examples_landsat_nir_per_year/14.330125_2.294375_fourth
+Selective logging,Selective logging,2.816375,14.33375,2015,my_examples_landsat_nir_per_year/14.333750000000002_2.8163750000000003_fourth
+Selective logging,Selective logging,2.80275,14.357375,2016,my_examples_landsat_nir_per_year/14.357375000000001_2.8027500000000005_fourth
+Selective logging,Selective logging,3.350375,14.435625,2016,my_examples_landsat_nir_per_year/14.435625000000003_3.3503749999999997_fourth
+Selective logging,Selective logging,3.376625,14.4755,2017,my_examples_landsat_nir_per_year/14.4755_3.376625_fourth
+Selective logging,Selective logging,3.365225,14.484275,2015,my_examples_landsat_nir_per_year/14.484275000000002_3.3652250000000006_fourth
+Selective logging,Selective logging,3.359875,14.48969643,2018,my_examples_landsat_nir_per_year/14.489696428571431_3.3598749999999997_fourth
+Selective logging,Selective logging,3.119,14.500375,2016,my_examples_landsat_nir_per_year/14.500375_3.119_fourth
+Selective logging,Selective logging,3.401166667,14.507625,2017,my_examples_landsat_nir_per_year/14.507624999999997_3.401166666666666_fourth
+Selective logging,Selective logging,3.39225,14.50925,2016,my_examples_landsat_nir_per_year/14.50925_3.3922499999999998_fourth
+Selective logging,Selective logging,3.128375,14.521125,2015,my_examples_landsat_nir_per_year/14.521125_3.128375_fourth
+Selective logging,Selective logging,3.408875,14.546625,2018,my_examples_landsat_nir_per_year/14.546625_3.408874999999999_fourth
+Selective logging,Selective logging,3.408291667,14.54854167,2017,my_examples_landsat_nir_per_year/14.548541666666667_3.4082916666666665_fourth
+Selective logging,Selective logging,3.09675,14.55325,2017,my_examples_landsat_nir_per_year/14.553250000000002_3.0967499999999997_fourth
+Selective logging,Selective logging,3.407875,14.555,2016,my_examples_landsat_nir_per_year/14.554999999999998_3.4078749999999993_fourth
+Selective logging,Selective logging,3.407278846,14.55508654,2015,my_examples_landsat_nir_per_year/14.555086538461538_3.4072788461538455_fourth
+Selective logging,Selective logging,3.112575,14.582025,2018,my_examples_landsat_nir_per_year/14.582025000000002_3.112574999999999_fourth
+Selective logging,Selective logging,3.070208333,14.63666667,2015,my_examples_landsat_nir_per_year/14.636666666666668_3.070208333333334_fourth
+Selective logging,Selective logging,3.065,14.69725,2016,my_examples_landsat_nir_per_year/14.697249999999999_3.065_fourth
+Selective logging,Selective logging,3.067,14.700375,2017,my_examples_landsat_nir_per_year/14.700375_3.0669999999999997_fourth
+Selective logging,Selective logging,3.258275,14.864075,2017,my_examples_landsat_nir_per_year/14.864074999999998_3.258275_fourth
+Selective logging,Selective logging,3.1894375,14.970875,2017,my_examples_landsat_nir_per_year/14.970875000000001_3.1894375_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.686165793,12.208371,2020,my_examples_landsat_nir_per_year/12.20837100374851_7.686165793382314_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.685732549,12.20893513,2020,my_examples_landsat_nir_per_year/12.208935126081952_7.685732548818804_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.694450374,12.21512024,2020,my_examples_landsat_nir_per_year/12.215120243429077_7.694450374331889_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.738846251,12.21644526,2020,my_examples_landsat_nir_per_year/12.216445255994325_7.738846250502315_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.752390605,12.22780726,2020,my_examples_landsat_nir_per_year/12.227807258055831_7.752390604698443_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.596784995,12.30399077,2020,my_examples_landsat_nir_per_year/12.303990769432783_7.596784994563026_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.857371763,12.37963933,2020,my_examples_landsat_nir_per_year/12.379639329846123_7.8573717627363955_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.85713242,12.38003492,2020,my_examples_landsat_nir_per_year/12.380034920333483_7.857132420440159_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.857875,12.380625,2020,my_examples_landsat_nir_per_year/12.380624999999997_7.857875_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.416105334,12.42415889,2020,my_examples_landsat_nir_per_year/12.424158892394578_7.4161053335341895_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.417378811,12.44737115,2020,my_examples_landsat_nir_per_year/12.447371149543285_7.417378811466382_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.416863455,12.44822739,2020,my_examples_landsat_nir_per_year/12.448227390921511_7.416863455448893_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.87597858,12.46127912,2020,my_examples_landsat_nir_per_year/12.46127911550793_7.8759785798209245_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.86408163,12.47190629,2020,my_examples_landsat_nir_per_year/12.471906289327515_7.864081629701116_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.855716311,12.47388562,2020,my_examples_landsat_nir_per_year/12.473885621575766_7.855716311070131_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.85364666,12.47646543,2020,my_examples_landsat_nir_per_year/12.476465431571286_7.853646660094626_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.856809089,12.47656966,2020,my_examples_landsat_nir_per_year/12.476569662012764_7.856809088972476_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.801558207,12.49701084,2020,my_examples_landsat_nir_per_year/12.497010841909676_7.801558207210999_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.807355971,12.50059516,2020,my_examples_landsat_nir_per_year/12.500595161339833_7.807355970993413_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.867440755,12.50282817,2020,my_examples_landsat_nir_per_year/12.5028281746693_7.867440755206013_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.870939524,12.50555522,2020,my_examples_landsat_nir_per_year/12.505555219512043_7.870939524197748_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.865081911,12.50845807,2020,my_examples_landsat_nir_per_year/12.508458067803813_7.865081910553214_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.843951126,12.51925195,2020,my_examples_landsat_nir_per_year/12.519251951102499_7.843951125737803_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.843329168,12.51934924,2020,my_examples_landsat_nir_per_year/12.51934923875506_7.843329167596783_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.844625,12.52057815,2020,my_examples_landsat_nir_per_year/12.520578149862398_7.844625000000001_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.847098046,12.52140196,2020,my_examples_landsat_nir_per_year/12.521401964687094_7.847098046063593_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.841375,12.52297657,2020,my_examples_landsat_nir_per_year/12.522976573271581_7.841375000000001_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.835881554,12.52869126,2020,my_examples_landsat_nir_per_year/12.528691257579796_7.835881554435545_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.768628934,12.53488732,2020,my_examples_landsat_nir_per_year/12.53488731957224_7.768628933837424_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.409751942,12.55108332,2020,my_examples_landsat_nir_per_year/12.551083315562508_7.409751941649859_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.852922987,12.57355253,2020,my_examples_landsat_nir_per_year/12.573552529667348_7.852922986834908_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.429151339,12.73578938,2020,my_examples_landsat_nir_per_year/12.735789376612225_7.429151339166113_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.429731688,12.73691551,2020,my_examples_landsat_nir_per_year/12.73691551240878_7.4297316879790145_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.404816079,12.76060141,2020,my_examples_landsat_nir_per_year/12.760601407135212_7.404816078569234_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.378316097,12.79418472,2020,my_examples_landsat_nir_per_year/12.794184717117444_7.378316096912368_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.401423367,12.79580238,2020,my_examples_landsat_nir_per_year/12.795802378170395_7.401423367120591_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.412258802,12.79858715,2020,my_examples_landsat_nir_per_year/12.798587149909425_7.4122588016884_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.428607729,12.83472636,2020,my_examples_landsat_nir_per_year/12.834726355425046_7.428607728581503_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.545024314,12.84924436,2020,my_examples_landsat_nir_per_year/12.849244357193733_7.545024313781366_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.463784913,12.87036142,2020,my_examples_landsat_nir_per_year/12.87036142255518_7.4637849126338995_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.525233179,12.90387523,2020,my_examples_landsat_nir_per_year/12.903875233223996_7.525233179065813_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.506046798,12.92104545,2020,my_examples_landsat_nir_per_year/12.921045452892955_7.506046797623661_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.395816085,12.93805962,2020,my_examples_landsat_nir_per_year/12.938059616666958_7.395816084683613_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.377166727,12.94682569,2020,my_examples_landsat_nir_per_year/12.94682568938614_7.377166727379035_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.378193567,12.94936321,2020,my_examples_landsat_nir_per_year/12.949363214799298_7.378193566617205_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.379113298,12.9495082,2020,my_examples_landsat_nir_per_year/12.949508195151456_7.379113297695641_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.438090183,12.96340129,2020,my_examples_landsat_nir_per_year/12.96340128548014_7.438090182704024_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.378818594,12.96679388,2020,my_examples_landsat_nir_per_year/12.96679387846156_7.378818594132249_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.356375,12.99068458,2020,my_examples_landsat_nir_per_year/12.990684579805995_7.356375000000001_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.374581738,12.99875807,2020,my_examples_landsat_nir_per_year/12.998758067180278_7.374581738479535_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.373434248,13.00149662,2020,my_examples_landsat_nir_per_year/13.001496615851032_7.373434248216875_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.375375,13.002375,2020,my_examples_landsat_nir_per_year/13.002375_7.375375_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.37575,13.002625,2020,my_examples_landsat_nir_per_year/13.002625000000002_7.37575_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.375679074,13.00317602,2020,my_examples_landsat_nir_per_year/13.003176020941595_7.375679074421927_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.375232766,13.0035179,2020,my_examples_landsat_nir_per_year/13.003517904113343_7.375232765791856_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.414762399,13.00813414,2020,my_examples_landsat_nir_per_year/13.008134137132313_7.414762399118406_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.388673846,13.01847623,2020,my_examples_landsat_nir_per_year/13.018476227023118_7.388673846108056_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.387740892,13.01937816,2020,my_examples_landsat_nir_per_year/13.019378162369446_7.387740892403609_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.545625,13.02385122,2020,my_examples_landsat_nir_per_year/13.023851223179799_7.545625000000001_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.400063798,13.03032347,2020,my_examples_landsat_nir_per_year/13.030323468472448_7.400063798244258_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.400353536,13.03060754,2020,my_examples_landsat_nir_per_year/13.030607536892559_7.400353535867019_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.39986277,13.03092897,2020,my_examples_landsat_nir_per_year/13.03092897447351_7.399862770019991_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.382779144,13.05289058,2020,my_examples_landsat_nir_per_year/13.052890584062993_7.382779144346759_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.382382188,13.05778573,2020,my_examples_landsat_nir_per_year/13.057785732408407_7.382382188234447_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.481681974,13.07569384,2020,my_examples_landsat_nir_per_year/13.075693840565371_7.481681973742874_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.481163054,13.07590088,2020,my_examples_landsat_nir_per_year/13.075900875284397_7.481163053895673_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.481423716,13.07626785,2020,my_examples_landsat_nir_per_year/13.076267853276663_7.4814237164832535_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.494609264,13.2456113,2020,my_examples_landsat_nir_per_year/13.245611301413353_7.49460926371322_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.437874034,13.31370678,2020,my_examples_landsat_nir_per_year/13.31370678146356_7.437874034255057_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.380852429,13.3533401,2020,my_examples_landsat_nir_per_year/13.353340102901388_7.380852428811225_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.438258878,13.37345091,2020,my_examples_landsat_nir_per_year/13.373450908096212_7.438258878371279_fourth
+Small-scale maize plantation,Small-scale maize plantation,7.439543435,13.37491771,2020,my_examples_landsat_nir_per_year/13.374917706272173_7.439543435206107_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.190131755,9.572875,2019,my_examples_landsat_nir_per_year/9.572875_4.190131755098_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.190379605,9.573242661,2019,my_examples_landsat_nir_per_year/9.573242661374204_4.1903796051651_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.271755186,9.585746286,2019,my_examples_landsat_nir_per_year/9.585746285883982_4.271755186101762_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.208509422,9.590625,2019,my_examples_landsat_nir_per_year/9.590625_4.208509421896654_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.207847523,9.591557426,2019,my_examples_landsat_nir_per_year/9.59155742601412_4.207847523249041_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.207530195,9.591789498,2019,my_examples_landsat_nir_per_year/9.591789498045491_4.207530194903292_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.26141854,9.59676152,2019,my_examples_landsat_nir_per_year/9.596761519699877_4.261418539933294_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.280041794,9.606838773,2019,my_examples_landsat_nir_per_year/9.606838773370699_4.28004179359447_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.270296949,9.607937294,2019,my_examples_landsat_nir_per_year/9.607937294217814_4.270296948555575_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.224959117,9.611790879,2019,my_examples_landsat_nir_per_year/9.611790879044063_4.224959117286424_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.208939319,9.613932771,2019,my_examples_landsat_nir_per_year/9.613932771088342_4.208939318948444_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.272260115,9.624024463,2019,my_examples_landsat_nir_per_year/9.624024462547517_4.272260114508056_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.150375,9.630928794,2019,my_examples_landsat_nir_per_year/9.63092879429816_4.150375_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.192514399,9.635764419,2019,my_examples_landsat_nir_per_year/9.635764418926945_4.192514399128886_fourth
+Small-scale oil palm plantation,Small-scale oil palm plantation,4.224289613,9.651025115,2019,my_examples_landsat_nir_per_year/9.651025114828746_4.22428961294793_fourth
+Small-scale other plantation,Small-scale other plantation,5.592411467,10.02568237,2020,my_examples_landsat_nir_per_year/10.02568236826734_5.592411467355677_fourth
+Small-scale other plantation,Small-scale other plantation,5.60263985,10.0326325,2020,my_examples_landsat_nir_per_year/10.032632495618689_5.602639849531036_fourth
+Small-scale other plantation,Small-scale other plantation,5.627436628,10.05126917,2020,my_examples_landsat_nir_per_year/10.051269170691775_5.62743662755582_fourth
+Small-scale other plantation,Small-scale other plantation,5.627605597,10.05435264,2020,my_examples_landsat_nir_per_year/10.054352635129172_5.627605597425339_fourth
+Small-scale other plantation,Small-scale other plantation,5.626703894,10.05455212,2020,my_examples_landsat_nir_per_year/10.054552124269623_5.6267038937275276_fourth
+Small-scale other plantation,Small-scale other plantation,5.635884462,10.06684407,2020,my_examples_landsat_nir_per_year/10.0668440692552_5.635884462303766_fourth
+Small-scale other plantation,Small-scale other plantation,5.616703892,10.06905213,2020,my_examples_landsat_nir_per_year/10.069052126845378_5.61670389247525_fourth
+Small-scale other plantation,Small-scale other plantation,5.707917619,10.0791776,2020,my_examples_landsat_nir_per_year/10.079177602013344_5.707917618953397_fourth
+Small-scale other plantation,Small-scale other plantation,5.648485574,10.08519298,2020,my_examples_landsat_nir_per_year/10.085192982557047_5.6484855742387055_fourth
+Small-scale other plantation,Small-scale other plantation,5.629096143,10.09778399,2020,my_examples_landsat_nir_per_year/10.097783992972948_5.629096143276696_fourth
+Small-scale other plantation,Small-scale other plantation,5.620580917,10.09802886,2020,my_examples_landsat_nir_per_year/10.098028856728998_5.620580916632033_fourth
+Small-scale other plantation,Small-scale other plantation,5.622866694,10.11537871,2020,my_examples_landsat_nir_per_year/10.115378706278966_5.6228666939015195_fourth
+Small-scale other plantation,Small-scale other plantation,5.753777255,10.13745066,2020,my_examples_landsat_nir_per_year/10.137450664952175_5.753777255042369_fourth
+Small-scale other plantation,Small-scale other plantation,5.840453907,10.18330212,2020,my_examples_landsat_nir_per_year/10.183302118301617_5.8404539073333925_fourth
+Small-scale other plantation,Small-scale other plantation,5.845564352,10.18939951,2020,my_examples_landsat_nir_per_year/10.189399507283227_5.845564352471654_fourth
+Small-scale other plantation,Small-scale other plantation,5.859846205,10.22035969,2020,my_examples_landsat_nir_per_year/10.220359685505688_5.859846205215533_fourth
+Small-scale other plantation,Small-scale other plantation,5.642796096,10.35061233,2020,my_examples_landsat_nir_per_year/10.350612331896185_5.64279609621088_fourth
+Small-scale other plantation,Small-scale other plantation,5.779065714,10.38281474,2020,my_examples_landsat_nir_per_year/10.38281473959657_5.7790657140394055_fourth
+Small-scale other plantation,Small-scale other plantation,5.709509364,10.39619375,2020,my_examples_landsat_nir_per_year/10.39619374608397_5.709509364195468_fourth
+Small-scale other plantation,Small-scale other plantation,5.549786467,10.40821211,2020,my_examples_landsat_nir_per_year/10.408212106054732_5.5497864671198265_fourth
+Small-scale other plantation,Small-scale other plantation,5.727428441,10.44022152,2020,my_examples_landsat_nir_per_year/10.440221520705483_5.727428440924915_fourth
+Small-scale other plantation,Small-scale other plantation,5.621233603,10.58793471,2020,my_examples_landsat_nir_per_year/10.587934706388957_5.621233602822666_fourth
+Small-scale other plantation,Small-scale other plantation,5.59741867,10.58987852,2020,my_examples_landsat_nir_per_year/10.589878522637017_5.597418670187535_fourth
+Small-scale other plantation,Small-scale other plantation,5.677055328,10.59380875,2020,my_examples_landsat_nir_per_year/10.593808745671598_5.677055328422627_fourth
+Small-scale other plantation,Small-scale other plantation,5.672813115,10.59413512,2020,my_examples_landsat_nir_per_year/10.594135122116349_5.67281311464719_fourth
+Small-scale other plantation,Small-scale other plantation,5.730636872,10.63663681,2020,my_examples_landsat_nir_per_year/10.636636811431334_5.730636872019219_fourth
+Small-scale other plantation,Small-scale other plantation,5.716782005,10.64094636,2020,my_examples_landsat_nir_per_year/10.640946364130388_5.716782004539051_fourth
+Small-scale other plantation,Small-scale other plantation,5.727887914,10.64100488,2020,my_examples_landsat_nir_per_year/10.64100487645404_5.727887914017411_fourth
+Small-scale other plantation,Small-scale other plantation,5.729648069,10.64107004,2020,my_examples_landsat_nir_per_year/10.641070037620247_5.729648069336932_fourth
+Timber plantation,Timber plantation,1.915625,15.85575,2017,my_examples_landsat_nir_per_year/15.855749999999999_1.9156249999999992_fourth
+Timber plantation,Timber plantation,1.91625,15.85625,2018,my_examples_landsat_nir_per_year/15.856250000000003_1.9162499999999996_fourth
+Timber plantation,Timber plantation,1.9295,15.857,2017,my_examples_landsat_nir_per_year/15.857_1.9295000000000004_fourth
+Timber plantation,Timber plantation,1.92775,15.857,2017,my_examples_landsat_nir_per_year/15.857000000000003_1.9277499999999994_fourth
+Timber plantation,Timber plantation,1.929875,15.85875,2017,my_examples_landsat_nir_per_year/15.858749999999997_1.9298749999999998_fourth
+Timber plantation,Timber plantation,1.92725,15.85875,2017,my_examples_landsat_nir_per_year/15.858749999999999_1.9272500000000001_fourth
+Timber plantation,Timber plantation,1.928041667,15.85954167,2017,my_examples_landsat_nir_per_year/15.859541666666667_1.9280416666666667_fourth
+Timber plantation,Timber plantation,1.929,15.859875,2017,my_examples_landsat_nir_per_year/15.859874999999999_1.9289999999999994_fourth
+Timber plantation,Timber plantation,1.929975,15.860375,2017,my_examples_landsat_nir_per_year/15.860375000000001_1.929975_fourth
+Timber plantation,Timber plantation,1.912125,15.861,2017,my_examples_landsat_nir_per_year/15.861_1.9121249999999996_fourth
+Timber plantation,Timber plantation,1.91875,15.861125,2017,my_examples_landsat_nir_per_year/15.861125000000005_1.9187500000000004_fourth
+Timber plantation,Timber plantation,1.927708333,15.86170833,2017,my_examples_landsat_nir_per_year/15.861708333333334_1.9277083333333334_fourth
+Timber plantation,Timber plantation,1.916625,15.861875,2017,my_examples_landsat_nir_per_year/15.861875000000003_1.9166249999999998_fourth
+Timber plantation,Timber plantation,1.927375,15.862125,2017,my_examples_landsat_nir_per_year/15.862124999999999_1.9273749999999996_fourth
+Timber plantation,Timber plantation,1.929,15.862125,2017,my_examples_landsat_nir_per_year/15.862125_1.9289999999999994_fourth
+Timber plantation,Timber plantation,1.915875,15.862375,2017,my_examples_landsat_nir_per_year/15.862374999999998_1.9158749999999998_fourth
+Timber plantation,Timber plantation,1.928625,15.863,2017,my_examples_landsat_nir_per_year/15.862999999999998_1.9286249999999994_fourth
+Timber plantation,Timber plantation,1.930125,15.863,2017,my_examples_landsat_nir_per_year/15.862999999999998_1.9301249999999999_fourth
+Timber plantation,Timber plantation,1.913291667,15.86320833,2017,my_examples_landsat_nir_per_year/15.863208333333336_1.9132916666666662_fourth
+Timber plantation,Timber plantation,1.931,15.8645,2017,my_examples_landsat_nir_per_year/15.8645_1.931_fourth
+Timber plantation,Timber plantation,1.908,15.865125,2017,my_examples_landsat_nir_per_year/15.865125_1.9080000000000004_fourth
+Timber plantation,Timber plantation,1.928625,15.865125,2017,my_examples_landsat_nir_per_year/15.865125000000003_1.9286249999999991_fourth
+Timber plantation,Timber plantation,1.92975,15.865875,2017,my_examples_landsat_nir_per_year/15.865875000000003_1.9297499999999994_fourth
+Timber plantation,Timber plantation,1.91,15.8665,2017,my_examples_landsat_nir_per_year/15.8665_1.9099999999999993_fourth
+Timber plantation,Timber plantation,1.905625,15.86675,2017,my_examples_landsat_nir_per_year/15.866750000000003_1.9056249999999997_fourth
+Timber plantation,Timber plantation,1.909946429,15.868875,2017,my_examples_landsat_nir_per_year/15.868875000000001_1.9099464285714283_fourth
+Timber plantation,Timber plantation,1.901041667,15.86904167,2017,my_examples_landsat_nir_per_year/15.869041666666662_1.901041666666666_fourth
+Timber plantation,Timber plantation,1.903041667,15.86945833,2017,my_examples_landsat_nir_per_year/15.869458333333334_1.9030416666666663_fourth
+Timber plantation,Timber plantation,1.902776042,15.87088542,2017,my_examples_landsat_nir_per_year/15.870885416666663_1.9027760416666673_fourth
+Timber plantation,Timber plantation,1.91809375,15.8724375,2017,my_examples_landsat_nir_per_year/15.872437500000004_1.9180937500000004_fourth
+Timber plantation,Timber plantation,1.913,15.872625,2017,my_examples_landsat_nir_per_year/15.872625000000001_1.9129999999999996_fourth
+Timber plantation,Timber plantation,1.9344375,15.872625,2017,my_examples_landsat_nir_per_year/15.872625000000005_1.9344375_fourth
+Timber plantation,Timber plantation,1.920110294,15.87268382,2017,my_examples_landsat_nir_per_year/15.872683823529412_1.920110294117647_fourth
+Timber plantation,Timber plantation,1.939625,15.87269643,2017,my_examples_landsat_nir_per_year/15.872696428571428_1.9396249999999993_fourth
+Timber plantation,Timber plantation,1.918625,15.872875,2017,my_examples_landsat_nir_per_year/15.872875_1.9186249999999998_fourth
+Timber plantation,Timber plantation,1.909125,15.8735,2017,my_examples_landsat_nir_per_year/15.8735_1.9091250000000002_fourth
+Timber plantation,Timber plantation,1.935791667,15.87358333,2017,my_examples_landsat_nir_per_year/15.873583333333334_1.9357916666666664_fourth
+Timber plantation,Timber plantation,1.9213125,15.8738125,2017,my_examples_landsat_nir_per_year/15.873812500000001_1.9213124999999995_fourth
+Timber plantation,Timber plantation,1.90175,15.873875,2017,my_examples_landsat_nir_per_year/15.873875000000005_1.90175_fourth
+Timber plantation,Timber plantation,1.9155,15.873875,2018,my_examples_landsat_nir_per_year/15.873875000000005_1.9154999999999998_fourth
+Timber plantation,Timber plantation,1.911375,15.874125,2017,my_examples_landsat_nir_per_year/15.874125000000003_1.9113749999999998_fourth
+Timber plantation,Timber plantation,1.92375,15.874375,2017,my_examples_landsat_nir_per_year/15.874374999999999_1.92375_fourth
+Timber plantation,Timber plantation,1.9171875,15.874375,2017,my_examples_landsat_nir_per_year/15.874375_1.9171875000000007_fourth
+Timber plantation,Timber plantation,1.937791667,15.87445833,2017,my_examples_landsat_nir_per_year/15.874458333333333_1.9377916666666666_fourth
+Timber plantation,Timber plantation,1.939875,15.874625,2017,my_examples_landsat_nir_per_year/15.874625_1.9398749999999996_fourth
+Timber plantation,Timber plantation,1.91,15.874625,2017,my_examples_landsat_nir_per_year/15.874625000000002_1.909999999999999_fourth
+Timber plantation,Timber plantation,1.9244375,15.8746875,2017,my_examples_landsat_nir_per_year/15.874687500000002_1.9244375000000005_fourth
+Timber plantation,Timber plantation,1.9125,15.874875,2017,my_examples_landsat_nir_per_year/15.874875_1.9124999999999996_fourth
+Timber plantation,Timber plantation,1.915200581,15.87493314,2017,my_examples_landsat_nir_per_year/15.874933139534887_1.9152005813953483_fourth
+Timber plantation,Timber plantation,1.92675,15.875,2017,my_examples_landsat_nir_per_year/15.875000000000002_1.926749999999999_fourth
+Timber plantation,Timber plantation,1.936025,15.875075,2017,my_examples_landsat_nir_per_year/15.875075_1.9360249999999997_fourth
+Timber plantation,Timber plantation,1.916875,15.875125,2017,my_examples_landsat_nir_per_year/15.875124999999997_1.9168750000000003_fourth
+Timber plantation,Timber plantation,1.937375,15.875125,2017,my_examples_landsat_nir_per_year/15.875125000000002_1.9373750000000005_fourth
+Timber plantation,Timber plantation,1.913875,15.87525,2017,my_examples_landsat_nir_per_year/15.87525_1.913875_fourth
+Timber plantation,Timber plantation,1.924958333,15.87529167,2017,my_examples_landsat_nir_per_year/15.875291666666664_1.9249583333333327_fourth
+Timber plantation,Timber plantation,1.934625,15.875875,2017,my_examples_landsat_nir_per_year/15.875875000000002_1.9346249999999996_fourth
+Timber plantation,Timber plantation,1.918875,15.876325,2017,my_examples_landsat_nir_per_year/15.876325000000001_1.9188750000000003_fourth
+Timber plantation,Timber plantation,1.920125,15.87675,2017,my_examples_landsat_nir_per_year/15.87675_1.9201249999999994_fourth
+Timber plantation,Timber plantation,1.93525,15.87675,2017,my_examples_landsat_nir_per_year/15.87675_1.9352499999999997_fourth
+Timber plantation,Timber plantation,1.939125,15.87675,2017,my_examples_landsat_nir_per_year/15.87675_1.939125_fourth
+Timber plantation,Timber plantation,1.91625,15.877,2017,my_examples_landsat_nir_per_year/15.877_1.9162499999999998_fourth
+Timber plantation,Timber plantation,1.934875,15.877125,2017,my_examples_landsat_nir_per_year/15.877125000000001_1.9348750000000001_fourth
+Timber plantation,Timber plantation,1.924732143,15.87716071,2017,my_examples_landsat_nir_per_year/15.877160714285713_1.924732142857143_fourth
+Timber plantation,Timber plantation,1.917,15.87725,2017,my_examples_landsat_nir_per_year/15.877250000000004_1.917_fourth
+Timber plantation,Timber plantation,1.933875,15.87725,2017,my_examples_landsat_nir_per_year/15.877250000000004_1.9338749999999998_fourth
+Timber plantation,Timber plantation,1.934125,15.877625,2017,my_examples_landsat_nir_per_year/15.877625_1.9341249999999999_fourth
+Timber plantation,Timber plantation,1.915375,15.87798214,2017,my_examples_landsat_nir_per_year/15.877982142857144_1.915374999999999_fourth
+Timber plantation,Timber plantation,1.917125,15.878,2017,my_examples_landsat_nir_per_year/15.878_1.9171249999999993_fourth
+Timber plantation,Timber plantation,1.9255,15.878,2017,my_examples_landsat_nir_per_year/15.878_1.9254999999999998_fourth
+Timber plantation,Timber plantation,1.919541667,15.87804167,2017,my_examples_landsat_nir_per_year/15.878041666666666_1.9195416666666665_fourth
+Timber plantation,Timber plantation,1.924875,15.878375,2017,my_examples_landsat_nir_per_year/15.878375000000002_1.9248750000000001_fourth
+Timber plantation,Timber plantation,1.91275,15.8785,2017,my_examples_landsat_nir_per_year/15.878500000000003_1.91275_fourth
+Timber plantation,Timber plantation,1.934625,15.878875,2017,my_examples_landsat_nir_per_year/15.878875000000003_1.9346249999999996_fourth
+Timber plantation,Timber plantation,1.938680556,15.87901389,2017,my_examples_landsat_nir_per_year/15.879013888888887_1.9386805555555555_fourth
+Timber plantation,Timber plantation,1.9155,15.879125,2017,my_examples_landsat_nir_per_year/15.879125000000002_1.9155_fourth
+Timber plantation,Timber plantation,1.9343125,15.8793125,2017,my_examples_landsat_nir_per_year/15.879312500000001_1.9343125_fourth
+Timber plantation,Timber plantation,1.933875,15.879375,2017,my_examples_landsat_nir_per_year/15.879374999999998_1.9338749999999998_fourth
+Timber plantation,Timber plantation,1.924375,15.879625,2017,my_examples_landsat_nir_per_year/15.879625_1.9243750000000004_fourth
+Timber plantation,Timber plantation,1.934625,15.88,2017,my_examples_landsat_nir_per_year/15.88_1.9346249999999996_fourth
+Timber plantation,Timber plantation,1.913875,15.880625,2017,my_examples_landsat_nir_per_year/15.880624999999998_1.9138749999999998_fourth
+Timber plantation,Timber plantation,1.915375,15.880875,2017,my_examples_landsat_nir_per_year/15.880875000000001_1.9153749999999998_fourth
+Timber plantation,Timber plantation,1.915375,15.882125,2017,my_examples_landsat_nir_per_year/15.882124999999997_1.9153749999999998_fourth
+Timber plantation,Timber plantation,1.925375,15.882125,2017,my_examples_landsat_nir_per_year/15.882125_1.925375_fourth
+Timber plantation,Timber plantation,1.924803571,15.88291071,2017,my_examples_landsat_nir_per_year/15.882910714285714_1.9248035714285716_fourth
+Timber plantation,Timber plantation,1.932215909,15.88292045,2017,my_examples_landsat_nir_per_year/15.882920454545458_1.932215909090909_fourth
+Timber plantation,Timber plantation,1.925708333,15.88340278,2017,my_examples_landsat_nir_per_year/15.883402777777778_1.9257083333333334_fourth
+Timber plantation,Timber plantation,1.93125,15.883625,2017,my_examples_landsat_nir_per_year/15.883624999999999_1.9312499999999997_fourth
+Timber plantation,Timber plantation,1.934070652,15.88382609,2017,my_examples_landsat_nir_per_year/15.883826086956525_1.934070652173913_fourth
+Timber plantation,Timber plantation,1.927943709,15.88414136,2017,my_examples_landsat_nir_per_year/15.884141364902483_1.9279437093779022_fourth
+Timber plantation,Timber plantation,1.932513889,15.88468056,2017,my_examples_landsat_nir_per_year/15.884680555555555_1.9325138888888886_fourth
+Timber plantation,Timber plantation,1.926875,15.884875,2017,my_examples_landsat_nir_per_year/15.884875_1.926875_fourth
+Timber plantation,Timber plantation,1.9256,15.885175,2017,my_examples_landsat_nir_per_year/15.885175000000004_1.9256_fourth
+Timber plantation,Timber plantation,1.93225,15.885875,2017,my_examples_landsat_nir_per_year/15.885874999999999_1.9322499999999998_fourth
+Timber plantation,Timber plantation,1.93325,15.886125,2017,my_examples_landsat_nir_per_year/15.886124999999998_1.93325_fourth
+Timber plantation,Timber plantation,1.914125,15.8865,2017,my_examples_landsat_nir_per_year/15.886499999999998_1.9141249999999996_fourth
+Timber plantation,Timber plantation,1.931009615,15.88670192,2017,my_examples_landsat_nir_per_year/15.88670192307692_1.9310096153846157_fourth
+Timber plantation,Timber plantation,1.933085784,15.88703186,2017,my_examples_landsat_nir_per_year/15.8870318627451_1.933085784313725_fourth
+Timber plantation,Timber plantation,1.914663462,15.88724038,2017,my_examples_landsat_nir_per_year/15.887240384615382_1.9146634615384612_fourth
+Timber plantation,Timber plantation,1.919875,15.890125,2017,my_examples_landsat_nir_per_year/15.890125000000001_1.9198750000000002_fourth
+Timber plantation,Timber plantation,1.914625,15.890375,2017,my_examples_landsat_nir_per_year/15.890374999999999_1.914625_fourth
+Timber plantation,Timber plantation,1.921458333,15.89089167,2017,my_examples_landsat_nir_per_year/15.890891666666667_1.921458333333334_fourth
+Timber plantation,Timber plantation,1.914625,15.89125,2017,my_examples_landsat_nir_per_year/15.89125_1.9146250000000002_fourth
+Timber plantation,Timber plantation,1.925375,15.891375,2017,my_examples_landsat_nir_per_year/15.891375000000002_1.9253749999999996_fourth
+Timber plantation,Timber plantation,1.924375,15.891875,2017,my_examples_landsat_nir_per_year/15.891874999999999_1.9243750000000004_fourth
+Timber plantation,Timber plantation,1.921458333,15.89220833,2017,my_examples_landsat_nir_per_year/15.892208333333334_1.9214583333333337_fourth
+Wildfire,Wildfire,8.423275,13.509075,2017,my_examples_landsat_nir_per_year/13.509075000000001_8.423275_fourth
+Wildfire,Wildfire,8.426875,13.515375,2017,my_examples_landsat_nir_per_year/13.515375_8.426874999999999_fourth
+Wildfire,Wildfire,8.337375,13.55475,2020,my_examples_landsat_nir_per_year/13.554750000000002_8.33737499960429_fourth
+Wildfire,Wildfire,8.335625,13.556,2020,my_examples_landsat_nir_per_year/13.556_8.335625_fourth
+Wildfire,Wildfire,8.338541667,13.55645833,2018,my_examples_landsat_nir_per_year/13.556458333333332_8.338541666666666_fourth
+Wildfire,Wildfire,8.336885869,13.55695109,2020,my_examples_landsat_nir_per_year/13.556951086836838_8.336885869142579_fourth
+Wildfire,Wildfire,8.368859852,13.60038909,2016,my_examples_landsat_nir_per_year/13.600389094902084_8.368859852030521_fourth
+Wildfire,Wildfire,8.369150695,13.60275638,2016,my_examples_landsat_nir_per_year/13.602756384248218_8.369150694548026_fourth
+Wildfire,Wildfire,8.385375,13.604875,2017,my_examples_landsat_nir_per_year/13.604875_8.385375000000002_fourth
+Wildfire,Wildfire,8.385625,13.605125,2017,my_examples_landsat_nir_per_year/13.605125000000001_8.385625000000001_fourth
+Wildfire,Wildfire,8.386041667,13.60529167,2017,my_examples_landsat_nir_per_year/13.605291666666666_8.386041666666667_fourth
+Wildfire,Wildfire,8.385053571,13.60544643,2017,my_examples_landsat_nir_per_year/13.60544642857143_8.38505357142857_fourth
+Wildfire,Wildfire,8.372898437,13.6055,2016,my_examples_landsat_nir_per_year/13.605499999999997_8.372898437499993_fourth
+Wildfire,Wildfire,8.389208333,13.60595833,2017,my_examples_landsat_nir_per_year/13.605958333333332_8.38920833333333_fourth
+Wildfire,Wildfire,8.386125,13.606375,2017,my_examples_landsat_nir_per_year/13.606374999999998_8.386125_fourth
+Wildfire,Wildfire,8.385125,13.60653409,2017,my_examples_landsat_nir_per_year/13.606534090909092_8.385125_fourth
+Wildfire,Wildfire,8.387659439,13.60842614,2017,my_examples_landsat_nir_per_year/13.608426139987245_8.387659438775513_fourth
+Wildfire,Wildfire,8.387410714,13.608875,2017,my_examples_landsat_nir_per_year/13.608875_8.387410714285716_fourth
+Wildfire,Wildfire,8.387217262,13.60922411,2017,my_examples_landsat_nir_per_year/13.609224113343256_8.38721726190476_fourth
+Wildfire,Wildfire,8.381125,13.609875,2017,my_examples_landsat_nir_per_year/13.609875_8.381125_fourth
+Wildfire,Wildfire,8.390375,13.610625,2017,my_examples_landsat_nir_per_year/13.610625000000002_8.390374999999999_fourth
+Wildfire,Wildfire,8.391625,13.611,2017,my_examples_landsat_nir_per_year/13.610999999999999_8.391625000000001_fourth
+Wildfire,Wildfire,8.39125,13.611875,2017,my_examples_landsat_nir_per_year/13.611875_8.39125_fourth
+Wildfire,Wildfire,8.385319444,13.61193056,2017,my_examples_landsat_nir_per_year/13.611930555555558_8.385319444444445_fourth
+Wildfire,Wildfire,8.394306818,13.61530682,2017,my_examples_landsat_nir_per_year/13.61530681818182_8.394306818181818_fourth
+Wildfire,Wildfire,8.309875,13.691875,2019,my_examples_landsat_nir_per_year/13.691875_8.309874999999998_fourth
+Wildfire,Wildfire,8.309402778,13.69243056,2019,my_examples_landsat_nir_per_year/13.692430555555557_8.309402777777777_fourth
+Wildfire,Wildfire,8.311425,13.69249167,2019,my_examples_landsat_nir_per_year/13.69249166673565_8.311424999849176_fourth
+Wildfire,Wildfire,8.311208333,13.69370833,2019,my_examples_landsat_nir_per_year/13.693708333333335_8.311208333333335_fourth
+Wildfire,Wildfire,8.310920455,13.69473864,2019,my_examples_landsat_nir_per_year/13.694738636363638_8.310920454545453_fourth
+Wildfire,Wildfire,8.310625,13.695375,2019,my_examples_landsat_nir_per_year/13.695375_8.310625_fourth
+Wildfire,Wildfire,8.310875,13.69579167,2019,my_examples_landsat_nir_per_year/13.695791666098964_8.310875_fourth
+Wildfire,Wildfire,8.409125,13.736625,2016,my_examples_landsat_nir_per_year/13.736625_8.409125000000001_fourth
+Wildfire,Wildfire,8.408508025,13.73881037,2016,my_examples_landsat_nir_per_year/13.738810374149656_8.40850802508503_fourth
