@@ -106,6 +106,7 @@ Description of the sub-folders and files
 |  |  |  intersections_between_splits.py | To check interesections between GFC polygons in different splits | data_split_env |
 |  |  |  check_intersection_within_split.py |  To check interesections between GFC polygons in the same split| data_split_env |
 |  |  |  split_min_distance_edges.py |  To split data in training, validation, testing datasets with a minimum distance of 100 m between the edges of GFC polygons (relaxing distance from 1 km) | data_split_env |
+|  |  |  create_5_folds.py |  To split data in training + validation and testing datasets with a minimum distance of 100 m between the edges of GFC polygons (relaxing distance from 1 km) for 5 fold cross validation | data_split_env |
 |  |  |  val_5cv.py |  To split data in training and validation for 5 fold cross validation with a minimum distance of 100 m between the edges of GFC polygons | data_split_env |
 
 
