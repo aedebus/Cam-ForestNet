@@ -103,14 +103,11 @@ Description of the sub-folders and files
 | / | / |  main_my_test_all.py | To test Cam-ForestNet with a single image approach | fnet |
 |  |  |  main_my_test_fusion.py | To test Cam-ForestNet with a decision-based fusion approach | fnet |
 |  |  |  main_my_train_all.py | To train Cam-ForestNet | fnet |
-|  |  |  main_mytest_timeseries_per_year.py | To keep the labels with the highest logit value when testing with different combinations of time series | fnet |
-|  |  |  populate_folder_all_detailed.py | To create a formatted data folder (RGB only) to train and test Cam-ForestNet using the steps in 'prepare_files'; split the data into training, validation and testing datasets; and generate a reference csv file with labels | fnet |
-|  |  |  populate_folder_all_detailed_landsat_nir.py | To create a formatted data folder for NIR + RGB Landsat-8 (non-pansharpened, TOA) data to train and test Cam-ForestNet using the steps in 'prepare_files'; split the data into training, validation and testing datasets; and generate a reference csv file with labels | fnet |
-|  |  |  populate_folder_all_detailed_landsat_nir_ps.py | To create a formatted data folder for NIR + RGB Landsat-8 (pansharpened, TOA) data to train and test Cam-ForestNet using the steps in 'prepare_files'; split the data into training, validation and testing datasets; and generate a reference csv file with labels | fnet |
-|  |  |  populate_folder_all_detailed_planet_nir.py | To create a formatted data folder for NIR + RGB NICFI PlanetScope (monthly composites) data to train and test Cam-ForestNet using the steps in 'prepare_files'; split the data into training, validation and testing datasets; and generate a reference csv file with labels | fnet |
-|  |  |  populate_folder_all_detailed_planet_nir_biannual.py | To create a formatted data folder for NIR + RGB NICFI PlanetScope (biannual composites) data to train and test Cam-ForestNet using the steps in 'prepare_files'; split the data into training, validation and testing datasets; and generate a reference csv file with labels | fnet |
-|  |  |  populate_folder_all_match_test_datasets_planet_nir.py | To select the available Landsat-8 and NICFI PlanetScope data with the same centroid coordinates; split the data into training, validation and testing datasets; and generate a reference csv file with labels to test data fusion | fnet |
-|  |  |  populate_folder_all_detailed_landsat_sr_nir.py | To create a formatted data folder for NIR + RGB Landsat-8 (non-pansharpened, SR) data to train and test Cam-ForestNet using the steps in 'prepare_files'; split the data into training, validation and testing datasets; and generate a reference csv file with labels | fnet |
+|  |  |  intersections_between_splits.py | To check interesections between GFC polygons in different splits | data_split_env |
+|  |  |  check_intersection_within_split.py |  To check interesections between GFC polygons in the same split| data_split_env |
+|  |  |  split_min_distance_edges.py |  To split data in training, validation, testing datasets with a minimum distance of 100 m between the edges of GFC polygons (relaxing distance from 1 km) | data_split_env |
+|  |  |  val_5cv.py |  To split data in training and validation for 5 fold cross validation with a minimum distance of 100 m between the edges of GFC polygons | data_split_env |
+
 
 Data licenses
 ------
